@@ -1,0 +1,5401 @@
+Will i want?;Хочу ли я?
+I will not want.;Я не хочу
+I will want.;Я захочу.
+Do i want?;Я хочу?
+I don't want.;Я не хочу
+I want.;Я хочу.
+Did i want?;Я хотел?
+I didn't want.;Я не хотела
+I wanted.;Я хотел.
+Will you want?;Вы хотите?
+You will not want.;Вы не захотите.
+You will want.;Ты захочешь.
+Do you want?;Вы хотите?
+You don't want.;Ты не хочешь
+You want.;Ты хочешь.
+Did you want?;Ты хотел?
+You didn't want.;Вы не хотели.
+You wanted.;Вы хотели.
+Will we want?;Мы будем хотеть?
+We will not want.;Мы не будем хотеть.
+We will want.;Мы будем хотеть.
+Do we want?;Мы хотим?
+We don't want.;Мы не хотим.
+We want.;Мы хотим.
+Did we want?;Хотели ли мы?
+We didn't want.;Мы не хотели.
+We wanted.;Мы хотели.
+Will they want?;Будут ли они хотят?
+They will not want.;Они не захотят.
+They will want.;Они захотят.
+Do they want?;Они хотят?
+They don't want.;Они не хотят.
+They want.;Они хотят.
+Did they want?;Они хотели?
+They didn't want.;Они не хотели.
+They wanted.;Они хотели.
+Will he want?;Он захочет?
+He will not want.;Он не захочет.
+He will want.;Он захочет.
+Does he want?;Он хочет?
+He doesn't want.;Он не хочет
+He wantes.;Он хочет.
+Did he want?;Он хотел?
+He didn't want.;Он не хотел.
+He wanted.;Он хотел.
+Will she want?;Она захочет?
+She will not want.;Она не захочет.
+She will want.;Она захочет.
+Does she want?;Она хочет?
+She doesn't want.;Она не хочет
+She wantes.;Она хочет.
+Did she want?;Она хотела?
+She didn't want.;Она не хотела.
+She wanted.;Она хотела.
+Will i use?;Я буду использовать?
+I will not use.;Я не буду использовать.
+I will use.;Я использую.
+Do i use?;Я использую?
+I don't use.;Я не пользуюсь
+I use.;Я использую.
+Did i use?;Я использовал?
+I didn't use.;Я не использовал.
+I used.;Я использовал.
+Will you use?;Будешь ли ты использовать?
+You will not use.;Вы не будете использовать.
+You will use.;Вы будете использовать.
+Do you use?;Ты используешь?
+You don't use.;Вы не используете.
+You use.;Ты используешь.
+Did you use?;Ты использовал?
+You didn't use.;Вы не использовали.
+You used.;Ты использовал.
+Will we use?;Будем ли мы использовать?
+We will not use.;Мы не будем использовать.
+We will use.;Мы будем использовать.
+Do we use?;Мы используем?
+We don't use.;Мы не используем.
+We use.;Мы используем.
+Did we use?;Мы использовали?
+We didn't use.;Мы не использовали.
+We used.;Мы использовали.
+Will they use?;Будут ли они использовать?
+They will not use.;Они не будут использовать.
+They will use.;Они будут использовать.
+Do they use?;Они используют?
+They don't use.;Они не используют.
+They use.;Они используют.
+Did they use?;Они использовали?
+They didn't use.;Они не использовали.
+They used.;Они использовали.
+Will he use?;Будет ли он использовать?
+He will not use.;Он не будет использовать.
+He will use.;Он будет использовать.
+Does he use?;Он использует?
+He doesn't use.;Он не использует.
+He uses.;Он использует.
+Did he use?;Он использовал?
+He didn't use.;Он не использовал.
+He used.;Он использовал.
+Will she use?;Будет ли она использовать?
+She will not use.;Она не будет использовать.
+She will use.;Она будет использовать.
+Does she use?;Она использует?
+She doesn't use.;Она не использует.
+She uses.;Она использует.
+Did she use?;Она использовала?
+She didn't use.;Она не использовала.
+She used.;Она использовала.
+Will i work?;Я буду работать?
+I will not work.;Я не буду работать.
+I will work.;Я буду работать.
+Do i work?;Я работаю?
+I don't work.;Я не работаю
+I work.;Я работаю.
+Did i work?;Я работал?
+I didn't work.;Я не работал.
+I worked.;Я работал.
+Will you work?;Будешь работать?
+You will not work.;Вы не будете работать.
+You will work.;Ты будешь работать.
+Do you work?;Вы работаете?
+You don't work.;Ты не работаешь.
+You work.;Вы работаете.
+Did you work?;Вы работали?
+You didn't work.;Ты не работал.
+You worked.;Ты работал.
+Will we work?;Мы будем работать?
+We will not work.;Мы не будем работать.
+We will work.;Мы будем работать.
+Do we work?;Мы работаем?
+We don't work.;Мы не работаем
+We work.;Мы работаем.
+Did we work?;Мы работали?
+We didn't work.;Мы не работали.
+We worked.;Мы работали.
+Will they work?;Будут ли они работать?
+They will not work.;Они не будут работать.
+They will work.;Они будут работать
+Do they work?;Они работают?
+They don't work.;Они не работают
+They work.;Они работают.
+Did they work?;Они работали?
+They didn't work.;Они не работали.
+They worked.;Они работали.
+Will he work?;Будет ли он работать?
+He will not work.;Он не будет работать.
+He will work.;Он будет работать
+Does he work?;Работает ли он?
+He doesn't work.;Он не работает
+He workes.;Он работает.
+Did he work?;Он работал?
+He didn't work.;Он не работал.
+He worked.;Он работал.
+Will she work?;Будет ли она работать?
+She will not work.;Она не будет работать.
+She will work.;Она будет работать
+Does she work?;Она работает?
+She doesn't work.;Она не работает
+She workes.;Она работает.
+Did she work?;Она работала?
+She didn't work.;Она не работала.
+She worked.;Она работала.
+Will i call?;Я позвоню?
+I will not call.;Я не буду звонить.
+I will call.;Я позвоню.
+Do i call?;Я звоню?
+I don't call.;Я не звоню.
+I call.;Я звоню.
+Did i call?;Я звонил?
+I didn't call.;Я не звонил.
+I  звонить.;Я звонить.
+Will you call?;Ты будешь звонить?
+You will not call.;Вы не будете звонить.
+You will call.;Ты позвонишь.
+Do you call?;Ты звонишь?
+You don't call.;Вы не звоните.
+You call.;Ты звонишь.
+Did you call?;Ты звонил?
+You didn't call.;Вы не звонили.
+You  звонить.;Вы звоните.
+Will we call?;Мы позвоним?
+We will not call.;Мы не будем звонить.
+We will call.;Мы позвоним.
+Do we call?;Мы звоним?
+We don't call.;Мы не звоним.
+We call.;Мы называем.
+Did we call?;Мы звонили?
+We didn't call.;Мы не звонили.
+We  звонить.;Мы звонить.
+Will they call?;Будут ли они звонить?
+They will not call.;Они не будут звонить.
+They will call.;Они позвонят.
+Do they call?;Они звонят?
+They don't call.;Они не звонят.
+They call.;Они звонят.
+Did they call?;Они звонили?
+They didn't call.;Они не звонили.
+They  звонить.;Они звонят.
+Will he call?;Он позвонит?
+He will not call.;Он не позвонит.
+He will call.;Он позвонит.
+Does he call?;Он звонит?
+He doesn't call.;Он не звонит.
+He calles.;Он звонит.
+Did he call?;Он звонил?
+He didn't call.;Он не звонил.
+He  звонить.;Он звонит.
+Will she call?;Она позвонит?
+She will not call.;Она не позвонит.
+She will call.;Она позвонит.
+Does she call?;Она звонит?
+She doesn't call.;Она не звонит.
+She calles.;Она звонит.
+Did she call?;Она звонила?
+She didn't call.;Она не звонила.
+She  звонить.;Она звонит.
+Will i try?;Я попробую?
+I will not try.;Я не буду пытаться.
+I will try.;Я попробую.
+Do i try?;Я пытаюсь?
+I don't try.;Я не пытаюсь
+I try.;Я попробую.
+Did i try?;Я пробовал?
+I didn't try.;Я не пытался.
+I tried.;Я старался.
+Will you try?;Ты попробуешь?
+You will not try.;Вы не будете пытаться.
+You will try.;Вы будете пытаться.
+Do you try?;Ты пробуешь?
+You don't try.;Вы не пытаетесь.
+You try.;Вы пытаетесь.
+Did you try?;Ты пробовал?
+You didn't try.;Вы не пытались.
+You tried.;Ты пытался.
+Will we try?;Мы попробуем?
+We will not try.;Мы не будем пытаться.
+We will try.;Мы попытаемся.
+Do we try?;Мы пытаемся?
+We don't try.;Мы не пытаемся.
+We try.;Мы стараемся.
+Did we try?;Мы пробовали?
+We didn't try.;Мы не пытались.
+We tried.;Мы пытались.
+Will they try?;Будут ли они пытаться?
+They will not try.;Они не будут пытаться.
+They will try.;Они попробуют.
+Do they try?;Они пытаются?
+They don't try.;Они не пытаются.
+They try.;Они пытались.
+Did they try?;Они пытались?
+They didn't try.;Они не пытались.
+They tried.;Они пытались.
+Will he try?;Будет ли он попробовать?
+He will not try.;Он не будет пытаться.
+He will try.;Он попробует.
+Does he try?;Он пытается?
+He doesn't try.;Он не пытается.
+He tres.;Он Трес.
+Did he try?;Он пытался?
+He didn't try.;Он не пытался.
+He tried.;Он пытался.
+Will she try?;Она попробует?
+She will not try.;Она не будет пытаться.
+She will try.;Она попробует.
+Does she try?;Она пытается?
+She doesn't try.;Она не пытается.
+She tres.;Она Трес.
+Did she try?;Она пыталась?
+She didn't try.;Она не пыталась.
+She tried.;Она пыталась.
+Will i ask?;Я спрошу?
+I will not ask.;Я не буду спрашивать.
+I will ask.;Я спрошу.
+Do i ask?;Я спрашиваю?
+I don't ask.;Я не спрашиваю
+I ask.;Я спрашиваю.
+Did i ask?;Я спросил?
+I didn't ask.;Я не спрашивал.
+I  спрашивать.;Я спрашивать.
+Will you ask?;Ты спросишь?
+You will not ask.;Вы не спросите.
+You will ask.;Вы спросите.
+Do you ask?;Ты спрашиваешь?
+You don't ask.;Вы не спрашиваете.
+You ask.;Ты спрашиваешь.
+Did you ask?;Ты спросил?
+You didn't ask.;Вы не спрашивали.
+You  спрашивать.;Вы спрашиваете.
+Will we ask?;Будем ли мы спрашивать?
+We will not ask.;Мы не будем спрашивать.
+We will ask.;Мы спросим.
+Do we ask?;Мы спрашиваем?
+We don't ask.;Мы не просим.
+We ask.;Мы просим.
+Did we ask?;Мы спрашивали?
+We didn't ask.;Мы не спрашивали.
+We  спрашивать.;Мы спрашивать.
+Will they ask?;Будут ли они спрашивать?
+They will not ask.;Они не будут спрашивать.
+They will ask.;Они спросят.
+Do they ask?;Они спрашивают?
+They don't ask.;Они не спрашивают.
+They ask.;Они спрашивают.
+Did they ask?;Они спрашивали?
+They didn't ask.;Они не спрашивали.
+They  спрашивать.;Они спрашивают.
+Will he ask?;Будет ли он спросить?
+He will not ask.;Он не спросит.
+He will ask.;Он спросит.
+Does he ask?;Он спрашивает?
+He doesn't ask.;Он не спрашивает.
+He askes.;Он спрашивает.
+Did he ask?;Он спросил?
+He didn't ask.;Он не спрашивал.
+He  спрашивать.;Он спрашивать.
+Will she ask?;Она спросит?
+She will not ask.;Она не спросит.
+She will ask.;Она спросит.
+Does she ask?;Она спрашивает?
+She doesn't ask.;Она не спрашивает.
+She askes.;Она спрашивает.
+Did she ask?;Она спросила?
+She didn't ask.;Она не спрашивала.
+She  спрашивать.;Она спрашивать.
+Will i need?;Понадобится ли мне?
+I will not need.;Я не буду нуждаться.
+I will need.;Мне понадобится.
+Do i need?;Нужно ли мне?
+I don't need.;Мне не нужно
+I need.;Я нуждаюсь.
+Did i need?;Мне нужно?
+I didn't need.;Мне не нужно
+I needed.;Мне было нужно.
+Will you need?;Вам понадобится?
+You will not need.;Вам не понадобится.
+You will need.;Тебе понадобится.
+Do you need?;Тебе нужно?
+You don't need.;Вам не нужно.
+You need.;Тебе нужно.
+Did you need?;Вам нужно?
+You didn't need.;Вам не нужно.
+You needed.;Тебе нужно было.
+Will we need?;Будем ли мы нужны?
+We will not need.;Нам не нужно будет.
+We will need.;Нам понадобится.
+Do we need?;Нам нужно?
+We don't need.;Нам не нужно.
+We need.;Нам нужно.
+Did we need?;Нужно ли нам?
+We didn't need.;Нам не нужно.
+We needed.;Нам нужно.
+Will they need?;Будут ли они нужны?
+They will not need.;Они не будут нужны.
+They will need.;Они будут нужны.
+Do they need?;Они нужны?
+They don't need.;Им не нужно.
+They need.;Им нужно.
+Did they need?;Они были нужны?
+They didn't need.;Им не нужно.
+They needed.;Они нужны.
+Will he need?;Он будет нужен?
+He will not need.;Он не понадобится.
+He will need.;Он понадобится
+Does he need?;Он нужен?
+He doesn't need.;Ему не нужно.
+He needes.;Он нуждается.
+Did he need?;Он нужен?
+He didn't need.;Ему не нужно.
+He needed.;Он нуждался.
+Will she need?;Она будет нужна?
+She will not need.;Она не понадобится.
+She will need.;Она понадобится
+Does she need?;Она нужна?
+She doesn't need.;Она не нуждается
+She needes.;Она нужна.
+Did she need?;Она нужна?
+She didn't need.;Она не нуждалась.
+She needed.;Она нужна.
+Will i seem?;Я покажу?
+I will not seem.;Я не буду казаться.
+I will seem.;Я покажу
+Do i seem?;Мне кажется?
+I don't seem.;Мне не кажется
+I seem.;Я, кажется.
+Did i seem?;Мне казалось?
+I didn't seem.;Я не казался.
+I seemed.;Мне показалось
+Will you seem?;Будешь казаться?
+You will not seem.;Вы не будете казаться.
+You will seem.;Вы будете казаться.
+Do you seem?;Ты кажешься?
+You don't seem.;Ты не выглядишь.
+You seem.;Ты кажешься.
+Did you seem?;Вы казались?
+You didn't seem.;Вы не казались.
+You seemed.;Вы, казалось.
+Will we seem?;Будем ли мы казаться?
+We will not seem.;Мы не будем казаться.
+We will seem.;Мы покажемся
+Do we seem?;Мы кажемся?
+We don't seem.;Нам не кажется.
+We seem.;Нам кажется.
+Did we seem?;Мы казались?
+We didn't seem.;Мы не казались.
+We seemed.;Мы казались.
+Will they seem?;Будут ли они казаться?
+They will not seem.;Они не будут казаться.
+They will seem.;Они будут казаться.
+Do they seem?;Они кажутся?
+They don't seem.;Они не кажутся.
+They seem.;Они кажутся.
+Did they seem?;Они казались?
+They didn't seem.;Они не казались.
+They seemed.;Они казались.
+Will he seem?;Будет ли он казаться?
+He will not seem.;Он не будет казаться.
+He will seem.;Он покажется
+Does he seem?;Кажется ли он?
+He doesn't seem.;Он не кажется
+He seemes.;Он кажется.
+Did he seem?;Он казался?
+He didn't seem.;Он не казался.
+He seemed.;Он казался.
+Will she seem?;Будет ли она казаться?
+She will not seem.;Она не будет казаться.
+She will seem.;Она покажется
+Does she seem?;Кажется ли она?
+She doesn't seem.;Она не кажется
+She seemes.;Она кажется.
+Did she seem?;Она казалась?
+She didn't seem.;Она не казалась.
+She seemed.;Она казалась
+Will i help?;Я помогу?
+I will not help.;Я не помогу
+I will help.;Я помогу.
+Do i help?;Я помогу?
+I don't help.;Я не помогаю
+I help.;Я помогаю.
+Did i help?;Я помог?
+I didn't help.;Я не помог
+I helped.;Я помог.
+Will you help?;Ты поможешь?
+You will not help.;Ты не поможешь.
+You will help.;Вы поможете
+Do you help?;Ты поможешь?
+You don't help.;Ты не помогаешь.
+You help.;Вы поможете.
+Did you help?;Ты помог?
+You didn't help.;Ты не помог.
+You helped.;Вы помогли
+Will we help?;Мы поможем?
+We will not help.;Мы не поможем.
+We will help.;Мы поможем
+Do we help?;Мы помогаем?
+We don't help.;Мы не помогаем
+We help.;Мы поможем.
+Did we help?;Мы помогли?
+We didn't help.;Мы не помогли.
+We helped.;Мы помогли
+Will they help?;Они помогут?
+They will not help.;Они не помогут.
+They will help.;Они помогут
+Do they help?;Они помогают?
+They don't help.;Они не помогают
+They help.;Они помогают.
+Did they help?;Они помогли?
+They didn't help.;Они не помогли.
+They helped.;Они помогли.
+Will he help?;Он поможет?
+He will not help.;Он не поможет.
+He will help.;Он поможет
+Does he help?;Он помогает?
+He doesn't help.;Он не помогает
+He helpes.;Он помогает.
+Did he help?;Он помог?
+He didn't help.;Он не помог.
+He helped.;Он помог.
+Will she help?;Она поможет?
+She will not help.;Она не поможет
+She will help.;Она поможет
+Does she help?;Она помогает?
+She doesn't help.;Она не помогает
+She helpes.;Она помогает.
+Did she help?;Она помогла?
+She didn't help.;Она не помогла.
+She helped.;Она помогла.
+Will i show?;Я покажу?
+I will not show.;Не покажу.
+I will show.;Я покажу.
+Do i show?;Я покажу?
+I don't show.;Я не показываю
+I show.;Я показываю.
+Did i show?;Я показывал?
+I didn't show.;Я не показывал.
+I showed.;Я показал.
+Will you show?;Ты покажешь?
+You will not show.;Вы не будете показывать.
+You will show.;Ты покажешь.
+Do you show?;Ты показываешь?
+You don't show.;Вы не показываете.
+You show.;Вы показываете.
+Did you show?;Ты показывал?
+You didn't show.;Вы не показали.
+You showed.;Вы показали.
+Will we show?;Мы покажем?
+We will not show.;Мы не будем показывать.
+We will show.;Мы покажем.
+Do we show?;Мы показываем?
+We don't show.;Мы не показываем.
+We show.;Мы показываем.
+Did we show?;Мы показали?
+We didn't show.;Мы не показывали.
+We showed.;Мы показали.
+Will they show?;Они покажут?
+They will not show.;Они не будут показывать.
+They will show.;Они покажут.
+Do they show?;Они показывают?
+They don't show.;Они не показывают.
+They show.;Они показывают.
+Did they show?;Они показали?
+They didn't show.;Они не показывали.
+They showed.;Они показали.
+Will he show?;Он покажет?
+He will not show.;Он не покажет.
+He will show.;Он покажет.
+Does he show?;Он показывает?
+He doesn't show.;Он не показывает.
+He showes.;Он показывает.
+Did he show?;Он показал?
+He didn't show.;Он не показывался.
+He showed.;Он показал.
+Will she show?;Она покажет?
+She will not show.;Она не покажет.
+She will show.;Она покажет.
+Does she show?;Она показывает?
+She doesn't show.;Она не показывает
+She showes.;Она показывает.
+Did she show?;Она показала?
+She didn't show.;Она не показывала.
+She showed.;Она показала.
+Will i play?;Я буду играть?
+I will not play.;Я не буду играть.
+I will play.;Я буду играть.
+Do i play?;Я играю?
+I don't play.;Я не играю
+I play.;Я играю.
+Did i play?;Я играл?
+I didn't play.;Я не играл.
+I played.;Я играл.
+Will you play?;Будешь играть?
+You will not play.;Вы не будете играть.
+You will play.;Вы будете играть.
+Do you play?;Ты играешь?
+You don't play.;Ты не играешь.
+You play.;Ты играешь.
+Did you play?;Ты играл?
+You didn't play.;Ты не играл.
+You played.;Ты играл.
+Will we play?;Мы будем играть?
+We will not play.;Мы не будем играть.
+We will play.;Мы сыграем.
+Do we play?;Мы играем?
+We don't play.;Мы не играем.
+We play.;Мы играем.
+Did we play?;Мы играли?
+We didn't play.;Мы не играли.
+We played.;Мы играли.
+Will they play?;Будут ли они играть?
+They will not play.;Они не будут играть.
+They will play.;Они будут играть.
+Do they play?;Они играют?
+They don't play.;Они не играют.
+They play.;Они играют.
+Did they play?;Они играли?
+They didn't play.;Они не играли.
+They played.;Они играли.
+Will he play?;Будет ли он играть?
+He will not play.;Он не будет играть.
+He will play.;Он будет играть
+Does he play?;Он играет?
+He doesn't play.;Он не играет.
+He plaes.;Он плачет.
+Did he play?;Он играл?
+He didn't play.;Он не играл.
+He played.;Он играл.
+Will she play?;Будет ли она играть?
+She will not play.;Она не будет играть.
+She will play.;Она будет играть
+Does she play?;Она играет?
+She doesn't play.;Она не играет
+She plaes.;Она плац
+Did she play?;Она играла?
+She didn't play.;Она не играла.
+She played.;Она играла.
+Will i move?;Я перееду?
+I will not move.;Я не буду двигаться.
+I will move.;Я буду двигаться.
+Do i move?;Я двигаюсь?
+I don't move.;Я не двигаюсь.
+I move.;Я двигаюсь.
+Did i move?;Я переехал?
+I didn't move.;Я не двигался.
+I moved.;Я переехал.
+Will you move?;Вы будете двигаться?
+You will not move.;Вы не будете двигаться.
+You will move.;Вы будете двигаться.
+Do you move?;Ты двигаешься?
+You don't move.;Вы не двигаетесь.
+You move.;Вы двигаетесь.
+Did you move?;Вы переехали?
+You didn't move.;Вы не двигались.
+You moved.;Вы переехали.
+Will we move?;Будем ли мы двигаться?
+We will not move.;Мы не будем двигаться.
+We will move.;Мы будем двигаться.
+Do we move?;Мы двигаемся?
+We don't move.;Мы не двигаемся.
+We move.;Мы движемся.
+Did we move?;Мы переехали?
+We didn't move.;Мы не двигались.
+We moved.;Мы переехали.
+Will they move?;Будут ли они двигаться?
+They will not move.;Они не будут двигаться.
+They will move.;Они будут двигаться.
+Do they move?;Они двигаются?
+They don't move.;Они не двигаются.
+They move.;Они двигаются.
+Did they move?;Они двигались?
+They didn't move.;Они не двигались.
+They moved.;Они переехали.
+Will he move?;Будет ли он двигаться?
+He will not move.;Он не будет двигаться.
+He will move.;Он будет двигаться.
+Does he move?;Он двигается?
+He doesn't move.;Он не двигается.
+He moves.;Он двигается.
+Did he move?;Он двигался?
+He didn't move.;Он не двигался.
+He moved.;Он переехал.
+Will she move?;Будет ли она двигаться?
+She will not move.;Она не будет двигаться.
+She will move.;Она будет двигаться.
+Does she move?;Она двигается?
+She doesn't move.;Она не двигается.
+She moves.;Она двигается
+Did she move?;Она двигалась?
+She didn't move.;Она не двигалась.
+She moved.;Она переехала.
+Will i live?;Буду ли я жить?
+I will not live.;Я не буду жить.
+I will live.;Я буду жить.
+Do i live?;Я живу?
+I don't live.;Я не живу
+I live.;Я живу.
+Did i live?;Я жил?
+I didn't live.;Я не жил.
+I lived.;Я жил.
+Will you live?;Ты будешь жить?
+You will not live.;Вы не будете жить.
+You will live.;Вы будете жить.
+Do you live?;Ты живешь?
+You don't live.;Ты не живешь.
+You live.;Вы живете.
+Did you live?;Ты жил?
+You didn't live.;Ты не жил.
+You lived.;Ты жИл.
+Will we live?;Будем ли мы жить?
+We will not live.;Мы не будем жить.
+We will live.;Мы будем жить
+Do we live?;Мы живем?
+We don't live.;Мы не живем
+We live.;Мы живем.
+Did we live?;Мы жили?
+We didn't live.;Мы не жили.
+We lived.;Мы жили.
+Will they live?;Будут ли они жить?
+They will not live.;Они не будут жить.
+They will live.;Они будут жить.
+Do they live?;Они живут?
+They don't live.;Они не живут
+They live.;Они живут.
+Did they live?;Они жили?
+They didn't live.;Они не жили.
+They lived.;Они жили.
+Will he live?;Будет ли он жить?
+He will not live.;Он не будет жить.
+He will live.;Он будет жить
+Does he live?;Он живет?
+He doesn't live.;Он не живет
+He lives.;Он живет.
+Did he live?;Он жил?
+He didn't live.;Он не жил.
+He lived.;Он жил.
+Will she live?;Будет ли она жить?
+She will not live.;Она не будет жить.
+She will live.;Она будет жить
+Does she live?;Она живет?
+She doesn't live.;Она не живет
+She lives.;Она живет.
+Did she live?;Она жила?
+She didn't live.;Она не жила.
+She lived.;Она жила.
+Will i believe?;Буду ли я верить?
+I will not believe.;Я не поверю.
+I will believe.;Я буду верить
+Do i believe?;Я верю?
+I don't believe.;Я не верю
+I believe.;Я считаю.
+Did i believe?;Я верил?
+I didn't believe.;Я не верила
+I believed.;Я верил.
+Will you believe?;Ты поверишь?
+You will not believe.;Вы не поверите.
+You will believe.;Вы будете верить.
+Do you believe?;Ты веришь?
+You don't believe.;Вы не верите.
+You believe.;Ты веришь.
+Did you believe?;Ты верил?
+You didn't believe.;Ты не верил.
+You believed.;Вы верили.
+Will we believe?;Будем ли мы верить?
+We will not believe.;Мы не будем верить.
+We will believe.;Мы будем верить.
+Do we believe?;Мы верим?
+We don't believe.;Мы не верим.
+We believe.;Мы верим
+Did we believe?;Мы верили?
+We didn't believe.;Мы не верили.
+We believed.;Мы верили.
+Will they believe?;Будут ли они верить?
+They will not believe.;Они не поверят.
+They will believe.;Они поверят.
+Do they believe?;Они верят?
+They don't believe.;Они не верят.
+They believe.;Они верят.
+Did they believe?;Они верили?
+They didn't believe.;Они не верили.
+They believed.;Они верили.
+Will he believe?;Он поверит?
+He will not believe.;Он не поверит.
+He will believe.;Он поверит.
+Does he believe?;Он верит?
+He doesn't believe.;Он не верит.
+He believes.;Он считает.
+Did he believe?;Он поверил?
+He didn't believe.;Он не верил.
+He believed.;Он верил.
+Will she believe?;Она поверит?
+She will not believe.;Она не поверит.
+She will believe.;Она поверит.
+Does she believe?;Она верит?
+She doesn't believe.;Она не верит.
+She believes.;Она верит.
+Did she believe?;Она поверила?
+She didn't believe.;Она не верила.
+She believed.;Она верила.
+Will i happen?;Случится ли я?
+I will not happen.;Я не произойдет.
+I will happen.;Я буду
+Do i happen?;Должен ли я случиться?
+I don't happen.;Не бывает
+I happen.;Я случилось
+Did i happen?;Я случился?
+I didn't happen.;Я не случилось
+I happened.;Я случилось
+Will you happen?;Вы случитесь?
+You will not happen.;Тебя не случится.
+You will happen.;Вы случитесь.
+Do you happen?;Вы, случайно?
+You don't happen.;Тебя не бывает.
+You happen.;Вы случаетесь
+Did you happen?;Ты случилось?
+You didn't happen.;Тебя не случилось.
+You happened.;Вы случилось
+Will we happen?;Мы случимся?
+We will not happen.;Мы не случимся.
+We will happen.;Мы случимся
+Do we happen?;Мы случаемся?
+We don't happen.;У нас не бывает
+We happen.;У нас бывает
+Did we happen?;Мы случились?
+We didn't happen.;Мы не случилось.
+We happened.;У нас получилось
+Will they happen?;Они случатся?
+They will not happen.;Они не произойдут.
+They will happen.;Они будут происходить
+Do they happen?;Они случаются?
+They don't happen.;Они не случаются.
+They happen.;Они случаются
+Did they happen?;Они случились?
+They didn't happen.;Их не было
+They happened.;Они произошли
+Will he happen?;Будет ли он случиться?
+He will not happen.;Он не случится.
+He will happen.;Он случится
+Does he happen?;Он случается?
+He doesn't happen.;Он не бывает
+He happenes.;Он случается.
+Did he happen?;Он случился?
+He didn't happen.;Он не случился.
+He happened.;Он случился
+Will she happen?;Она случится?
+She will not happen.;Она не случится.
+She will happen.;Она случится
+Does she happen?;Она случилась?
+She doesn't happen.;Она не бывает
+She happenes.;Она бывает.
+Did she happen?;Она случилась?
+She didn't happen.;Она не произошла.
+She happened.;Она случилась.
+Will i include?;Я включу?
+I will not include.;Я не буду включать.
+I will include.;Я включу.
+Do i include?;Я включаю?
+I don't include.;Я не включаю.
+I include.;Я включаю.
+Did i include?;Я включил?
+I didn't include.;Я не включил.
+I included.;Я включен.
+Will you include?;Будете ли вы включать?
+You will not include.;Вы не будете включать.
+You will include.;Вы будете включать.
+Do you include?;Вы включаете?
+You don't include.;Вы не включаете.
+You include.;Вы включаете.
+Did you include?;Вы включили?
+You didn't include.;Вы не включили.
+You included.;Вы включены.
+Will we include?;Будем ли мы включать?
+We will not include.;Мы не будем включать.
+We will include.;Мы будем включать.
+Do we include?;Мы включаем?
+We don't include.;Мы не включаем.
+We include.;Мы включаем.
+Did we include?;Мы включили?
+We didn't include.;Мы не включили.
+We included.;Мы включены.
+Will they include?;Будут ли они включать?
+They will not include.;Они не будут включать.
+They will include.;Они будут включать.
+Do they include?;Они включают?
+They don't include.;Они не включают.
+They include.;Они включают.
+Did they include?;Они включали?
+They didn't include.;Они не включали.
+They included.;Они включены.
+Will he include?;Будет ли он включать?
+He will not include.;Он не будет включать.
+He will include.;Он будет включать.
+Does he include?;Он включает?
+He doesn't include.;Он не включает.
+He includes.;Он включает.
+Did he include?;Он включил?
+He didn't include.;Он не включал.
+He included.;Он включен.
+Will she include?;Будет ли она включать?
+She will not include.;Она не будет включать.
+She will include.;Она будет включать.
+Does she include?;Она включает?
+She doesn't include.;Она не включает.
+She includes.;Она включает.
+Did she include?;Она включала?
+She didn't include.;Она не включала.
+She included.;Она включена.
+Will i continue?;Буду ли я продолжать?
+I will not continue.;Я не буду продолжать.
+I will continue.;Я продолжу.
+Do i continue?;Я продолжаю?
+I don't continue.;Я не продолжаю.
+I continue.;Я продолжаю.
+Did i continue?;Я продолжил?
+I didn't continue.;Я не продолжил.
+I continued.;Я продолжил.
+Will you continue?;Вы продолжите?
+You will not continue.;Вы не будете продолжать.
+You will continue.;Вы будете продолжать.
+Do you continue?;Вы продолжаете?
+You don't continue.;Вы не продолжаете.
+You continue.;Ты продолжай.
+Did you continue?;Вы продолжили?
+You didn't continue.;Вы не продолжили.
+You continued.;Вы продолжили.
+Will we continue?;Будем ли мы продолжать?
+We will not continue.;Мы не будем продолжать.
+We will continue.;Мы продолжим.
+Do we continue?;Продолжаем ли мы?
+We don't continue.;Мы не продолжаем.
+We continue.;Мы продолжаем.
+Did we continue?;Мы продолжили?
+We didn't continue.;Мы не продолжили.
+We continued.;Мы продолжили.
+Will they continue?;Будут ли они продолжать?
+They will not continue.;Они не будут продолжаться.
+They will continue.;Они будут продолжаться.
+Do they continue?;Они продолжают?
+They don't continue.;Они не продолжаются.
+They continue.;Они продолжаются.
+Did they continue?;Они продолжали?
+They didn't continue.;Они не продолжили.
+They continued.;Они продолжили.
+Will he continue?;Будет ли он продолжать?
+He will not continue.;Он не будет продолжать.
+He will continue.;Он продолжит.
+Does he continue?;Он продолжает?
+He doesn't continue.;Он не продолжает.
+He continues.;Он продолжает.
+Did he continue?;Он продолжил?
+He didn't continue.;Он не продолжил.
+He continued.;Он продолжил.
+Will she continue?;Она продолжит?
+She will not continue.;Она не продолжит.
+She will continue.;Она продолжит.
+Does she continue?;Она продолжает?
+She doesn't continue.;Она не продолжает.
+She continues.;Она продолжает.
+Did she continue?;Она продолжила?
+She didn't continue.;Она не продолжала.
+She continued.;Она продолжала.
+Will i learn?;Я буду учиться?
+I will not learn.;Я не буду учиться.
+I will learn.;Я выучу.
+Do i learn?;Я учусь?
+I don't learn.;Я не учусь
+I learn.;Я учу.
+Did i learn?;Я учился?
+I didn't learn.;Я не учился.
+I learnt / learned.;Я узнал / узнал.
+Will you learn?;Ты будешь учиться?
+You will not learn.;Вы не будете учиться.
+You will learn.;Ты выучишь.
+Do you learn?;Вы учитесь?
+You don't learn.;Вы не учитесь.
+You learn.;Ты учишь.
+Did you learn?;Ты учил?
+You didn't learn.;Ты не учился.
+You learnt / learned.;Вы узнали / узнали.
+Will we learn?;Будем ли мы учиться?
+We will not learn.;Мы не будем учиться.
+We will learn.;Мы узнаем.
+Do we learn?;Мы учимся?
+We don't learn.;Мы не учимся.
+We learn.;Мы учим.
+Did we learn?;Мы узнали?
+We didn't learn.;Мы не учились.
+We learnt / learned.;Мы узнали / узнали.
+Will they learn?;Будут ли они учиться?
+They will not learn.;Они не будут учиться.
+They will learn.;Они будут учиться.
+Do they learn?;Они учатся?
+They don't learn.;Они не учатся.
+They learn.;Они учатся.
+Did they learn?;Они учились?
+They didn't learn.;Они не учились.
+They learnt / learned.;Они учились / учились.
+Will he learn?;Будет ли он учиться?
+He will not learn.;Он не будет учиться.
+He will learn.;Он научится
+Does he learn?;Он учится?
+He doesn't learn.;Он не учится.
+He learnes.;Он учится
+Did he learn?;Он учился?
+He didn't learn.;Он не учился.
+He learnt / learned.;Он учился / учился.
+Will she learn?;Будет ли она учиться?
+She will not learn.;Она не будет учиться.
+She will learn.;Она научится
+Does she learn?;Она учится?
+She doesn't learn.;Она не учится.
+She learnes.;Она учится
+Did she learn?;Она научилась?
+She didn't learn.;Она не училась.
+She learnt / learned.;Она училась / училась.
+Will i change?;Я поменяюсь?
+I will not change.;Я не буду меняться.
+I will change.;Я изменюсь.
+Do i change?;Я изменяю?
+I don't change.;Я не меняюсь.
+I change.;Я меняю.
+Did i change?;Я изменился?
+I didn't change.;Я не изменился.
+I changed.;Я изменился.
+Will you change?;Будешь менять?
+You will not change.;Ты не изменишься.
+You will change.;Ты изменишься.
+Do you change?;Ты меняешь?
+You don't change.;Ты не меняешься.
+You change.;Вы меняете.
+Did you change?;Вы изменили?
+You didn't change.;Вы не изменились.
+You changed.;Ты изменился.
+Will we change?;Будем ли мы меняться?
+We will not change.;Мы не изменимся.
+We will change.;Мы изменим.
+Do we change?;Мы меняемся?
+We don't change.;Мы не меняемся.
+We change.;Мы меняемся.
+Did we change?;Мы изменились?
+We didn't change.;Мы не изменились.
+We changed.;Мы изменились.
+Will they change?;Они изменятся?
+They will not change.;Они не изменятся.
+They will change.;Они изменятся.
+Do they change?;Они меняются?
+They don't change.;Они не меняются.
+They change.;Они меняются.
+Did they change?;Они изменились?
+They didn't change.;Они не изменились.
+They changed.;Они изменились.
+Will he change?;Он изменится?
+He will not change.;Он не изменится.
+He will change.;Он изменится.
+Does he change?;Он меняется?
+He doesn't change.;Он не меняется.
+He changes.;Он меняется.
+Did he change?;Он изменился?
+He didn't change.;Он не изменился.
+He changed.;Он изменился.
+Will she change?;Она изменится?
+She will not change.;Она не изменится.
+She will change.;Она изменится.
+Does she change?;Она меняется?
+She doesn't change.;Она не меняется.
+She changes.;Она меняется.
+Did she change?;Она изменилась?
+She didn't change.;Она не изменилась.
+She changed.;Она изменилась.
+Will i lead?;Буду ли я вести?
+I will not lead.;Я не буду вести.
+I will lead.;Я буду вести.
+Do i lead?;Я веду?
+I don't lead.;Я не веду
+I lead.;Я веду.
+Did i lead?;Я вел?
+I didn't lead.;Я не вел
+I led.;Я привел.
+Will you lead?;Будешь ли ты вести?
+You will not lead.;Вы не будете вести.
+You will lead.;Вы будете вести.
+Do you lead?;Ты ведешь?
+You don't lead.;Ты не ведешь.
+You lead.;Ты ведешь.
+Did you lead?;Ты привел?
+You didn't lead.;Вы не вели
+You led.;Вы привели.
+Will we lead?;Будем ли мы вести?
+We will not lead.;Мы не будем вести.
+We will lead.;Мы будем вести.
+Do we lead?;Мы ведем?
+We don't lead.;Мы не ведем.
+We lead.;Мы ведем.
+Did we lead?;Мы привели?
+We didn't lead.;Мы не вели.
+We led.;Мы привели.
+Will they lead?;Будут ли они вести?
+They will not lead.;Они не приведут.
+They will lead.;Они поведут.
+Do they lead?;Они ведут?
+They don't lead.;Они не ведут.
+They lead.;Они ведут.
+Did they lead?;Они привели?
+They didn't lead.;Они не вели.
+They led.;Они привели.
+Will he lead?;Будет ли он вести?
+He will not lead.;Он не приведет.
+He will lead.;Он поведет.
+Does he lead?;Он ведет?
+He doesn't lead.;Он не ведет.
+He leades.;Он ведет.
+Did he lead?;Он вел?
+He didn't lead.;Он не вел.
+He led.;Он вел.
+Will she lead?;Будет ли она вести?
+She will not lead.;Она не приведет.
+She will lead.;Она поведет.
+Does she lead?;Она ведет?
+She doesn't lead.;Она не ведет.
+She leades.;Она ведет.
+Did she lead?;Она привела?
+She didn't lead.;Она не привела.
+She led.;Она привела.
+Will i watch?;Я посмотрю?
+I will not watch.;Я не буду смотреть.
+I will watch.;Я буду смотреть.
+Do i watch?;Я смотрю?
+I don't watch.;Я не смотрю
+I watch.;Я смотрю.
+Did i watch?;Я смотрел?
+I didn't watch.;Я не смотрел.
+I watched.;Я смотрел.
+Will you watch?;Будете ли вы смотреть?
+You will not watch.;Вы не будете смотреть.
+You will watch.;Вы будете смотреть.
+Do you watch?;Ты смотришь?
+You don't watch.;Ты не смотришь.
+You watch.;Ты смотришь.
+Did you watch?;Ты смотрел?
+You didn't watch.;Вы не смотрели.
+You watched.;Ты смотрел.
+Will we watch?;Будем ли мы смотреть?
+We will not watch.;Мы не будем смотреть.
+We will watch.;Мы будем смотреть.
+Do we watch?;Мы смотрим?
+We don't watch.;Мы не смотрим.
+We watch.;Мы смотрим.
+Did we watch?;Мы смотрели?
+We didn't watch.;Мы не смотрели.
+We watched.;Мы смотрели.
+Will they watch?;Будут ли они смотреть?
+They will not watch.;Они не будут смотреть.
+They will watch.;Они будут смотреть.
+Do they watch?;Они смотрят?
+They don't watch.;Они не смотрят.
+They watch.;Они смотрят.
+Did they watch?;Они смотрели?
+They didn't watch.;Они не смотрели.
+They watched.;Они смотрели.
+Will he watch?;Будет ли он смотреть?
+He will not watch.;Он не будет смотреть.
+He will watch.;Он будет смотреть.
+Does he watch?;Он смотрит?
+He doesn't watch.;Он не смотрит.
+He watches.;Он смотрит.
+Did he watch?;Он смотрел?
+He didn't watch.;Он не смотрел.
+He watched.;Он смотрел.
+Will she watch?;Будет ли она смотреть?
+She will not watch.;Она не будет смотреть.
+She will watch.;Она будет смотреть.
+Does she watch?;Она смотрит?
+She doesn't watch.;Она не смотрит.
+She watches.;Она смотрит.
+Did she watch?;Она смотрела?
+She didn't watch.;Она не смотрела.
+She watched.;Она смотрела.
+Will i follow?;Буду ли я следовать?
+I will not follow.;Я не буду следовать.
+I will follow.;Я подпишусь.
+Do i follow?;Я следую?
+I don't follow.;Я не следую
+I follow.;Я следую.
+Did i follow?;Я следовал?
+I didn't follow.;Я не последовал
+I followed.;Я последовал за.
+Will you follow?;Будете ли вы следовать?
+You will not follow.;Вы не будете следовать.
+You will follow.;Вы будете следовать.
+Do you follow?;Вы следите?
+You don't follow.;Вы не следуете
+You follow.;Вы выполните.
+Did you follow?;Вы следили?
+You didn't follow.;Вы не следили.
+You followed.;Вы следили.
+Will we follow?;Будем ли мы следовать?
+We will not follow.;Мы не будем следовать.
+We will follow.;Мы будем следовать.
+Do we follow?;Мы следуем?
+We don't follow.;Мы не следуем.
+We follow.;Мы следуем.
+Did we follow?;Мы следовали?
+We didn't follow.;Мы не последовали.
+We followed.;Мы следовали.
+Will they follow?;Будут ли они следовать?
+They will not follow.;Они не будут следовать.
+They will follow.;Они будут следовать.
+Do they follow?;Они следуют?
+They don't follow.;Они не следуют.
+They follow.;Они следуют.
+Did they follow?;Они следовали?
+They didn't follow.;Они не последовали.
+They followed.;Они последовали.
+Will he follow?;Будет ли он следовать?
+He will not follow.;Он не будет следовать.
+He will follow.;Он будет следовать.
+Does he follow?;Он следует?
+He doesn't follow.;Он не следует
+He followes.;Он следует.
+Did he follow?;Он следовал?
+He didn't follow.;Он не последовал.
+He followed.;Он последовал.
+Will she follow?;Будет ли она следовать?
+She will not follow.;Она не будет следовать.
+She will follow.;Она последует
+Does she follow?;Она следует?
+She doesn't follow.;Она не следует.
+She followes.;Она следует
+Did she follow?;Она следовала?
+She didn't follow.;Она не следовала.
+She followed.;Она последовала.
+Will i stop?;Я остановлюсь?
+I will not stop.;Я не остановлюсь.
+I will stop.;Я остановлюсь.
+Do i stop?;Я остановлюсь?
+I don't stop.;Я не останавливаюсь
+I stop.;Я остановился.
+Did i stop?;Я остановился?
+I didn't stop.;Я не остановился.
+I stopped.;Я остановился.
+Will you stop?;Ты остановишься?
+You will not stop.;Ты не остановишься.
+You will stop.;Вы остановитесь.
+Do you stop?;Вы останавливаетесь?
+You don't stop.;Вы не останавливаетесь.
+You stop.;Вы остановитесь.
+Did you stop?;Ты остановился?
+You didn't stop.;Вы не остановились.
+You stopped.;Вы остановились
+Will we stop?;Мы остановимся?
+We will not stop.;Мы не будем останавливаться.
+We will stop.;Мы остановимся
+Do we stop?;Мы остановимся?
+We don't stop.;Мы не останавливаемся.
+We stop.;Мы останавливаемся.
+Did we stop?;Мы остановились?
+We didn't stop.;Мы не остановились.
+We stopped.;Мы остановились.
+Will they stop?;Остановятся ли они?
+They will not stop.;Они не остановятся.
+They will stop.;Они остановятся.
+Do they stop?;Они останавливаются?
+They don't stop.;Они не останавливаются.
+They stop.;Они останавливаются
+Did they stop?;Они остановились?
+They didn't stop.;Они не остановились.
+They stopped.;Они остановились.
+Will he stop?;Он остановится?
+He will not stop.;Он не остановится.
+He will stop.;Он остановится
+Does he stop?;Он останавливается?
+He doesn't stop.;Он не останавливается.
+He stopes.;Он останавливается
+Did he stop?;Он остановился?
+He didn't stop.;Он не остановился.
+He stopped.;Он остановился.
+Will she stop?;Она остановится?
+She will not stop.;Она не остановится.
+She will stop.;Она остановится
+Does she stop?;Она останавливается?
+She doesn't stop.;Она не останавливается.
+She stopes.;Она останавливается
+Did she stop?;Она остановилась?
+She didn't stop.;Она не остановилась.
+She stopped.;Она остановилась
+Will i create?;Я буду создавать?
+I will not create.;Я не буду создавать.
+I will create.;Я создам.
+Do i create?;Я создаю?
+I don't create.;Я не создаю.
+I create.;Я создаю.
+Did i create?;Я создал?
+I didn't create.;Я не создал.
+I created.;Я создал.
+Will you create?;Вы будете создавать?
+You will not create.;Вы не будете создавать.
+You will create.;Вы создадите.
+Do you create?;Вы создаете?
+You don't create.;Вы не создаете.
+You create.;Вы создаете.
+Did you create?;Вы создали?
+You didn't create.;Вы не создали.
+You created.;Вы создали
+Will we create?;Будем ли мы создавать?
+We will not create.;Мы не будем создавать.
+We will create.;Мы будем создавать.
+Do we create?;Мы создаем?
+We don't create.;Мы не создаем.
+We create.;Мы создаем.
+Did we create?;Мы создали?
+We didn't create.;Мы не создавали.
+We created.;Мы создали.
+Will they create?;Будут ли они создавать?
+They will not create.;Они не будут создавать.
+They will create.;Они будут создавать.
+Do they create?;Они создают?
+They don't create.;Они не создают.
+They create.;Они создают.
+Did they create?;Они создали?
+They didn't create.;Они не создали.
+They created.;Они создали.
+Will he create?;Будет ли он создавать?
+He will not create.;Он не будет создавать.
+He will create.;Он создаст.
+Does he create?;Он создает?
+He doesn't create.;Он не создает.
+He creates.;Он создает.
+Did he create?;Он создал?
+He didn't create.;Он не создал.
+He created.;Он создал.
+Will she create?;Будет ли она создавать?
+She will not create.;Она не будет создавать.
+She will create.;Она создаст.
+Does she create?;Она создает?
+She doesn't create.;Она не создает.
+She creates.;Она творит.
+Did she create?;Она создала?
+She didn't create.;Она не создавала.
+She created.;Она создана.
+Will i open?;Я открою?
+I will not open.;Я не буду открывать.
+I will open.;Я раскрою.
+Do i open?;Я открываю?
+I don't open.;Я не открываю
+I open.;Я открываю.
+Did i open?;Я открыл?
+I didn't open.;Я не открылся.
+I opened.;Я открыл.
+Will you open?;Вы откроете?
+You will not open.;Вы не откроете.
+You will open.;Вы откроете.
+Do you open?;Ты открываешь?
+You don't open.;Вы не открываете.
+You open.;Вы откроете.
+Did you open?;Ты открыл?
+You didn't open.;Вы не открыли.
+You opened.;Вы открыли.
+Will we open?;Мы откроем?
+We will not open.;Мы не откроем.
+We will open.;Мы откроем.
+Do we open?;Мы открываем?
+We don't open.;Мы не открываем.
+We open.;Мы открыты.
+Did we open?;Мы открыли?
+We didn't open.;Мы не открылись.
+We opened.;Мы открыли.
+Will they open?;Они откроются?
+They will not open.;Они не откроются.
+They will open.;Они откроются.
+Do they open?;Они открываются?
+They don't open.;Они не открываются.
+They open.;Они открывают.
+Did they open?;Они открылись?
+They didn't open.;Они не открылись.
+They opened.;Они открылись.
+Will he open?;Он откроет?
+He will not open.;Он не откроется.
+He will open.;Он откроется.
+Does he open?;Он открывается?
+He doesn't open.;Он не открывается.
+He openes.;Он открывает.
+Did he open?;Он открыл?
+He didn't open.;Он не открылся.
+He opened.;Он открыл.
+Will she open?;Она откроется?
+She will not open.;Она не откроется.
+She will open.;Она откроется.
+Does she open?;Она открывается?
+She doesn't open.;Она не открывается.
+She openes.;Она открывает.
+Did she open?;Она открылась?
+She didn't open.;Она не открылась.
+She opened.;Она открыла.
+Will i walk?;Буду ли я ходить?
+I will not walk.;Я не буду ходить.
+I will walk.;Я пойду.
+Do i walk?;Я иду?
+I don't walk.;Я не хожу
+I walk.;Я иду пешком.
+Did i walk?;Я ходил?
+I didn't walk.;Я не ходил.
+I walked.;Я гулял.
+Will you walk?;Ты будешь гулять?
+You will not walk.;Вы не будете ходить.
+You will walk.;Ты будешь гулять
+Do you walk?;Ты ходишь?
+You don't walk.;Ты не ходишь.
+You walk.;Ты ходишь.
+Did you walk?;Ты ходил?
+You didn't walk.;Ты не ходил.
+You walked.;Ты гулял.
+Will we walk?;Мы будем гулять?
+We will not walk.;Мы не будем ходить.
+We will walk.;Мы будем гулять
+Do we walk?;Мы гуляем?
+We don't walk.;Мы не ходим.
+We walk.;Мы гуляем.
+Did we walk?;Мы гуляли?
+We didn't walk.;Мы не гуляли.
+We walked.;Мы шли.
+Will they walk?;Будут ли они ходить?
+They will not walk.;Они не будут ходить.
+They will walk.;Они будут ходить.
+Do they walk?;Они ходят?
+They don't walk.;Они не ходят.
+They walk.;Они идут.
+Did they walk?;Они ходили?
+They didn't walk.;Они не ходили.
+They walked.;Они гуляли.
+Will he walk?;Будет ли он ходить?
+He will not walk.;Он не будет ходить.
+He will walk.;Он будет ходить.
+Does he walk?;Он ходит?
+He doesn't walk.;Он не ходит.
+He walkes.;Он гуляет.
+Did he walk?;Он ходил?
+He didn't walk.;Он не ходил.
+He walked.;Он шел.
+Will she walk?;Будет ли она ходить?
+She will not walk.;Она не будет ходить.
+She will walk.;Она будет ходить
+Does she walk?;Она ходит?
+She doesn't walk.;Она не ходит
+She walkes.;Она гуляет.
+Did she walk?;Она ходила?
+She didn't walk.;Она не ходила.
+She walked.;Она гуляла.
+Will i offer?;Я предложу?
+I will not offer.;Я не буду предлагать.
+I will offer.;Я предложу.
+Do i offer?;Я предлагаю?
+I don't offer.;Я не предлагаю.
+I offer.;Я предлагаю.
+Did i offer?;Я предлагал?
+I didn't offer.;Я не предлагал.
+I offered.;Я предлагал.
+Will you offer?;Будешь предлагать?
+You will not offer.;Вы не будете предлагать.
+You will offer.;Вы предложите.
+Do you offer?;Вы предлагаете?
+You don't offer.;Вы не предлагаете.
+You offer.;Ты предлагаешь.
+Did you offer?;Ты предлагал?
+You didn't offer.;Вы не предлагали.
+You offered.;Вы предлагали.
+Will we offer?;Мы предложим?
+We will not offer.;Мы не будем предлагать.
+We will offer.;Мы предложим.
+Do we offer?;Мы предлагаем?
+We don't offer.;Мы не предлагаем.
+We offer.;Мы предлагаем.
+Did we offer?;Мы предлагали?
+We didn't offer.;Мы не предлагали.
+We offered.;Мы предложили.
+Will they offer?;Будут ли они предлагать?
+They will not offer.;Они не будут предлагать.
+They will offer.;Они предложат.
+Do they offer?;Они предлагают?
+They don't offer.;Они не предлагают.
+They offer.;Они предлагают.
+Did they offer?;Они предлагали?
+They didn't offer.;Они не предлагали.
+They offered.;Они предложили.
+Will he offer?;Он предложит?
+He will not offer.;Он не предложит.
+He will offer.;Он предложит.
+Does he offer?;Он предлагает?
+He doesn't offer.;Он не предлагает.
+He offeres.;Он предлагает.
+Did he offer?;Он предлагал?
+He didn't offer.;Он не предлагал.
+He offered.;Он предложил.
+Will she offer?;Она предложит?
+She will not offer.;Она не предложит.
+She will offer.;Она предложит.
+Does she offer?;Она предлагает?
+She doesn't offer.;Она не предлагает.
+She offeres.;Она предлагает.
+Did she offer?;Она предложила?
+She didn't offer.;Она не предложила.
+She offered.;Она предложила.
+Will i remember?;Я буду помнить?
+I will not remember.;Я не буду помнить
+I will remember.;Я буду помнить.
+Do i remember?;Я помню?
+I don't remember.;Я не помню
+I remember.;Я помню.
+Did i remember?;Я помню?
+I didn't remember.;Я не помню
+I remembered.;Я вспомнил.
+Will you remember?;Вы запомните?
+You will not remember.;Вы не будете помнить.
+You will remember.;Вы будете помнить
+Do you remember?;Ты помнишь?
+You don't remember.;Вы не помните.
+You remember.;Ты помнишь.
+Did you remember?;Не забыли ли вы?
+You didn't remember.;Вы не помнили.
+You remembered.;Ты запомнил.
+Will we remember?;Будем ли мы помнить?
+We will not remember.;Мы не будем помнить.
+We will remember.;Мы будем помнить.
+Do we remember?;Мы помним?
+We don't remember.;Мы не помним.
+We remember.;Мы помним.
+Did we remember?;Мы помнили?
+We didn't remember.;Мы не помнили.
+We remembered.;Мы вспомнили.
+Will they remember?;Будут ли они помнить?
+They will not remember.;Они не будут помнить.
+They will remember.;Они будут помнить.
+Do they remember?;Они помнят?
+They don't remember.;Они не помнят.
+They remember.;Они помнят.
+Did they remember?;Они помнили?
+They didn't remember.;Они не помнили.
+They remembered.;Они вспомнили.
+Will he remember?;Будет ли он помнить?
+He will not remember.;Он не будет помнить.
+He will remember.;Он запомнит.
+Does he remember?;Он помнит?
+He doesn't remember.;Он не помнит.
+He rememberes.;Он помнит.
+Did he remember?;Он помнил?
+He didn't remember.;Он не помнил.
+He remembered.;Он помнил.
+Will she remember?;Будет ли она помнить?
+She will not remember.;Она не будет помнить.
+She will remember.;Она будет помнить
+Does she remember?;Она помнит?
+She doesn't remember.;Она не помнит.
+She rememberes.;Она помнит.
+Did she remember?;Она помнила?
+She didn't remember.;Она не помнила.
+She remembered.;Она вспомнила.
+Will i consider?;Я рассмотрю?
+I will not consider.;Я не буду рассматривать.
+I will consider.;Я учту.
+Do i consider?;Я считаю?
+I don't consider.;Я не считаю
+I consider.;Я полагаю.
+Did i consider?;Я рассмотрел?
+I didn't consider.;Я не считал.
+I considered.;Я считал.
+Will you consider?;Будете ли вы рассмотреть?
+You will not consider.;Вы не будете считать.
+You will consider.;Вы рассмотрите.
+Do you consider?;Рассматриваете ли вы?
+You don't consider.;Вы не считаете.
+You consider.;Вы считаете.
+Did you consider?;Вы рассматривали?
+You didn't consider.;Вы не учли.
+You considered.;Вы считали.
+Will we consider?;Будем ли мы рассматривать?
+We will not consider.;Мы не будем рассматривать.
+We will consider.;Мы рассмотрим.
+Do we consider?;Мы считаем?
+We don't consider.;Мы не считаем.
+We consider.;Мы считаем.
+Did we consider?;Мы рассмотрели?
+We didn't consider.;Мы не рассматривали.
+We considered.;Мы рассмотрели.
+Will they consider?;Будут ли они рассматривать?
+They will not consider.;Они не будут рассматривать.
+They will consider.;Они рассмотрят.
+Do they consider?;Они считают?
+They don't consider.;Они не считают.
+They consider.;Они считают.
+Did they consider?;Они считали?
+They didn't consider.;Они не считали.
+They considered.;Они считали.
+Will he consider?;Будет ли он считать?
+He will not consider.;Он не будет рассматривать.
+He will consider.;Он рассмотрит.
+Does he consider?;Он считает?
+He doesn't consider.;Он не считает.
+He consideres.;Он считает.
+Did he consider?;Он считал?
+He didn't consider.;Он не считал.
+He considered.;Он считал.
+Will she consider?;Будет ли она рассмотреть?
+She will not consider.;Она не будет рассматривать.
+She will consider.;Она рассмотрит.
+Does she consider?;Она считает?
+She doesn't consider.;Она не считает.
+She consideres.;Она считает.
+Did she consider?;Она считала?
+She didn't consider.;Она не считала.
+She considered.;Она считается.
+Will i appear?;Я появлюсь?
+I will not appear.;Я не буду появляться.
+I will appear.;Я появлюсь.
+Do i appear?;Я появляюсь?
+I don't appear.;Я не появляюсь
+I appear.;Я появился.
+Did i appear?;Я появился?
+I didn't appear.;Я не появился
+I appeared.;Я появился
+Will you appear?;Вы появитесь?
+You will not appear.;Вы не появитесь.
+You will appear.;Вы появитесь.
+Do you appear?;Вы появляетесь?
+You don't appear.;Ты не появляешься.
+You appear.;Вы появляетесь.
+Did you appear?;Вы появились?
+You didn't appear.;Вы не появились
+You appeared.;Вы появились
+Will we appear?;Мы появимся?
+We will not appear.;Мы не появимся.
+We will appear.;Мы появимся.
+Do we appear?;Мы появляемся?
+We don't appear.;Мы не появляемся.
+We appear.;Мы появляемся.
+Did we appear?;Мы появились?
+We didn't appear.;Мы не появились.
+We appeared.;Мы появились.
+Will they appear?;Появятся ли они?
+They will not appear.;Они не появятся.
+They will appear.;Они появятся.
+Do they appear?;Они появляются?
+They don't appear.;Они не появляются.
+They appear.;Они появились.
+Did they appear?;Они появились?
+They didn't appear.;Они не появились.
+They appeared.;Они появились.
+Will he appear?;Он появится?
+He will not appear.;Он не появится.
+He will appear.;Он появится.
+Does he appear?;Он появляется?
+He doesn't appear.;Он не появляется
+He appeares.;Он появляется.
+Did he appear?;Он появился?
+He didn't appear.;Он не появился.
+He appeared.;Он появился.
+Will she appear?;Она появится?
+She will not appear.;Она не появится.
+She will appear.;Она появится.
+Does she appear?;Она появляется?
+She doesn't appear.;Она не появляется
+She appeares.;Она появляется
+Did she appear?;Она появилась?
+She didn't appear.;Она не появилась.
+She appeared.;Она появилась.
+Will i serve?;Я буду служить?
+I will not serve.;Я не буду служить.
+I will serve.;Я буду служить.
+Do i serve?;Я служу?
+I don't serve.;Я не служу.
+I serve.;Я подаю.
+Did i serve?;Я служил?
+I didn't serve.;Я не служил.
+I served.;Я служил
+Will you serve?;Будешь ли ты служить?
+You will not serve.;Вы не будете служить.
+You will serve.;Вы будете служить.
+Do you serve?;Вы служите?
+You don't serve.;Ты не служишь.
+You serve.;Вы служите.
+Did you serve?;Вы служили?
+You didn't serve.;Ты не служил.
+You served.;Вы служили.
+Will we serve?;Мы будем служить?
+We will not serve.;Мы не будем служить.
+We will serve.;Мы будем служить.
+Do we serve?;Мы служим?
+We don't serve.;Мы не служим.
+We serve.;Мы обслуживаем.
+Did we serve?;Мы служили?
+We didn't serve.;Мы не служили.
+We served.;Мы служили.
+Will they serve?;Будут ли они служить?
+They will not serve.;Они не будут служить.
+They will serve.;Они будут служить.
+Do they serve?;Они служат?
+They don't serve.;Они не служат.
+They serve.;Они служат.
+Did they serve?;Они служили?
+They didn't serve.;Они не служили.
+They served.;Они служили.
+Will he serve?;Будет ли он служить?
+He will not serve.;Он не будет служить.
+He will serve.;Он будет служить.
+Does he serve?;Он служит?
+He doesn't serve.;Он не служит.
+He serves.;Он служит.
+Did he serve?;Он служил?
+He didn't serve.;Он не служил.
+He served.;Он служил.
+Will she serve?;Будет ли она служить?
+She will not serve.;Она не будет служить.
+She will serve.;Она будет служить.
+Does she serve?;Она служит?
+She doesn't serve.;Она не служит.
+She serves.;Она служит.
+Did she serve?;Она служила?
+She didn't serve.;Она не служила.
+She served.;Она служила.
+Will i die?;Я умру?
+I will not die.;Я не умру.
+I will die.;Я умру.
+Do i die?;Я умру?
+I don't die.;Я не умираю
+I die.;Я умер.
+Did i die?;Я умер?
+I didn't die.;Я не умер
+I died.;Я умер.
+Will you die?;Ты умрешь?
+You will not die.;Ты не умрешь.
+You will die.;Ты умрешь.
+Do you die?;Ты умрешь?
+You don't die.;Ты не умрешь.
+You die.;Ты умрешь
+Did you die?;Ты умрешь?
+You didn't die.;Ты не умер.
+You died.;Вы умерли.
+Will we die?;Мы умрем?
+We will not die.;Мы не умрем.
+We will die.;Мы умрем.
+Do we die?;Мы умираем?
+We don't die.;Мы не умираем.
+We die.;Мы умрем.
+Did we die?;Мы умерли?
+We didn't die.;Мы не умерли.
+We died.;Мы умерли
+Will they die?;Они умрут?
+They will not die.;Они не умрут.
+They will die.;Они умрут.
+Do they die?;Они умирают?
+They don't die.;Они не умирают.
+They die.;Они умирают.
+Did they die?;Они умерли?
+They didn't die.;Они не умерли.
+They died.;Они умерли.
+Will he die?;Он умрет?
+He will not die.;Он не умрет.
+He will die.;Он умрет.
+Does he die?;Он умер?
+He doesn't die.;Он не умирает.
+He dies.;Он умирает.
+Did he die?;Он умер?
+He didn't die.;Он не умер.
+He died.;Он умер.
+Will she die?;Она умрет?
+She will not die.;Она не умрет.
+She will die.;Она умрет
+Does she die?;Она умерла?
+She doesn't die.;Она не умирает.
+She dies.;Она умирает.
+Did she die?;Она умерла?
+She didn't die.;Она не умерла.
+She died.;Она умерла.
+Will i stay?;Я останусь?
+I will not stay.;Я не останусь
+I will stay.;Я останусь.
+Do i stay?;Я остаюсь?
+I don't stay.;Я не остаюсь
+I stay.;Я остаюсь
+Did i stay?;Я остался?
+I didn't stay.;Я не остался.
+I stayed.;Я остался.
+Will you stay?;Ты останешься?
+You will not stay.;Вы не останетесь.
+You will stay.;Ты останешься.
+Do you stay?;Ты остаешься?
+You don't stay.;Вы не остаетесь
+You stay.;Вы остаетесь.
+Did you stay?;Ты остался?
+You didn't stay.;Вы не остались.
+You stayed.;Вы остались.
+Will we stay?;Мы останемся?
+We will not stay.;Мы не останемся.
+We will stay.;Мы останемся.
+Do we stay?;Мы остаемся?
+We don't stay.;Мы не остаемся.
+We stay.;Мы остаемся.
+Did we stay?;Мы остались?
+We didn't stay.;Мы не остались.
+We stayed.;Мы остались.
+Will they stay?;Останутся ли они?
+They will not stay.;Они не останутся.
+They will stay.;Они останутся.
+Do they stay?;Они остаются?
+They don't stay.;Они не остаются.
+They stay.;Они остаются.
+Did they stay?;Они остались?
+They didn't stay.;Они не остались.
+They stayed.;Они остались.
+Will he stay?;Он останется?
+He will not stay.;Он не останется.
+He will stay.;Он останется
+Does he stay?;Он остался?
+He doesn't stay.;Он не остается.
+He staes.;Он остается.
+Did he stay?;Он остался?
+He didn't stay.;Он не остался.
+He stayed.;Он остался.
+Will she stay?;Она останется?
+She will not stay.;Она не останется.
+She will stay.;Она останется
+Does she stay?;Она осталась?
+She doesn't stay.;Она не остается.
+She staes.;Она остается.
+Did she stay?;Она осталась?
+She didn't stay.;Она не осталась.
+She stayed.;Она осталась.
+Will i reach?;Я достигну?
+I will not reach.;Я не достигну.
+I will reach.;Я достигну.
+Do i reach?;Я достигну?
+I don't reach.;Я не достигаю
+I reach.;Я богат.
+Did i reach?;Я достиг?
+I didn't reach.;Я не достиг.
+I reached.;Я достиг.
+Will you reach?;Вы достигнете?
+You will not reach.;Вы не достигнете.
+You will reach.;Вы достигнете.
+Do you reach?;Вы достигаете?
+You don't reach.;Вы не достигли.
+You reach.;Ты достигаешь.
+Did you reach?;Вы достигли?
+You didn't reach.;Вы не достигли.
+You reached.;Вы достигли.
+Will we reach?;Дойдем ли мы?
+We will not reach.;Мы не достигнем.
+We will reach.;Мы достигнем.
+Do we reach?;Мы достигаем?
+We don't reach.;Мы не достигаем.
+We reach.;Мы достигаем.
+Did we reach?;Мы достигли?
+We didn't reach.;Мы не достигли.
+We reached.;Мы достигли.
+Will they reach?;Дойдут ли они?
+They will not reach.;Они не достигнут.
+They will reach.;Они дойдут.
+Do they reach?;Они достигают?
+They don't reach.;Они не достигают.
+They reach.;Они достигают.
+Did they reach?;Они достигли?
+They didn't reach.;Они не достигли.
+They reached.;Они достигли.
+Will he reach?;Достигнет ли он?
+He will not reach.;Он не достигнет.
+He will reach.;Он достигнет.
+Does he reach?;Достигает ли он?
+He doesn't reach.;Он не достигает.
+He reaches.;Он достигает.
+Did he reach?;Достиг ли он?
+He didn't reach.;Он не достиг.
+He reached.;Он достиг.
+Will she reach?;Дойдет ли она?
+She will not reach.;Она не достигнет.
+She will reach.;Она достигнет.
+Does she reach?;Она достигает?
+She doesn't reach.;Она не доходит.
+She reaches.;Она достигает.
+Did she reach?;Она достигла?
+She didn't reach.;Она не достигла.
+She reached.;Она достигла.
+Will i kill?;Я убью?
+I will not kill.;Я не буду убивать.
+I will kill.;Я убью.
+Do i kill?;Я убиваю?
+I don't kill.;Я не убиваю.
+I kill.;Я убиваю.
+Did i kill?;Я убил?
+I didn't kill.;Я не убивал.
+I killed.;Я убил.
+Will you kill?;Ты убьешь?
+You will not kill.;Ты не убьешь.
+You will kill.;Ты убьешь.
+Do you kill?;Ты убиваешь?
+You don't kill.;Ты не убиваешь.
+You kill.;Ты убиваешь.
+Did you kill?;Ты убил?
+You didn't kill.;Ты не убивал.
+You killed.;Ты убил.
+Will we kill?;Будем ли мы убивать?
+We will not kill.;Мы не будем убивать.
+We will kill.;Мы убьем.
+Do we kill?;Мы убиваем?
+We don't kill.;Мы не убиваем.
+We kill.;Мы убиваем.
+Did we kill?;Мы убили?
+We didn't kill.;Мы не убивали.
+We killed.;Мы убили.
+Will they kill?;Будут ли они убивать?
+They will not kill.;Они не будут убивать.
+They will kill.;Они убьют.
+Do they kill?;Они убивают?
+They don't kill.;Они не убивают.
+They kill.;Они убивают.
+Did they kill?;Они убили?
+They didn't kill.;Они не убивали.
+They killed.;Они убиты.
+Will he kill?;Он убьет?
+He will not kill.;Он не убьет.
+He will kill.;Он убьет.
+Does he kill?;Он убивает?
+He doesn't kill.;Он не убивает.
+He killes.;Он убивает.
+Did he kill?;Он убил?
+He didn't kill.;Он не убивал.
+He killed.;Он убил.
+Will she kill?;Она убьет?
+She will not kill.;Она не убьет.
+She will kill.;Она убьет.
+Does she kill?;Она убивает?
+She doesn't kill.;Она не убивает.
+She killes.;Она убивает.
+Did she kill?;Она убила?
+She didn't kill.;Она не убивала.
+She killed.;Она убила
+Will i raise?;Буду ли я поднять?
+I will not raise.;Я не буду поднимать.
+I will raise.;Я буду поднимать.
+Do i raise?;Я поднимаю?
+I don't raise.;Я не поднимаю.
+I raise.;Я поднимаю.
+Did i raise?;Я поднял?
+I didn't raise.;Я не поднял.
+I raised.;Я поднял.
+Will you raise?;Будете ли вы поднять?
+You will not raise.;Вы не будете поднимать.
+You will raise.;Вы поднимете.
+Do you raise?;Вы поднимаете?
+You don't raise.;Вы не поднимаете.
+You raise.;Вы поднимаете.
+Did you raise?;Вы подняли?
+You didn't raise.;Вы не подняли.
+You raised.;Вы подняли.
+Will we raise?;Будем ли мы поднять?
+We will not raise.;Мы не будем поднимать.
+We will raise.;Мы будем поднимать.
+Do we raise?;Мы поднимаем?
+We don't raise.;Мы не поднимаем.
+We raise.;Мы поднимаем.
+Did we raise?;Мы подняли?
+We didn't raise.;Мы не поднимали.
+We raised.;Мы подняли.
+Will they raise?;Будут ли они поднять?
+They will not raise.;Они не будут поднимать.
+They will raise.;Они будут поднимать.
+Do they raise?;Они поднимают?
+They don't raise.;Они не поднимают.
+They raise.;Они поднимают.
+Did they raise?;Они подняли?
+They didn't raise.;Они не подняли.
+They raised.;Они подняли.
+Will he raise?;Он поднимет?
+He will not raise.;Он не поднимет.
+He will raise.;Он поднимет.
+Does he raise?;Он поднимает?
+He doesn't raise.;Он не поднимает.
+He raises.;Он поднимает.
+Did he raise?;Он поднял?
+He didn't raise.;Он не поднял.
+He raised.;Он поднял.
+Will she raise?;Она поднимет?
+She will not raise.;Она не поднимет.
+She will raise.;Она поднимет.
+Does she raise?;Она поднимает?
+She doesn't raise.;Она не поднимает.
+She raises.;Она поднимает.
+Did she raise?;Она подняла?
+She didn't raise.;Она не поднимала.
+She raised.;Она подняла.
+Will i pass?;Я пройду?
+I will not pass.;Я не пройду.
+I will pass.;Я пройду.
+Do i pass?;Я передаю?
+I don't pass.;Я не прохожу
+I pass.;Я пропускаю.
+Did i pass?;Я прошел?
+I didn't pass.;Я не прошел.
+I passed.;Я прошел.
+Will you pass?;Вы пройдете?
+You will not pass.;Вы не пройдете.
+You will pass.;Вы пройдете.
+Do you pass?;Вы проходите?
+You don't pass.;Вы не проходите
+You pass.;Вы передаете.
+Did you pass?;Вы прошли?
+You didn't pass.;Вы не прошли.
+You passed.;Вы прошли.
+Will we pass?;Мы пройдем?
+We will not pass.;Мы не пройдем.
+We will pass.;Мы пройдем.
+Do we pass?;Мы проходим?
+We don't pass.;Мы не передаем.
+We pass.;Мы проходим
+Did we pass?;Мы прошли?
+We didn't pass.;Мы не прошли.
+We passed.;Мы прошли.
+Will they pass?;Они пройдут?
+They will not pass.;Они не пройдут.
+They will pass.;Они пройдут.
+Do they pass?;Они проходят?
+They don't pass.;Они не проходят.
+They pass.;Они проходят.
+Did they pass?;Они прошли?
+They didn't pass.;Они не прошли.
+They passed.;Они прошли.
+Will he pass?;Он пройдет?
+He will not pass.;Он не пройдет.
+He will pass.;Он пройдет.
+Does he pass?;Он проходит?
+He doesn't pass.;Он не проходит.
+He passes.;Он проходит.
+Did he pass?;Он прошел?
+He didn't pass.;Он не прошел.
+He passed.;Он прошел.
+Will she pass?;Она пройдет?
+She will not pass.;Она не пройдет.
+She will pass.;Она пройдет.
+Does she pass?;Она проходит?
+She doesn't pass.;Она не проходит.
+She passes.;Она проходит.
+Did she pass?;Она прошла?
+She didn't pass.;Она не прошла.
+She passed.;Она прошла.
+Will i decide?;Я решу?
+I will not decide.;Я не буду решать.
+I will decide.;Я решу
+Do i decide?;Я решаю?
+I don't decide.;Я не решаю
+I decide.;Я решил.
+Did i decide?;Я решил?
+I didn't decide.;Я не решил.
+I decided.;Я решил.
+Will you decide?;Вы решите?
+You will not decide.;Вы не будете решать.
+You will decide.;Тебе решать.
+Do you decide?;Вы решаете?
+You don't decide.;Вы не решаете.
+You decide.;Вам решать.
+Did you decide?;Вы решили?
+You didn't decide.;Вы не решили.
+You decided.;Ты решил.
+Will we decide?;Будем ли мы решать?
+We will not decide.;Мы не будем решать.
+We will decide.;Мы решим.
+Do we decide?;Мы решаем?
+We don't decide.;Мы не решаем.
+We decide.;Мы решаем.
+Did we decide?;Мы решили?
+We didn't decide.;Мы не решили.
+We decided.;Мы решили.
+Will they decide?;Будут ли они решать?
+They will not decide.;Они не будут решать.
+They will decide.;Они решат.
+Do they decide?;Они решают?
+They don't decide.;Они не решают.
+They decide.;Они решают.
+Did they decide?;Они решили?
+They didn't decide.;Они не решили.
+They decided.;Они решили.
+Will he decide?;Будет ли он решать?
+He will not decide.;Он не будет решать.
+He will decide.;Он решит.
+Does he decide?;Он решает?
+He doesn't decide.;Он не решает.
+He decides.;Он решает.
+Did he decide?;Он решил?
+He didn't decide.;Он не решил.
+He decided.;Он решил.
+Will she decide?;Она решит?
+She will not decide.;Она не решит.
+She will decide.;Она решит.
+Does she decide?;Она решает?
+She doesn't decide.;Она не решает.
+She decides.;Она решает.
+Did she decide?;Она решила?
+She didn't decide.;Она не решила.
+She decided.;Она решила.
+Will i return?;Я вернусь?
+I will not return.;Я не вернусь.
+I will return.;Я вернусь.
+Do i return?;Я вернусь?
+I don't return.;Я не вернусь
+I return.;Я возвращаюсь.
+Did i return?;Я вернулся?
+I didn't return.;Я не вернулся.
+I returned.;Я вернулся.
+Will you return?;Ты вернешься?
+You will not return.;Вы не вернетесь.
+You will return.;Вы вернетесь.
+Do you return?;Ты возвращаешься?
+You don't return.;Вы не вернетесь.
+You return.;Вы вернетесь.
+Did you return?;Ты вернулся?
+You didn't return.;Вы не вернулись.
+You returned.;Вы вернулись.
+Will we return?;Мы вернемся?
+We will not return.;Мы не вернемся.
+We will return.;Мы вернемся.
+Do we return?;Мы вернемся?
+We don't return.;Мы не вернемся.
+We return.;Мы возвращаем.
+Did we return?;Мы вернулись?
+We didn't return.;Мы не вернулись.
+We returned.;Мы вернулись.
+Will they return?;Они вернутся?
+They will not return.;Они не вернутся.
+They will return.;Они вернутся.
+Do they return?;Они возвращаются?
+They don't return.;Они не возвращаются.
+They return.;Они вернулись.
+Did they return?;Они вернулись?
+They didn't return.;Они не вернулись.
+They returned.;Они вернулись.
+Will he return?;Он вернется?
+He will not return.;Он не вернется.
+He will return.;Он вернется
+Does he return?;Он вернулся?
+He doesn't return.;Он не возвращается.
+He returnes.;Он возвращается.
+Did he return?;Он вернулся?
+He didn't return.;Он не вернулся.
+He returned.;Он вернулся.
+Will she return?;Она вернется?
+She will not return.;Она не вернется.
+She will return.;Она вернется
+Does she return?;Она вернулась?
+She doesn't return.;Она не возвращается.
+She returnes.;Она возвращается.
+Did she return?;Она вернулась?
+She didn't return.;Она не вернулась.
+She returned.;Она вернулась.
+Will i explain?;Я объясню?
+I will not explain.;Я не буду объяснять.
+I will explain.;Я объясню.
+Do i explain?;Я объясню?
+I don't explain.;Я не объясняю
+I explain.;Я объясняю.
+Did i explain?;Я объяснил?
+I didn't explain.;Я не объяснил.
+I explained.;Я объяснил.
+Will you explain?;Ты объяснишь?
+You will not explain.;Вы не будете объяснять.
+You will explain.;Вы объясните.
+Do you explain?;Вы объясняете?
+You don't explain.;Вы не объясняете.
+You explain.;Вы объясняете.
+Did you explain?;Вы объяснили?
+You didn't explain.;Вы не объяснили.
+You explained.;Вы объяснили.
+Will we explain?;Мы объясним?
+We will not explain.;Мы не будем объяснять.
+We will explain.;Мы объясним.
+Do we explain?;Мы объясняем?
+We don't explain.;Мы не объясняем.
+We explain.;Мы объясняем.
+Did we explain?;Мы объяснили?
+We didn't explain.;Мы не объяснили.
+We explained.;Мы объяснили.
+Will they explain?;Они объяснят?
+They will not explain.;Они не объяснят.
+They will explain.;Они объяснят.
+Do they explain?;Они объясняют?
+They don't explain.;Они не объясняют.
+They explain.;Они объясняют.
+Did they explain?;Они объяснили?
+They didn't explain.;Они не объяснили.
+They explained.;Они объяснили.
+Will he explain?;Он объяснит?
+He will not explain.;Он не объяснит.
+He will explain.;Он объяснит.
+Does he explain?;Он объясняет?
+He doesn't explain.;Он не объясняет.
+He explaines.;Он объясняет.
+Did he explain?;Он объяснил?
+He didn't explain.;Он не объяснил.
+He explained.;Он объяснил.
+Will she explain?;Она объяснит?
+She will not explain.;Она не объяснит.
+She will explain.;Она объяснит.
+Does she explain?;Она объясняет?
+She doesn't explain.;Она не объясняет.
+She explaines.;Она объясняет
+Did she explain?;Она объяснила?
+She didn't explain.;Она не объяснила.
+She explained.;Она объяснила.
+Will i hope?;Буду ли я надеяться?
+I will not hope.;Я не буду надеяться.
+I will hope.;Я буду надеяться.
+Do i hope?;Я надеюсь?
+I don't hope.;Я не надеюсь
+I hope.;Я надеюсь.
+Did i hope?;Я надеялся?
+I didn't hope.;Я не надеялся.
+I hoped.;Я надеялся.
+Will you hope?;Будете ли вы надеяться?
+You will not hope.;Вы не будете надеяться.
+You will hope.;Вы будете надеяться.
+Do you hope?;Ты надеешься?
+You don't hope.;Ты не надеешься.
+You hope.;Ты надеешься.
+Did you hope?;Ты надеялся?
+You didn't hope.;Ты не надеялся.
+You hoped.;Вы надеялись.
+Will we hope?;Будем ли мы надеяться?
+We will not hope.;Мы не будем надеяться.
+We will hope.;Будем надеяться.
+Do we hope?;Надеемся ли мы?
+We don't hope.;Мы не надеемся.
+We hope.;Мы надеемся.
+Did we hope?;Мы надеялись?
+We didn't hope.;Мы не надеялись.
+We hoped.;Мы надеялись.
+Will they hope?;Будут ли они надеяться?
+They will not hope.;Они не будут надеяться.
+They will hope.;Они будут надеяться.
+Do they hope?;Они надеются?
+They don't hope.;Они не надеются.
+They hope.;Они надеются.
+Did they hope?;Они надеялись?
+They didn't hope.;Они не надеялись.
+They hoped.;Они надеялись.
+Will he hope?;Будет ли он надеяться?
+He will not hope.;Он не будет надеяться.
+He will hope.;Он будет надеяться.
+Does he hope?;Он надеется?
+He doesn't hope.;Он не надеется.
+He hopes.;Он надеется.
+Did he hope?;Он надеялся?
+He didn't hope.;Он не надеялся.
+He hoped.;Он надеялся.
+Will she hope?;Будет ли она надеяться?
+She will not hope.;Она не будет надеяться.
+She will hope.;Она будет надеяться.
+Does she hope?;Она надеется?
+She doesn't hope.;Она не надеется.
+She hopes.;Она надеется.
+Did she hope?;Она надеялась?
+She didn't hope.;Она не надеялась.
+She hoped.;Она надеялась.
+Will i develop?;Буду ли я развиваться?
+I will not develop.;Я не буду развиваться.
+I will develop.;Я буду развиваться.
+Do i develop?;Я развиваюсь?
+I don't develop.;Я не развиваюсь.
+I develop.;Я развиваюсь.
+Did i develop?;Я развивался?
+I didn't develop.;Я не развивался.
+I developed.;Я разработал.
+Will you develop?;Будете ли вы развивать?
+You will not develop.;Вы не будете развиваться.
+You will develop.;Вы будете развиваться.
+Do you develop?;Вы развиваетесь?
+You don't develop.;Вы не развиваетесь.
+You develop.;Вы развиваетесь.
+Did you develop?;Вы развивались?
+You didn't develop.;Вы не развивались.
+You developed.;Вы разработали.
+Will we develop?;Будем ли мы развиваться?
+We will not develop.;Мы не будем развиваться.
+We will develop.;Будем развиваться.
+Do we develop?;Мы развиваемся?
+We don't develop.;Мы не развиваемся.
+We develop.;Мы развиваемся.
+Did we develop?;Мы развивались?
+We didn't develop.;Мы не развивались.
+We developed.;Мы разработали.
+Will they develop?;Будут ли они развиваться?
+They will not develop.;Они не будут развиваться.
+They will develop.;Они будут развиваться.
+Do they develop?;Они развиваются?
+They don't develop.;Они не развиваются.
+They develop.;Они развиваются.
+Did they develop?;Они развивались?
+They didn't develop.;Они не развивались.
+They developed.;Они разработали.
+Will he develop?;Будет ли он развиваться?
+He will not develop.;Он не будет развиваться.
+He will develop.;Он будет развиваться.
+Does he develop?;Он развивается?
+He doesn't develop.;Он не развивается.
+He developes.;Он развивается.
+Did he develop?;Он развивался?
+He didn't develop.;Он не развивался.
+He developed.;Он разработал.
+Will she develop?;Будет ли она развиваться?
+She will not develop.;Она не будет развиваться.
+She will develop.;Она будет развиваться.
+Does she develop?;Развивается ли она?
+She doesn't develop.;Она не развивается.
+She developes.;Она развивается.
+Did she develop?;Она развивалась?
+She didn't develop.;Она не развивалась.
+She developed.;Она разработала.
+Will i carry?;Буду ли я нести?
+I will not carry.;Я не буду нести.
+I will carry.;Я буду нести.
+Do i carry?;Я несу?
+I don't carry.;Я не ношу.
+I carry.;Я несу.
+Did i carry?;Я несла?
+I didn't carry.;Я не несла.
+I  нести.;Я нести.
+Will you carry?;Вы будете нести?
+You will not carry.;Вы не будете нести.
+You will carry.;Вы будете нести.
+Do you carry?;Вы несете?
+You don't carry.;Вы не несете.
+You carry.;Вы несете.
+Did you carry?;Ты нес?
+You didn't carry.;Вы не носили.
+You  нести.;Вы нести.
+Will we carry?;Будем ли мы нести?
+We will not carry.;Мы не будем нести.
+We will carry.;Мы будем нести.
+Do we carry?;Мы несем?
+We don't carry.;Мы не несем.
+We carry.;Мы несем.
+Did we carry?;Мы носили?
+We didn't carry.;Мы не носили.
+We  нести.;Мы нести.
+Will they carry?;Будут ли они нести?
+They will not carry.;Они не будут нести.
+They will carry.;Они будут нести.
+Do they carry?;Они несут?
+They don't carry.;Они не несут.
+They carry.;Они несут.
+Did they carry?;Они несли?
+They didn't carry.;Они не несут.
+They  нести.;Они нести.
+Will he carry?;Будет ли он нести?
+He will not carry.;Он не будет нести.
+He will carry.;Он будет нести.
+Does he carry?;Он несет?
+He doesn't carry.;Он не несет.
+He carres.;Он Carres.
+Did he carry?;Он нес?
+He didn't carry.;Он не нес.
+He  нести.;Он нести.
+Will she carry?;Будет ли она нести?
+She will not carry.;Она не будет нести.
+She will carry.;Она будет нести.
+Does she carry?;Она несет?
+She doesn't carry.;Она не носит.
+She carres.;Она Carres.
+Did she carry?;Она несла?
+She didn't carry.;Она не несла.
+She  нести.;Она нести.
+Will i receive?;Я получу?
+I will not receive.;Я не получу.
+I will receive.;Я получу.
+Do i receive?;Я получу?
+I don't receive.;Я не получаю.
+I receive.;Я получаю.
+Did i receive?;Я получил?
+I didn't receive.;Я не получил.
+I received.;Я получил.
+Will you receive?;Вы получите?
+You will not receive.;Вы не получите.
+You will receive.;Вы получите.
+Do you receive?;Вы получаете?
+You don't receive.;Вы не получаете.
+You receive.;Вы получите.
+Did you receive?;Ты получил?
+You didn't receive.;Вы не получили.
+You received.;Ты принят.
+Will we receive?;Мы получим?
+We will not receive.;Мы не получим.
+We will receive.;Мы получим.
+Do we receive?;Мы получаем?
+We don't receive.;Мы не получаем.
+We receive.;Мы получаем.
+Did we receive?;Мы получили?
+We didn't receive.;Мы не получили.
+We received.;Мы получили.
+Will they receive?;Они получат?
+They will not receive.;Они не получат.
+They will receive.;Они получат.
+Do they receive?;Они получают?
+They don't receive.;Они не получают.
+They receive.;Они получают.
+Did they receive?;Они получили?
+They didn't receive.;Они не получили.
+They received.;Они получили.
+Will he receive?;Он получит?
+He will not receive.;Он не получит.
+He will receive.;Он получит.
+Does he receive?;Он получает?
+He doesn't receive.;Он не получает.
+He receives.;Он получает.
+Did he receive?;Он получил?
+He didn't receive.;Он не получил.
+He received.;Он получил.
+Will she receive?;Она получит?
+She will not receive.;Она не получит.
+She will receive.;Она получит.
+Does she receive?;Она получает?
+She doesn't receive.;Она не получает.
+She receives.;Она получает.
+Did she receive?;Она получила?
+She didn't receive.;Она не получила.
+She received.;Она получила.
+Will i agree?;Согласен ли я?
+I will not agree.;Я не соглашусь
+I will agree.;Я соглашусь.
+Do i agree?;Я согласен?
+I don't agree.;Я не согласна
+I agree.;Согласен.
+Did i agree?;Я согласен?
+I didn't agree.;Я не согласен
+I agreed.;Я согласился.
+Will you agree?;Вы согласитесь?
+You will not agree.;Вы не согласитесь.
+You will agree.;Вы согласитесь.
+Do you agree?;Ты согласен?
+You don't agree.;Вы не согласны.
+You agree.;Вы согласны.
+Did you agree?;Вы согласились?
+You didn't agree.;Вы не согласны.
+You agreed.;Ты согласился.
+Will we agree?;Будем ли мы согласны?
+We will not agree.;Мы не согласимся.
+We will agree.;Мы согласимся.
+Do we agree?;Согласны ли мы?
+We don't agree.;Мы не согласны.
+We agree.;Мы согласны.
+Did we agree?;Мы согласились?
+We didn't agree.;Мы не согласились.
+We agreed.;Мы согласились.
+Will they agree?;Будут ли они согласны?
+They will not agree.;Они не согласятся.
+They will agree.;Они согласятся.
+Do they agree?;Они согласны?
+They don't agree.;Они не согласны.
+They agree.;Они согласны.
+Did they agree?;Они согласились?
+They didn't agree.;Они не согласились.
+They agreed.;Они согласились.
+Will he agree?;Он согласится?
+He will not agree.;Он не согласится.
+He will agree.;Он согласится.
+Does he agree?;Он согласен?
+He doesn't agree.;Он не согласен.
+He agrees.;Он согласен.
+Did he agree?;Он согласился?
+He didn't agree.;Он не согласен.
+He agreed.;Он согласился.
+Will she agree?;Она согласится?
+She will not agree.;Она не согласится.
+She will agree.;Она согласится.
+Does she agree?;Она согласна?
+She doesn't agree.;Она не согласна.
+She agrees.;Она соглашается.
+Did she agree?;Она согласилась?
+She didn't agree.;Она не согласилась.
+She agreed.;Она согласилась.
+Will i support?;Буду ли я поддерживать?
+I will not support.;Я не буду поддерживать.
+I will support.;Я буду поддерживать.
+Do i support?;Я поддерживаю?
+I don't support.;Я не поддерживаю
+I support.;Я поддерживаю.
+Did i support?;Я поддерживал?
+I didn't support.;Я не поддерживал.
+I supported.;Я поддержал.
+Will you support?;Будете ли вы поддерживать?
+You will not support.;Вы не будете поддерживать.
+You will support.;Вы будете поддерживать.
+Do you support?;Вы поддерживаете?
+You don't support.;Вы не поддерживаете.
+You support.;Вы поддерживаете.
+Did you support?;Вы поддерживали?
+You didn't support.;Вы не поддержали.
+You supported.;Вы поддержали.
+Will we support?;Будем ли мы поддерживать?
+We will not support.;Мы не будем поддерживать.
+We will support.;Мы будем поддерживать.
+Do we support?;Мы поддерживаем?
+We don't support.;Мы не поддерживаем.
+We support.;Мы поддерживаем.
+Did we support?;Мы поддержали?
+We didn't support.;Мы не поддержали.
+We supported.;Мы поддержали.
+Will they support?;Будут ли они поддерживать?
+They will not support.;Они не будут поддерживать.
+They will support.;Они поддержат.
+Do they support?;Они поддерживают?
+They don't support.;Они не поддерживают.
+They support.;Они поддерживают.
+Did they support?;Они поддержали?
+They didn't support.;Они не поддержали.
+They supported.;Они поддержали.
+Will he support?;Будет ли он поддерживать?
+He will not support.;Он не поддержит.
+He will support.;Он поддержит.
+Does he support?;Он поддерживает?
+He doesn't support.;Он не поддерживает.
+He supportes.;Он поддерживает.
+Did he support?;Он поддерживал?
+He didn't support.;Он не поддерживал.
+He supported.;Он поддержал.
+Will she support?;Она поддержит?
+She will not support.;Она не поддержит.
+She will support.;Она поддержит.
+Does she support?;Она поддерживает?
+She doesn't support.;Она не поддерживает.
+She supportes.;Она поддерживает.
+Did she support?;Она поддержала?
+She didn't support.;Она не поддержала.
+She supported.;Она поддержала.
+Will i produce?;Буду ли я производить?
+I will not produce.;Я не буду производить.
+I will produce.;Я буду производить.
+Do i produce?;Я делаю?
+I don't produce.;Я не продюсирую.
+I produce.;Я производлю.
+Did i produce?;Я продюсировал?
+I didn't produce.;Я не производил.
+I produced.;Я произвел.
+Will you produce?;Будете ли вы производить?
+You will not produce.;Вы не будете производить.
+You will produce.;Вы будете производить.
+Do you produce?;Вы производите?
+You don't produce.;Вы не производите.
+You produce.;Вы производите.
+Did you produce?;Вы продюсировали?
+You didn't produce.;Вы не производили.
+You produced.;Вы произвели.
+Will we produce?;Будем ли мы производить?
+We will not produce.;Мы не будем производить.
+We will produce.;Мы будем производить.
+Do we produce?;Мы производим?
+We don't produce.;Мы не производим.
+We produce.;Мы производим.
+Did we produce?;Мы производим?
+We didn't produce.;Мы не производили.
+We produced.;Мы произвели.
+Will they produce?;Будут ли они производить?
+They will not produce.;Они не будут производить.
+They will produce.;Они будут производить.
+Do they produce?;Они производят?
+They don't produce.;Они не производят.
+They produce.;Они производят.
+Did they produce?;Они производили?
+They didn't produce.;Они не производили.
+They produced.;Они произведены.
+Will he produce?;Будет ли он производить?
+He will not produce.;Он не будет производить.
+He will produce.;Он будет производить.
+Does he produce?;Он производит?
+He doesn't produce.;Он не производит.
+He produces.;Он производит.
+Did he produce?;Он продюсировал?
+He didn't produce.;Он не производил.
+He produced.;Он произвел.
+Will she produce?;Будет ли она производить?
+She will not produce.;Она не будет производить.
+She will produce.;Она будет производить.
+Does she produce?;Она производит?
+She doesn't produce.;Она не производит.
+She produces.;Она производит.
+Did she produce?;Она производила?
+She didn't produce.;Она не производила.
+She produced.;Она производится.
+Will i cover?;Я покрою?
+I will not cover.;Я не буду покрывать.
+I will cover.;Я покрою.
+Do i cover?;Я покрываю?
+I don't cover.;Я не покрываю
+I cover.;Я прикрываю.
+Did i cover?;Я покрывал?
+I didn't cover.;Я не покрывал.
+I covered.;Я накрыл.
+Will you cover?;Будете ли вы покрывать?
+You will not cover.;Вы не будете покрывать.
+You will cover.;Вы покроете.
+Do you cover?;Вы покрываете?
+You don't cover.;Вы не покрываете.
+You cover.;Вы прикрываете.
+Did you cover?;Вы покрывали?
+You didn't cover.;Вы не покрыли.
+You covered.;Вы покрыты.
+Will we cover?;Будем ли мы покрывать?
+We will not cover.;Мы не будем покрывать.
+We will cover.;Мы покроем.
+Do we cover?;Мы покрываем?
+We don't cover.;Мы не покрываем.
+We cover.;Мы покрываем.
+Did we cover?;Мы покрывали?
+We didn't cover.;Мы не покрывали.
+We covered.;Мы накрылись.
+Will they cover?;Будут ли они покрывать?
+They will not cover.;Они не будут покрывать.
+They will cover.;Они покроют.
+Do they cover?;Они покрывают?
+They don't cover.;Они не покрывают.
+They cover.;Они покрывают.
+Did they cover?;Они покрывали?
+They didn't cover.;Они не покрывали.
+They covered.;Они покрыты.
+Will he cover?;Будет ли он покрывать?
+He will not cover.;Он не покроет.
+He will cover.;Он покроет.
+Does he cover?;Он покрывает?
+He doesn't cover.;Он не покрывает.
+He coveres.;Он покрывает.
+Did he cover?;Он прикрыл?
+He didn't cover.;Он не прикрыл.
+He covered.;Он прикрыл.
+Will she cover?;Она покроет?
+She will not cover.;Она не покроет.
+She will cover.;Она покроет.
+Does she cover?;Она покрывает?
+She doesn't cover.;Она не покрывает.
+She coveres.;Она покрывает.
+Did she cover?;Она прикрыла?
+She didn't cover.;Она не покрывала.
+She covered.;Она покрыта.
+Will i be?;Я буду?
+I will not be.;Я не буду.
+I will be.;Я буду.
+Do i be?;Должен ли я быть?
+I don't be.;Я не буду
+I be.;Я буду.
+Did i be?;Я был?
+I didn't be.;Я не был
+I were.;Я был.
+Will you be?;Вы будете?
+You will not be.;Ты не будешь.
+You will be.;Ты будешь.
+Do you be?;Ты будешь?
+You don't be.;Ты не будешь.
+You be.;Ты будешь.
+Did you be?;Ты был?
+You didn't be.;Ты не был
+You were.;Ты был.
+Will we be?;Мы будем?
+We will not be.;Мы не будем.
+We will be.;Мы будем.
+Do we be?;Мы будем?
+We don't be.;Мы не будем.
+We be.;Мы будем.
+Did we be?;Мы были?
+We didn't be.;Мы не были.
+We were.;Мы были.
+Will they be?;Будут ли они?
+They will not be.;Их не будет.
+They will be.;Они будут.
+Do they be?;Они будут?
+They don't be.;Они не будут.
+They be.;Они будут.
+Did they be?;Они были?
+They didn't be.;Их не было.
+They were.;Они были.
+Will he be?;Он будет?
+He will not be.;Он не будет.
+He will be.;Он будет.
+Does he be?;Он есть?
+He doesn't be.;Он не будет.
+He bes.;Он бес.
+Did he be?;Он был?
+He didn't be.;Он не был.
+He were.;Он был.
+Will she be?;Будет ли она?
+She will not be.;Она не будет.
+She will be.;Она будет.
+Does she be?;Она есть?
+She doesn't be.;Она не будет.
+She bes.;Она бес.
+Did she be?;Она была?
+She didn't be.;Она не была.
+She were.;Она была.
+Will i have?;Буду ли я иметь?
+I will not have.;Я не буду иметь.
+I will have.;У меня будет.
+Do i have?;Должен ли я?
+I don't have.;Не имею
+I have.;Я имею.
+Did i have?;У меня есть?
+I didn't have.;У меня не было
+I had.;Я имел.
+Will you have?;Будешь иметь?
+You will not have.;Вы не будете иметь.
+You will have.;Вы будете иметь.
+Do you have?;У вас есть?
+You don't have.;У вас нет
+You have.;У тебя есть.
+Did you have?;У тебя есть?
+You didn't have.;У тебя не было
+You had.;У вас.
+Will we have?;Будем ли мы иметь?
+We will not have.;У нас не будет.
+We will have.;У нас будет.
+Do we have?;У нас есть?
+We don't have.;У нас нет.
+We have.;У нас есть.
+Did we have?;Были ли у нас?
+We didn't have.;У нас не было.
+We had.;Мы имеем.
+Will they have?;Будут ли они иметь?
+They will not have.;Они не будут иметь.
+They will have.;У них будет.
+Do they have?;Есть ли у них?
+They don't have.;Они не имеют.
+They have.;У них есть.
+Did they have?;Имели ли они?
+They didn't have.;У них не было.
+They had.;Они имели.
+Will he have?;Будет ли он иметь?
+He will not have.;Он не будет иметь.
+He will have.;У него будет.
+Does he have?;У него есть?
+He doesn't have.;Он не имеет.
+He haves.;Он имеет.
+Did he have?;Он имел?
+He didn't have.;Он не имел.
+He had.;Он имел.
+Will she have?;Будет ли она иметь?
+She will not have.;Она не будет иметь.
+She will have.;Она будет иметь.
+Does she have?;У нее есть?
+She doesn't have.;Она не имеет.
+She haves.;У нее есть.
+Did she have?;Она имела?
+She didn't have.;У нее не было.
+She had.;У нее был.
+Will i do?;Я сделаю?
+I will not do.;Я не буду делать.
+I will do.;Я сделаю.
+Do i do?;Я делаю?
+I don't do.;Я не делаю
+I do.;Я делаю.
+Did i do?;Я сделал?
+I didn't do.;Я не делал.
+I did.;Я сделал.
+Will you do?;Ты сделаешь?
+You will not do.;Вы не будете делать.
+You will do.;Вы будете делать.
+Do you do?;Вы делаете?
+You don't do.;Вы не делаете.
+You do.;Вы делаете.
+Did you do?;Ты сделал?
+You didn't do.;Вы не сделали.
+You did.;Ты сделал.
+Will we do?;Мы будем делать?
+We will not do.;Мы не будем делать.
+We will do.;Мы сделаем.
+Do we do?;Мы делаем?
+We don't do.;Мы не делаем.
+We do.;Мы делаем.
+Did we do?;Мы сделали?
+We didn't do.;Мы не делали.
+We did.;Мы сделали.
+Will they do?;Будут ли они делать?
+They will not do.;Они не будут делать.
+They will do.;Они сделают.
+Do they do?;Они делают?
+They don't do.;Они не делают.
+They do.;Они делают.
+Did they do?;Они сделали?
+They didn't do.;Они не сделали.
+They did.;Они сделали.
+Will he do?;Он будет делать?
+He will not do.;Он не будет делать.
+He will do.;Он сделает.
+Does he do?;Он делает?
+He doesn't do.;Он не делает.
+He dos.;Он дос.
+Did he do?;Он сделал?
+He didn't do.;Он не сделал.
+He did.;Он сделал.
+Will she do?;Будет ли она делать?
+She will not do.;Она не будет делать.
+She will do.;Она сделает.
+Does she do?;Она делает?
+She doesn't do.;Она не делает.
+She dos.;Она душ.
+Did she do?;Она сделала?
+She didn't do.;Она не сделала.
+She did.;Она сделала.
+Will i say?;Я скажу?
+I will not say.;Я не скажу.
+I will say.;Я скажу.
+Do i say?;Я говорю?
+I don't say.;Я не говорю
+I say.;Я говорю.
+Did i say?;Я сказал?
+I didn't say.;Я не сказал
+I said.;Я сказал.
+Will you say?;Ты скажешь?
+You will not say.;Вы не скажете.
+You will say.;Вы скажете.
+Do you say?;Вы говорите?
+You don't say.;Вы не говорите.
+You say.;Ты говоришь.
+Did you say?;Ты сказал?
+You didn't say.;Вы не сказали.
+You said.;Вы сказали.
+Will we say?;Будем ли мы говорить?
+We will not say.;Мы не будем говорить.
+We will say.;Мы скажем.
+Do we say?;Мы говорим?
+We don't say.;Мы не говорим.
+We say.;Мы говорим.
+Did we say?;Мы сказали?
+We didn't say.;Мы не сказали.
+We said.;Мы сказали.
+Will they say?;Будут ли они сказать?
+They will not say.;Они не скажут.
+They will say.;Они скажут.
+Do they say?;Они говорят?
+They don't say.;Они не говорят.
+They say.;Они говорят.
+Did they say?;Они сказали?
+They didn't say.;Они не сказали.
+They said.;Они сказали.
+Will he say?;Он скажет?
+He will not say.;Он не скажет.
+He will say.;Он скажет.
+Does he say?;Он говорит?
+He doesn't say.;Он не говорит.
+He saes.;Он saes.
+Did he say?;Он сказал?
+He didn't say.;Он не сказал.
+He said.;Он сказал.
+Will she say?;Она скажет?
+She will not say.;Она не скажет.
+She will say.;Она скажет.
+Does she say?;Она говорит?
+She doesn't say.;Она не говорит.
+She saes.;Она говорит.
+Did she say?;Она сказала?
+She didn't say.;Она не сказала.
+She said.;Она сказала.
+Will i go?;Я пойду?
+I will not go.;Я не буду вдаваться.
+I will go.;Я пойду.
+Do i go?;Я пойду?
+I don't go.;Я не хожу
+I go.;Я пошел.
+Did i go?;Я пошел?
+I didn't go.;Я не пошел
+I went.;Я пошел.
+Will you go?;Ты пойдешь?
+You will not go.;Ты не пойдешь.
+You will go.;Ты пойдешь.
+Do you go?;Ты идешь?
+You don't go.;Ты не уходишь.
+You go.;Ваш ход.
+Did you go?;Ты пошел?
+You didn't go.;Вы не пошли.
+You went.;Ты пошел.
+Will we go?;Мы пойдем?
+We will not go.;Мы не пойдем.
+We will go.;Мы пойдем.
+Do we go?;Мы идем?
+We don't go.;Мы не идем.
+We go.;Мы идем.
+Did we go?;Мы пошли?
+We didn't go.;Мы не пошли.
+We went.;Мы пошли.
+Will they go?;Они пойдут?
+They will not go.;Они не пойдут.
+They will go.;Они пойдут.
+Do they go?;Они идут?
+They don't go.;Они не уходят.
+They go.;Они идут.
+Did they go?;Они пошли?
+They didn't go.;Они не пошли.
+They went.;Они пошли.
+Will he go?;Он пойдет?
+He will not go.;Он не пойдет.
+He will go.;Он пойдет.
+Does he go?;Он идет?
+He doesn't go.;Он не идет
+He gos.;Он гос.
+Did he go?;Он ушел?
+He didn't go.;Он не пошел.
+He went.;Он ушел.
+Will she go?;Она пойдет?
+She will not go.;Она не пойдет.
+She will go.;Она пойдет.
+Does she go?;Она идет?
+She doesn't go.;Она не идет
+She gos.;Она гос.
+Did she go?;Она ушла?
+She didn't go.;Она не пошла.
+She went.;Она ушла.
+Will i get?;Я получу?
+I will not get.;Я не получу.
+I will get.;Я получу.
+Do i get?;Я понял?
+I don't get.;Я не понимаю
+I get.;Я получил.
+Did i get?;Я получил?
+I didn't get.;Я не получил.
+I got.;Я получил.
+Will you get?;Вы получите?
+You will not get.;Вы не получите.
+You will get.;Ты получишь.
+Do you get?;Вы получаете?
+You don't get.;Вы не получите.
+You get.;Ты получаешь.
+Did you get?;Ты получил?
+You didn't get.;Вы не получили.
+You got.;Ты получил.
+Will we get?;Мы получим?
+We will not get.;Мы не получим.
+We will get.;Мы получим.
+Do we get?;Мы получаем?
+We don't get.;Мы не получаем.
+We get.;Мы получили.
+Did we get?;Мы получили?
+We didn't get.;Мы не получили.
+We got.;У нас есть.
+Will they get?;Они получат?
+They will not get.;Они не получат.
+They will get.;Они получат.
+Do they get?;Они получают?
+They don't get.;Они не получают.
+They get.;Они получают.
+Did they get?;Они получили?
+They didn't get.;Они не получили.
+They got.;У них есть.
+Will he get?;Получит ли он?
+He will not get.;Он не получит.
+He will get.;Он получит.
+Does he get?;Он получает?
+He doesn't get.;Он не получает.
+He getes.;Он получает.
+Did he get?;Он получил?
+He didn't get.;Он не получил.
+He got.;Он получил.
+Will she get?;Она получит?
+She will not get.;Она не получит.
+She will get.;Она получит.
+Does she get?;Она получает?
+She doesn't get.;Она не получает.
+She getes.;Она получает.
+Did she get?;Она получила?
+She didn't get.;Она не получила.
+She got.;У нее есть.
+Will i make?;Я сделаю?
+I will not make.;Я не сделаю.
+I will make.;Я сделаю.
+Do i make?;Я делаю?
+I don't make.;Я не делаю.
+I make.;Я делаю.
+Did i make?;Я сделал?
+I didn't make.;Я не сделал.
+I made.;Я сделал.
+Will you make?;Ты сделаешь?
+You will not make.;Ты не сделаешь.
+You will make.;Ты сделаешь.
+Do you make?;Ты делаешь?
+You don't make.;Вы не делаете.
+You make.;Ты делаешь.
+Did you make?;Ты сделал?
+You didn't make.;Вы не сделали.
+You made.;Ты сделал.
+Will we make?;Мы сделаем?
+We will not make.;Мы не будем делать.
+We will make.;Мы сделаем.
+Do we make?;Мы делаем?
+We don't make.;Мы не делаем.
+We make.;Мы делаем.
+Did we make?;Мы сделали?
+We didn't make.;Мы не сделали.
+We made.;Мы сделали.
+Will they make?;Они сделают?
+They will not make.;Они не сделают.
+They will make.;Они сделают.
+Do they make?;Они делают?
+They don't make.;Они не делают.
+They make.;Они делают.
+Did they make?;Они сделали?
+They didn't make.;Они не сделали.
+They made.;Они сделали.
+Will he make?;Он сделает?
+He will not make.;Он не сделает.
+He will make.;Он сделает.
+Does he make?;Он делает?
+He doesn't make.;Он не делает.
+He makes.;Он сделает.
+Did he make?;Он сделал?
+He didn't make.;Он не сделал.
+He made.;Он сделал.
+Will she make?;Она сделает?
+She will not make.;Она не сделает.
+She will make.;Она сделает.
+Does she make?;Она делает?
+She doesn't make.;Она не делает.
+She makes.;Она делает.
+Did she make?;Она сделала?
+She didn't make.;Она не сделала.
+She made.;Она сделала.
+Will i know?;Я буду знать?
+I will not know.;Я не буду знать
+I will know.;Я буду знать.
+Do i know?;Я знаю?
+I don't know.;Я не знаю.
+I know.;Я знаю.
+Did i know?;Я знал?
+I didn't know.;Я не знал
+I knew.;Я знал.
+Will you know?;Ты будешь знать?
+You will not know.;Вы не будете знать.
+You will know.;Ты узнаешь.
+Do you know?;Ты знаешь?
+You don't know.;Вы не знаете
+You know.;Знаешь.
+Did you know?;Вы знали?
+You didn't know.;Вы не знали
+You knew.;Вы знали.
+Will we know?;Будем ли мы знать?
+We will not know.;Мы не будем знать.
+We will know.;Мы узнаем.
+Do we know?;Мы знаем?
+We don't know.;Мы не знаем
+We know.;Мы знаем.
+Did we know?;Знали ли мы?
+We didn't know.;Мы не знали.
+We knew.;Мы знали.
+Will they know?;Будут ли они знать?
+They will not know.;Они не будут знать.
+They will know.;Они будут знать.
+Do they know?;Они знают?
+They don't know.;Они не знают
+They know.;Они знают.
+Did they know?;Они знали?
+They didn't know.;Они не знали.
+They knew.;Они знали.
+Will he know?;Будет ли он знать?
+He will not know.;Он не будет знать.
+He will know.;Он узнает.
+Does he know?;Он знает?
+He doesn't know.;Он не знает
+He knowes.;Он знает.
+Did he know?;Он знал?
+He didn't know.;Он не знал
+He knew.;Он знал.
+Will she know?;Будет ли она знать?
+She will not know.;Она не будет знать.
+She will know.;Она узнает.
+Does she know?;Она знает?
+She doesn't know.;Она не знает
+She knowes.;Она знает.
+Did she know?;Она знала?
+She didn't know.;Она не знала
+She knew.;Она знала.
+Will i think?;Я буду думать?
+I will not think.;Я не буду думать.
+I will think.;Я подумаю.
+Do i think?;Я думаю?
+I don't think.;Я не думаю
+I think.;Я думаю.
+Did i think?;Я думал?
+I didn't think.;Я не думал
+I thought.;Я думал.
+Will you think?;Будешь думать?
+You will not think.;Вы не будете думать.
+You will think.;Вы будете думать.
+Do you think?;Ты думаешь?
+You don't think.;Ты не думаешь.
+You think.;Ты думаешь.
+Did you think?;Ты думал?
+You didn't think.;Вы не думали.
+You thought.;Ты думал
+Will we think?;Будем ли мы думать?
+We will not think.;Мы не будем думать.
+We will think.;Будем думать.
+Do we think?;Мы думаем?
+We don't think.;Мы не думаем.
+We think.;Мы думаем.
+Did we think?;Мы думали?
+We didn't think.;Мы не думали.
+We thought.;Мы думали.
+Will they think?;Будут ли они думать?
+They will not think.;Они не будут думать.
+They will think.;Они будут думать.
+Do they think?;Они думают?
+They don't think.;Они не думают.
+They think.;Они думают.
+Did they think?;Они думали?
+They didn't think.;Они не думали.
+They thought.;Они думали.
+Will he think?;Он будет думать?
+He will not think.;Он не будет думать.
+He will think.;Он будет думать.
+Does he think?;Он думает?
+He doesn't think.;Он не думает
+He thinkes.;Он думает
+Did he think?;Он думал?
+He didn't think.;Он не думал.
+He thought.;Он думал.
+Will she think?;Будет ли она думать?
+She will not think.;Она не будет думать.
+She will think.;Она будет думать.
+Does she think?;Она думает?
+She doesn't think.;Она не думает
+She thinkes.;Она думает
+Did she think?;Она думала?
+She didn't think.;Она не думала.
+She thought.;Она думала.
+Will i take?;Я возьму?
+I will not take.;Я не возьму.
+I will take.;Я возьму.
+Do i take?;Я беру?
+I don't take.;Я не беру.
+I take.;Я беру.
+Did i take?;Я взял?
+I didn't take.;Я не взял.
+I took.;Я взял.
+Will you take?;Возьмешь ли ты?
+You will not take.;Вы не возьмете.
+You will take.;Вы возьмете.
+Do you take?;Ты возьмешь?
+You don't take.;Вы не берете.
+You take.;Ты взял.
+Did you take?;Ты взял?
+You didn't take.;Вы не взяли.
+You took.;Ты взял.
+Will we take?;Мы возьмем?
+We will not take.;Мы не возьмем.
+We will take.;Мы возьмем.
+Do we take?;Мы берем?
+We don't take.;Мы не берем.
+We take.;Мы принимаем.
+Did we take?;Мы взяли?
+We didn't take.;Мы не взяли.
+We took.;Мы взяли.
+Will they take?;Они возьмут?
+They will not take.;Они не возьмут.
+They will take.;Они возьмут.
+Do they take?;Они берут?
+They don't take.;Они не берут.
+They take.;Они взяли.
+Did they take?;Они взяли?
+They didn't take.;Они не взяли.
+They took.;Они взяли.
+Will he take?;Он возьмет?
+He will not take.;Он не возьмет.
+He will take.;Он возьмет.
+Does he take?;Он берет?
+He doesn't take.;Он не берет.
+He takes.;Он берет.
+Did he take?;Он взял?
+He didn't take.;Он не взял.
+He took.;Он взял.
+Will she take?;Она возьмет?
+She will not take.;Она не возьмет.
+She will take.;Она возьмет.
+Does she take?;Она берет?
+She doesn't take.;Она не берет.
+She takes.;Она берет.
+Did she take?;Она взяла?
+She didn't take.;Она не взяла.
+She took.;Она взяла.
+Will i see?;Я увижу?
+I will not see.;Я не увижу
+I will see.;Я увижу.
+Do i see?;Я вижу?
+I don't see.;Я не вижу
+I see.;Понимаю.
+Did i see?;Я видел?
+I didn't see.;Я не видела
+I saw.;Я видел.
+Will you see?;Ты увидишь?
+You will not see.;Вы не увидите.
+You will see.;Ты увидишь.
+Do you see?;Ты видишь?
+You don't see.;Вы не видите
+You see.;Вы видите.
+Did you see?;Вы видели?
+You didn't see.;Вы не видели
+You saw.;Ты видел.
+Will we see?;Мы увидим?
+We will not see.;Мы не увидим.
+We will see.;Посмотрим.
+Do we see?;Мы видим?
+We don't see.;Мы не видим
+We see.;Мы видим.
+Did we see?;Мы видели?
+We didn't see.;Мы не видели.
+We saw.;Мы видели.
+Will they see?;Они увидят?
+They will not see.;Они не увидят.
+They will see.;Они увидят.
+Do they see?;Они видят?
+They don't see.;Они не видят.
+They see.;Они видят.
+Did they see?;Они видели?
+They didn't see.;Они не видели.
+They saw.;Они видели.
+Will he see?;Увидит ли он?
+He will not see.;Он не увидит.
+He will see.;Он увидит.
+Does he see?;Он видит?
+He doesn't see.;Он не видит
+He sees.;Он видит.
+Did he see?;Он видел?
+He didn't see.;Он не видел.
+He saw.;Он видел.
+Will she see?;Она увидит?
+She will not see.;Она не увидит.
+She will see.;Она увидит.
+Does she see?;Она видит?
+She doesn't see.;Она не видит
+She sees.;Она видит.
+Did she see?;Она видела?
+She didn't see.;Она не видела.
+She saw.;Она видела.
+Will i come?;Я приду?
+I will not come.;Я не приеду.
+I will come.;Я приду.
+Do i come?;Я приду?
+I don't come.;Я не приду
+I come.;Я прихожу.
+Did i come?;Я пришел?
+I didn't come.;Я не пришел
+I came.;Я пришел.
+Will you come?;Ты придешь?
+You will not come.;Вы не придете.
+You will come.;Ты придешь.
+Do you come?;Ты пришел?
+You don't come.;Ты не придешь.
+You come.;Вы пришли.
+Did you come?;Ты пришел?
+You didn't come.;Вы не пришли
+You came.;Ты пришел.
+Will we come?;Мы приедем?
+We will not come.;Мы не приедем.
+We will come.;Мы придем.
+Do we come?;Мы пришли?
+We don't come.;Мы не приходим.
+We come.;Мы приходим.
+Did we come?;Мы пришли?
+We didn't come.;Мы не пришли.
+We came.;Мы пришли.
+Will they come?;Придут ли они?
+They will not come.;Они не придут.
+They will come.;Они придут.
+Do they come?;Они приходят?
+They don't come.;Они не приходят.
+They come.;Они приходят.
+Did they come?;Они пришли?
+They didn't come.;Они не пришли.
+They came.;Они пришли.
+Will he come?;Придет ли он?
+He will not come.;Он не придет.
+He will come.;Он придет.
+Does he come?;Он приходит?
+He doesn't come.;Он не приходит.
+He comes.;Он приходит.
+Did he come?;Он пришел?
+He didn't come.;Он не пришел.
+He came.;Он пришел.
+Will she come?;Она придет?
+She will not come.;Она не придет.
+She will come.;Она придет.
+Does she come?;Она приходит?
+She doesn't come.;Она не приходит.
+She comes.;Она приходит.
+Did she come?;Она пришла?
+She didn't come.;Она не пришла.
+She came.;Она пришла.
+Will i find?;Я найду?
+I will not find.;Не найду.
+I will find.;Я найду.
+Do i find?;Я нахожу?
+I don't find.;Не нахожу
+I find.;Я нахожу.
+Did i find?;Я нашел?
+I didn't find.;Я не нашел.
+I found.;Я нашел.
+Will you find?;Ты найдешь?
+You will not find.;Вы не найдете.
+You will find.;Ты найдешь.
+Do you find?;Ты находишь?
+You don't find.;Ты не находишь.
+You find.;Ты находишь.
+Did you find?;Вы нашли?
+You didn't find.;Вы не нашли.
+You found.;Ты нашел.
+Will we find?;Мы найдем?
+We will not find.;Мы не найдем.
+We will find.;Мы найдем.
+Do we find?;Мы находим?
+We don't find.;Мы не находим.
+We find.;Мы нашли.
+Did we find?;Мы нашли?
+We didn't find.;Мы не нашли.
+We found.;Мы нашли.
+Will they find?;Найдут ли они?
+They will not find.;Они не найдут.
+They will find.;Они найдут.
+Do they find?;Они находят?
+They don't find.;Они не находят.
+They find.;Они находят.
+Did they find?;Они нашли?
+They didn't find.;Они не нашли.
+They found.;Они нашли.
+Will he find?;Он найдет?
+He will not find.;Он не найдет.
+He will find.;Он найдет.
+Does he find?;Он находит?
+He doesn't find.;Он не находит.
+He findes.;Он находит.
+Did he find?;Он нашел?
+He didn't find.;Он не нашел.
+He found.;Он нашел.
+Will she find?;Она найдет?
+She will not find.;Она не найдет.
+She will find.;Она найдет.
+Does she find?;Она находит?
+She doesn't find.;Она не находит.
+She findes.;Она находит.
+Did she find?;Она нашла?
+She didn't find.;Она не нашла.
+She found.;Она нашла.
+Will i give?;Я дам?
+I will not give.;Я не буду давать.
+I will give.;Я дам.
+Do i give?;Я даю?
+I don't give.;Я не даю.
+I give.;Я даю.
+Did i give?;Я дал?
+I didn't give.;Я не дал.
+I gave.;Я дал.
+Will you give?;Вы дадите?
+You will not give.;Вы не дадите.
+You will give.;Вы дадите.
+Do you give?;Вы даете?
+You don't give.;Вы не даете.
+You give.;Вы даете.
+Did you give?;Ты дал?
+You didn't give.;Вы не дали.
+You gave.;Ты дал.
+Will we give?;Мы дадим?
+We will not give.;Мы не дадим.
+We will give.;Мы дадим.
+Do we give?;Мы даем?
+We don't give.;Мы не даем.
+We give.;Мы даем.
+Did we give?;Мы дали?
+We didn't give.;Мы не дали.
+We gave.;Мы дали.
+Will they give?;Дадут ли они?
+They will not give.;Они не дадут.
+They will give.;Они дадут.
+Do they give?;Они дают?
+They don't give.;Они не дают.
+They give.;Они дают.
+Did they give?;Они дали?
+They didn't give.;Они не дали.
+They gave.;Они дали.
+Will he give?;Он даст?
+He will not give.;Он не даст.
+He will give.;Он даст.
+Does he give?;Он дает?
+He doesn't give.;Он не дает.
+He gives.;Он дает.
+Did he give?;Он дал?
+He didn't give.;Он не дал.
+He gave.;Он дал.
+Will she give?;Она даст?
+She will not give.;Она не даст.
+She will give.;Она даст.
+Does she give?;Она дает?
+She doesn't give.;Она не дает.
+She gives.;Она дает.
+Did she give?;Она дала?
+She didn't give.;Она не дала.
+She gave.;Она дала.
+Will i tell?;Я скажу?
+I will not tell.;Я не скажу.
+I will tell.;Я расскажу.
+Do i tell?;Я говорю?
+I don't tell.;Я не говорю.
+I tell.;Я говорю.
+Did i tell?;Я сказал?
+I didn't tell.;Я не сказал.
+I told.;Я сказал.
+Will you tell?;Расскажешь?
+You will not tell.;Вы не скажете.
+You will tell.;Вы скажете.
+Do you tell?;Ты говоришь?
+You don't tell.;Вы не говорите.
+You tell.;Вы говорите.
+Did you tell?;Ты сказал?
+You didn't tell.;Вы не сказали.
+You told.;Вы сказали.
+Will we tell?;Мы расскажем?
+We will not tell.;Мы не будем рассказывать.
+We will tell.;Мы расскажем.
+Do we tell?;Мы говорим?
+We don't tell.;Мы не говорим.
+We tell.;Мы говорим.
+Did we tell?;Мы рассказали?
+We didn't tell.;Мы не сказали.
+We told.;Мы сказали.
+Will they tell?;Они скажут?
+They will not tell.;Они не скажут.
+They will tell.;Они скажут.
+Do they tell?;Они говорят?
+They don't tell.;Они не говорят.
+They tell.;Они говорят.
+Did they tell?;Они сказали?
+They didn't tell.;Они не сказали.
+They told.;Они сказали.
+Will he tell?;Он скажет?
+He will not tell.;Он не скажет.
+He will tell.;Он скажет.
+Does he tell?;Он говорит?
+He doesn't tell.;Он не говорит.
+He telles.;Он рассказывает.
+Did he tell?;Он сказал?
+He didn't tell.;Он не сказал.
+He told.;Он сказал.
+Will she tell?;Она расскажет?
+She will not tell.;Она не скажет.
+She will tell.;Она скажет.
+Does she tell?;Она рассказывает?
+She doesn't tell.;Она не говорит.
+She telles.;Она рассказывает.
+Did she tell?;Она рассказала?
+She didn't tell.;Она не сказала.
+She told.;Она сказала.
+Will i feel?;Буду ли я чувствовать?
+I will not feel.;Я не буду чувствовать.
+I will feel.;Я буду чувствовать
+Do i feel?;Я чувствую?
+I don't feel.;Я не чувствую
+I feel.;Я чувствую.
+Did i feel?;Я чувствовал?
+I didn't feel.;Я не чувствовал.
+I felt.;Я почувствовал.
+Will you feel?;Ты будешь чувствовать?
+You will not feel.;Вы не будете чувствовать.
+You will feel.;Ты почувствуешь.
+Do you feel?;Ты чувствуешь?
+You don't feel.;Ты не чувствуешь.
+You feel.;Ты чувствуешь.
+Did you feel?;Вы чувствовали?
+You didn't feel.;Вы не чувствовали.
+You felt.;Вы чувствовали.
+Will we feel?;Будем ли мы чувствовать?
+We will not feel.;Мы не будем чувствовать.
+We will feel.;Мы будем чувствовать.
+Do we feel?;Чувствуем ли мы?
+We don't feel.;Мы не чувствуем.
+We feel.;Мы чувствуем.
+Did we feel?;Мы чувствовали?
+We didn't feel.;Мы не чувствовали.
+We felt.;Мы чувствовали.
+Will they feel?;Будут ли они чувствовать?
+They will not feel.;Они не будут чувствовать.
+They will feel.;Они будут чувствовать.
+Do they feel?;Они чувствуют?
+They don't feel.;Они не чувствуют.
+They feel.;Они чувствуют.
+Did they feel?;Чувствовали ли они?
+They didn't feel.;Они не чувствовали.
+They felt.;Они почувствовали.
+Will he feel?;Будет ли он чувствовать?
+He will not feel.;Он не будет чувствовать.
+He will feel.;Он будет чувствовать.
+Does he feel?;Чувствует ли он?
+He doesn't feel.;Он не чувствует.
+He feeles.;Он чувствует себя
+Did he feel?;Он чувствовал?
+He didn't feel.;Он не чувствовал.
+He felt.;Он чувствовал.
+Will she feel?;Будет ли она чувствовать?
+She will not feel.;Она не будет чувствовать.
+She will feel.;Она будет чувствовать.
+Does she feel?;Чувствует ли она?
+She doesn't feel.;Она не чувствует.
+She feeles.;Она чувствует себя
+Did she feel?;Она чувствовала?
+She didn't feel.;Она не чувствовала.
+She felt.;Она чувствовала.
+Will i become?;Я стану?
+I will not become.;Я не стану.
+I will become.;Я стану.
+Do i become?;Я стал?
+I don't become.;Я не стал
+I become.;Я становлюсь.
+Did i become?;Я стал?
+I didn't become.;Я не стал
+I became.;Я стал.
+Will you become?;Вы станете?
+You will not become.;Ты не станешь.
+You will become.;Вы станете.
+Do you become?;Вы стали?
+You don't become.;Ты не стал.
+You become.;Вы становитесь.
+Did you become?;Вы стали?
+You didn't become.;Ты не стал.
+You became.;Вы стали.
+Will we become?;Мы станем?
+We will not become.;Мы не станем.
+We will become.;Мы станем.
+Do we become?;Мы становимся?
+We don't become.;Мы не становимся.
+We become.;Мы становимся.
+Did we become?;Мы стали?
+We didn't become.;Мы не стали.
+We became.;Мы стали.
+Will they become?;Будут ли они стать?
+They will not become.;Они не станут.
+They will become.;Они станут.
+Do they become?;Они становятся?
+They don't become.;Они не становятся.
+They become.;Они становятся.
+Did they become?;Они стали?
+They didn't become.;Они не стали.
+They became.;Они становятся.
+Will he become?;Он станет?
+He will not become.;Он не станет.
+He will become.;Он станет.
+Does he become?;Он стал?
+He doesn't become.;Он не стал.
+He becomes.;Он становится.
+Did he become?;Он стал?
+He didn't become.;Он не стал.
+He became.;Он стал.
+Will she become?;Она станет?
+She will not become.;Она не станет.
+She will become.;Она станет.
+Does she become?;Она стала?
+She doesn't become.;Она не становится.
+She becomes.;Она становится.
+Did she become?;Она стала?
+She didn't become.;Она не стала.
+She became.;Она стала.
+Will i leave?;Я уйду?
+I will not leave.;Я не уйду.
+I will leave.;Я оставлю.
+Do i leave?;Я ухожу?
+I don't leave.;Я не ухожу
+I leave.;Я ухожу.
+Did i leave?;Я ушел?
+I didn't leave.;Я не ушел.
+I left.;Я ушел.
+Will you leave?;Ты уйдешь?
+You will not leave.;Вы не уйдете.
+You will leave.;Вы уйдете.
+Do you leave?;Ты уходишь?
+You don't leave.;Вы не уходите.
+You leave.;Ты уходишь.
+Did you leave?;Ты ушел?
+You didn't leave.;Вы не ушли.
+You left.;Вы оставили.
+Will we leave?;Мы уйдем?
+We will not leave.;Мы не уйдем.
+We will leave.;Мы уйдем.
+Do we leave?;Мы уходим?
+We don't leave.;Мы не уходим.
+We leave.;Мы уходим.
+Did we leave?;Мы ушли?
+We didn't leave.;Мы не уходили.
+We left.;Мы ушли.
+Will they leave?;Они уйдут?
+They will not leave.;Они не уйдут.
+They will leave.;Они уйдут.
+Do they leave?;Они уходят?
+They don't leave.;Они не уходят.
+They leave.;Они ушли.
+Did they leave?;Они ушли?
+They didn't leave.;Они не уходили.
+They left.;Они уехали.
+Will he leave?;Он уйдет?
+He will not leave.;Он не уйдет.
+He will leave.;Он уйдет
+Does he leave?;Он уходит?
+He doesn't leave.;Он не уходит.
+He leaves.;Он уходит.
+Did he leave?;Он ушел?
+He didn't leave.;Он не ушел.
+He left.;Он ушел.
+Will she leave?;Она уйдет?
+She will not leave.;Она не уйдет.
+She will leave.;Она уйдет
+Does she leave?;Она уходит?
+She doesn't leave.;Она не уходит.
+She leaves.;Она оставляет.
+Did she leave?;Она ушла?
+She didn't leave.;Она не ушла.
+She left.;Она ушла.
+Will i put?;Я положу?
+I will not put.;Я не буду ставить.
+I will put.;Я положу.
+Do i put?;Я положил?
+I don't put.;Я не ставлю.
+I put.;Я кладу.
+Did i put?;Я положил?
+I didn't put.;Я не положил.
+I  ставить.;Я ставить.
+Will you put?;Будешь ставить?
+You will not put.;Вы не будете ставить.
+You will put.;Вы положите.
+Do you put?;Вы положили?
+You don't put.;Вы не положили.
+You put.;Вы положили.
+Did you put?;Вы положили?
+You didn't put.;Вы не положили.
+You  ставить.;Вы ставите.
+Will we put?;Будем ли мы ставить?
+We will not put.;Мы не будем ставить.
+We will put.;Будем ставить.
+Do we put?;Мы положили?
+We don't put.;Мы не ставим.
+We put.;Мы ставим.
+Did we put?;Мы положили?
+We didn't put.;Мы не ставили.
+We  ставить.;Мы ставить.
+Will they put?;Будут ли они положить?
+They will not put.;Они не будут ставить.
+They will put.;Они будут ставить.
+Do they put?;Они ставят?
+They don't put.;Они не ставят.
+They put.;Они кладут.
+Did they put?;Они положили?
+They didn't put.;Они не положили.
+They  ставить.;Они ставить.
+Will he put?;Он положит?
+He will not put.;Он не поставит.
+He will put.;Он поставит.
+Does he put?;Он положил?
+He doesn't put.;Он не ставит.
+He putes.;Он спорит.
+Did he put?;Он положил?
+He didn't put.;Он не положил.
+He  ставить.;Он ставить.
+Will she put?;Она положит?
+She will not put.;Она не будет ставить.
+She will put.;Она поставит.
+Does she put?;Она положила?
+She doesn't put.;Она не кладет.
+She putes.;Она спорит.
+Did she put?;Она положила?
+She didn't put.;Она не положила.
+She  ставить.;Она ставить.
+Will i mean?;Я буду иметь ввиду?
+I will not mean.;Я не буду иметь в виду.
+I will mean.;Я буду иметь в виду.
+Do i mean?;Я имею в виду?
+I don't mean.;Я не имею в виду
+I mean.;Я имею в виду.
+Did i mean?;Я имел ввиду?
+I didn't mean.;Я не имел в виду
+I meant.;Я имел в виду.
+Will you mean?;Вы будете иметь в виду?
+You will not mean.;Вы не будете иметь в виду.
+You will mean.;Вы будете иметь в виду.
+Do you mean?;Ты имеешь ввиду?
+You don't mean.;Вы не имеете в виду.
+You mean.;Ты имеешь в виду.
+Did you mean?;Вы имели в виду?
+You didn't mean.;Вы не имели в виду.
+You meant.;Вы имели в виду.
+Will we mean?;Будем ли мы иметь в виду?
+We will not mean.;Мы не будем иметь в виду.
+We will mean.;Мы будем иметь в виду.
+Do we mean?;Мы имеем в виду?
+We don't mean.;Мы не имеем в виду
+We mean.;Мы имеем в виду.
+Did we mean?;Мы имели в виду?
+We didn't mean.;Мы не имели в виду
+We meant.;Мы имели в виду
+Will they mean?;Они будут иметь в виду?
+They will not mean.;Они не будут иметь в виду.
+They will mean.;Они будут иметь в виду.
+Do they mean?;Они имеют в виду?
+They don't mean.;Они не имеют в виду.
+They mean.;Они имеют в виду.
+Did they mean?;Они имели в виду?
+They didn't mean.;Они не имели в виду.
+They meant.;Они имели в виду.
+Will he mean?;Будет ли он иметь в виду?
+He will not mean.;Он не будет иметь в виду.
+He will mean.;Он будет иметь в виду.
+Does he mean?;Он имеет в виду?
+He doesn't mean.;Он не имеет в виду.
+He meanes.;Он имеет в виду.
+Did he mean?;Он имел в виду?
+He didn't mean.;Он не имел в виду.
+He meant.;Он имел в виду.
+Will she mean?;Будет ли она иметь в виду?
+She will not mean.;Она не будет иметь в виду.
+She will mean.;Она будет иметь в виду.
+Does she mean?;Она имеет в виду?
+She doesn't mean.;Она не имеет в виду.
+She meanes.;Она имеет в виду.
+Did she mean?;Она имела в виду?
+She didn't mean.;Она не имела в виду.
+She meant.;Она имела в виду.
+Will i keep?;Буду ли я держать?
+I will not keep.;Я не буду держать.
+I will keep.;Я сдержу.
+Do i keep?;Я держу?
+I don't keep.;Я не держу
+I keep.;Я держу.
+Did i keep?;Я сохранил?
+I didn't keep.;Я не держал.
+I kept.;Я продолжал.
+Will you keep?;Ты будешь держать?
+You will not keep.;Вы не будете держать.
+You will keep.;Вы сохраните.
+Do you keep?;Вы держите?
+You don't keep.;Вы не держите.
+You keep.;Ты держишь.
+Did you keep?;Вы сохранили?
+You didn't keep.;Вы не сохранили.
+You kept.;Вы держали
+Will we keep?;Мы будем держать?
+We will not keep.;Мы не будем держать.
+We will keep.;Мы будем держать
+Do we keep?;Мы продолжаем?
+We don't keep.;Мы не держим.
+We keep.;Мы продолжаем.
+Did we keep?;Мы сохранили?
+We didn't keep.;Мы не сохранили.
+We kept.;Мы сохранили.
+Will they keep?;Будут ли они держать?
+They will not keep.;Они не будут держать.
+They will keep.;Они будут держать.
+Do they keep?;Они держат?
+They don't keep.;Они не держат.
+They keep.;Они хранят.
+Did they keep?;Они сохранили?
+They didn't keep.;Они не держали.
+They kept.;Они сохранили.
+Will he keep?;Будет ли он держать?
+He will not keep.;Он не будет держать.
+He will keep.;Он сохранит.
+Does he keep?;Он держит?
+He doesn't keep.;Он не держит.
+He keepes.;Он держит.
+Did he keep?;Он сохранил?
+He didn't keep.;Он не держал.
+He kept.;Он хранил.
+Will she keep?;Будет ли она держать?
+She will not keep.;Она не будет держать.
+She will keep.;Она сохранит.
+Does she keep?;Она держит?
+She doesn't keep.;Она не держит.
+She keepes.;Она держит.
+Did she keep?;Она держала?
+She didn't keep.;Она не держала.
+She kept.;Она держалась.
+Will i let?;Я позволю?
+I will not let.;Я не позволю.
+I will let.;Я позволю.
+Do i let?;Я позволю?
+I don't let.;Я не позволяю.
+I let.;Я позволяю.
+Did i let?;Я позволил?
+I didn't let.;Я не позволил.
+I let.;Я позволяю.
+Will you let?;Вы позволите?
+You will not let.;Вы не позволите.
+You will let.;Вы позволите.
+Do you let?;Ты позволяешь?
+You don't let.;Вы не позволяете.
+You let.;Вы позволяете.
+Did you let?;Ты позволил?
+You didn't let.;Ты не позволил.
+You let.;Вы позволяете.
+Will we let?;Мы позволим?
+We will not let.;Мы не позволим.
+We will let.;Мы позволим.
+Do we let?;Мы позволяем?
+We don't let.;Мы не позволяем.
+We let.;Пусть.
+Did we let?;Мы позволили?
+We didn't let.;Мы не позволили.
+We let.;Пусть.
+Will they let?;Они позволят?
+They will not let.;Они не позволят.
+They will let.;Они позволят.
+Do they let?;Они позволяют?
+They don't let.;Они не позволяют.
+They let.;Они позволяют.
+Did they let?;Они позволили?
+They didn't let.;Они не позволили.
+They let.;Они позволяют.
+Will he let?;Позволит ли он?
+He will not let.;Он не подведет.
+He will let.;Он позволит.
+Does he let?;Он позволяет?
+He doesn't let.;Он не позволяет
+He letes.;Он летает.
+Did he let?;Он позволил?
+He didn't let.;Он не позволил.
+He let.;Он позволил.
+Will she let?;Она позволит?
+She will not let.;Она не подведет.
+She will let.;Она позволит
+Does she let?;Она позволяет?
+She doesn't let.;Она не позволяет
+She letes.;Она летает.
+Did she let?;Она позволила?
+She didn't let.;Она не позволяла.
+She let.;Она позволила.
+Will i begin?;Я начну?
+I will not begin.;Я не начну.
+I will begin.;Я начну
+Do i begin?;Я начну?
+I don't begin.;Я не начинаю
+I begin.;Я начинаю.
+Did i begin?;Я начал?
+I didn't begin.;Я не начал
+I began.;Я начал.
+Will you begin?;Вы начнете?
+You will not begin.;Ты не начнешь.
+You will begin.;Вы начнете.
+Do you begin?;Вы начинаете?
+You don't begin.;Ты не начинаешь.
+You begin.;Ты начинаешь.
+Did you begin?;Вы начали?
+You didn't begin.;Вы не начали
+You began.;Вы начали
+Will we begin?;Мы начнем?
+We will not begin.;Мы не начнем.
+We will begin.;Мы начнем
+Do we begin?;Мы начинаем?
+We don't begin.;Мы не начинаем.
+We begin.;Мы начинаем.
+Did we begin?;Мы начали?
+We didn't begin.;Мы не начали.
+We began.;Мы начали.
+Will they begin?;Начнут ли они?
+They will not begin.;Они не начнутся.
+They will begin.;Они начнутся.
+Do they begin?;Они начинаются?
+They don't begin.;Они не начинаются.
+They begin.;Они начинают.
+Did they begin?;Они начали?
+They didn't begin.;Они не начались.
+They began.;Они начали.
+Will he begin?;Начнет ли он?
+He will not begin.;Он не начнется.
+He will begin.;Он начнется.
+Does he begin?;Он начинает?
+He doesn't begin.;Он не начинается.
+He begines.;Он начинает.
+Did he begin?;Он начал?
+He didn't begin.;Он не начал.
+He began.;Он начал.
+Will she begin?;Она начнет?
+She will not begin.;Она не начнется.
+She will begin.;Она начнется
+Does she begin?;Она начинается?
+She doesn't begin.;Она не начинается.
+She begines.;Она начинает.
+Did she begin?;Она начала?
+She didn't begin.;Она не начала.
+She began.;Она начала.
+Will i hear?;Услышу ли я?
+I will not hear.;Не услышу
+I will hear.;Я услышу
+Do i hear?;Я слышу?
+I don't hear.;Я не слышу
+I hear.;Я слышу.
+Did i hear?;Я слышал?
+I didn't hear.;Я не слышал
+I heard.;Я слышала.
+Will you hear?;Ты слышишь?
+You will not hear.;Вы не услышите.
+You will hear.;Ты услышишь.
+Do you hear?;Ты слышишь?
+You don't hear.;Вы не слышите.
+You hear.;Ты слышишь.
+Did you hear?;Ты слышал?
+You didn't hear.;Вы не слышали.
+You heard.;Ты слышал.
+Will we hear?;Мы услышим?
+We will not hear.;Мы не услышим.
+We will hear.;Мы услышим.
+Do we hear?;Мы слышим?
+We don't hear.;Мы не слышим.
+We hear.;Мы слышим.
+Did we hear?;Мы слышали?
+We didn't hear.;Мы не слышали.
+We heard.;Мы слышали.
+Will they hear?;Будут ли они слышать?
+They will not hear.;Они не услышат.
+They will hear.;Они услышат.
+Do they hear?;Они слышат?
+They don't hear.;Они не слышат.
+They hear.;Они слышат.
+Did they hear?;Они слышали?
+They didn't hear.;Они не слышали.
+They heard.;Они услышали.
+Will he hear?;Он услышит?
+He will not hear.;Он не услышит.
+He will hear.;Он услышит.
+Does he hear?;Он слышит?
+He doesn't hear.;Он не слышит
+He heares.;Он слышит.
+Did he hear?;Он слышал?
+He didn't hear.;Он не слышал.
+He heard.;Он услышал.
+Will she hear?;Она услышит?
+She will not hear.;Она не услышит.
+She will hear.;Она услышит.
+Does she hear?;Она слышит?
+She doesn't hear.;Она не слышит
+She heares.;Она слышит.
+Did she hear?;Она слышала?
+She didn't hear.;Она не слышала.
+She heard.;Она услышала.
+Will i run?;Я побегу?
+I will not run.;Я не буду бежать.
+I will run.;Я побегу.
+Do i run?;Я бегу?
+I don't run.;Я не бегаю.
+I run.;Я бегу.
+Did i run?;Я бегал?
+I didn't run.;Я не бегал.
+I ran.;Я побежал.
+Will you run?;Ты побежишь?
+You will not run.;Ты не побежишь.
+You will run.;Ты побежишь.
+Do you run?;Вы бежите?
+You don't run.;Ты не бежишь.
+You run.;Ты бежишь.
+Did you run?;Ты бежал?
+You didn't run.;Ты не бежал.
+You ran.;Ты бежал.
+Will we run?;Мы побежим?
+We will not run.;Мы не будем бежать.
+We will run.;Мы побежим.
+Do we run?;Мы бежим?
+We don't run.;Мы не бежим.
+We run.;Мы бежим.
+Did we run?;Мы бежали?
+We didn't run.;Мы не бегали.
+We ran.;Мы бежали.
+Will they run?;Будут ли они бежать?
+They will not run.;Они не будут бежать.
+They will run.;Они побегут.
+Do they run?;Они бегут?
+They don't run.;Они не бегают.
+They run.;Они бегут.
+Did they run?;Они бежали?
+They didn't run.;Они не бежали.
+They ran.;Они бегали.
+Will he run?;Он побежит?
+He will not run.;Он не побежит.
+He will run.;Он побежит.
+Does he run?;Он бежит?
+He doesn't run.;Он не бежит.
+He runes.;Он руны.
+Did he run?;Он бежал?
+He didn't run.;Он не бежал.
+He ran.;Он побежал.
+Will she run?;Она побежит?
+She will not run.;Она не побежит.
+She will run.;Она побежит.
+Does she run?;Она бежит?
+She doesn't run.;Она не бежит.
+She runes.;Она руны.
+Did she run?;Она бегала?
+She didn't run.;Она не бежала.
+She ran.;Она бежала.
+Will i bring?;Я принесу?
+I will not bring.;Я не принесу.
+I will bring.;Я принесу.
+Do i bring?;Я принесу?
+I don't bring.;Я не приношу.
+I bring.;Я ношу.
+Did i bring?;Я принес?
+I didn't bring.;Я не принес.
+I brought.;Я принес.
+Will you bring?;Ты принесешь?
+You will not bring.;Вы не принесете.
+You will bring.;Вы принесете.
+Do you bring?;Ты приносишь?
+You don't bring.;Вы не приносите.
+You bring.;Ты принес.
+Did you bring?;Ты принес?
+You didn't bring.;Вы не принесли.
+You brought.;Ты принес.
+Will we bring?;Мы принесем?
+We will not bring.;Мы не принесем.
+We will bring.;Мы принесем.
+Do we bring?;Мы приносим?
+We don't bring.;Мы не приносим.
+We bring.;Мы приносим.
+Did we bring?;Мы принесли?
+We didn't bring.;Мы не принесли.
+We brought.;Мы принесли.
+Will they bring?;Они принесут?
+They will not bring.;Они не принесут.
+They will bring.;Они принесут.
+Do they bring?;Они приносят?
+They don't bring.;Они не приносят.
+They bring.;Они приносят.
+Did they bring?;Они принесли?
+They didn't bring.;Они не принесли.
+They brought.;Они принесли.
+Will he bring?;Он принесет?
+He will not bring.;Он не принесет.
+He will bring.;Он принесет.
+Does he bring?;Он приносит?
+He doesn't bring.;Он не приносит.
+He bringes.;Он приносит.
+Did he bring?;Он принес?
+He didn't bring.;Он не принес.
+He brought.;Он принес.
+Will she bring?;Принесет ли она?
+She will not bring.;Она не принесет.
+She will bring.;Она принесет.
+Does she bring?;Она приносит?
+She doesn't bring.;Она не приносит.
+She bringes.;Она приносит.
+Did she bring?;Она принесла?
+She didn't bring.;Она не принесла.
+She brought.;Она принесла.
+Will i write?;Я напишу?
+I will not write.;Я не буду писать.
+I will write.;Я напишу.
+Do i write?;Я пишу?
+I don't write.;Я не пишу
+I write.;Я пишу.
+Did i write?;Я написал?
+I didn't write.;Я не писал.
+I wrote.;Я написал.
+Will you write?;Ты напишешь?
+You will not write.;Вы не будете писать.
+You will write.;Вы напишите.
+Do you write?;Ты пишешь?
+You don't write.;Ты не пишешь.
+You write.;Ты пишешь.
+Did you write?;Ты написал?
+You didn't write.;Ты не писал.
+You wrote.;Вы написали.
+Will we write?;Будем ли мы писать?
+We will not write.;Мы не будем писать.
+We will write.;Мы напишем.
+Do we write?;Мы пишем?
+We don't write.;Мы не пишем.
+We write.;Мы пишем.
+Did we write?;Мы писали?
+We didn't write.;Мы не писали.
+We wrote.;Мы написали.
+Will they write?;Будут ли они писать?
+They will not write.;Они не будут писать.
+They will write.;Они напишут.
+Do they write?;Они пишут?
+They don't write.;Они не пишут.
+They write.;Они пишут.
+Did they write?;Они написали?
+They didn't write.;Они не писали.
+They wrote.;Они написали.
+Will he write?;Он напишет?
+He will not write.;Он не будет писать.
+He will write.;Он напишет.
+Does he write?;Он пишет?
+He doesn't write.;Он не пишет.
+He writes.;Он написал.
+Did he write?;Он написал?
+He didn't write.;Он не писал.
+He wrote.;Он написал.
+Will she write?;Она напишет?
+She will not write.;Она не напишет.
+She will write.;Она напишет
+Does she write?;Она пишет?
+She doesn't write.;Она не пишет.
+She writes.;Она пишет.
+Did she write?;Она написала?
+She didn't write.;Она не писала.
+She wrote.;Она написала.
+Will i sit?;Я буду сидеть?
+I will not sit.;Я не буду сидеть.
+I will sit.;Я буду сидеть
+Do i sit?;Я сижу?
+I don't sit.;Я не сижу
+I sit.;Это.
+Did i sit?;Я сидел?
+I didn't sit.;Я не сидел
+I sat.;Я сидел.
+Will you sit?;Ты будешь сидеть?
+You will not sit.;Вы не будете сидеть.
+You will sit.;Вы будете сидеть.
+Do you sit?;Ты сидишь?
+You don't sit.;Вы не сидите.
+You sit.;Вы сидите.
+Did you sit?;Ты сидел?
+You didn't sit.;Вы не сидели.
+You sat.;Вы сидели.
+Will we sit?;Будем ли мы сидеть?
+We will not sit.;Мы не будем сидеть.
+We will sit.;Мы будем сидеть.
+Do we sit?;Мы сидим?
+We don't sit.;Мы не сидим.
+We sit.;Мы сидим.
+Did we sit?;Мы сидели?
+We didn't sit.;Мы не сидели.
+We sat.;Мы сидели.
+Will they sit?;Будут ли они сидеть?
+They will not sit.;Они не будут сидеть.
+They will sit.;Они будут сидеть.
+Do they sit?;Они сидят?
+They don't sit.;Они не сидят.
+They sit.;Они сидят.
+Did they sit?;Они сидели?
+They didn't sit.;Они не сидели.
+They sat.;Они сели.
+Will he sit?;Будет ли он сидеть?
+He will not sit.;Он не будет сидеть.
+He will sit.;Он будет сидеть.
+Does he sit?;Он сидит?
+He doesn't sit.;Он не сидит.
+He sites.;Он сайты.
+Did he sit?;Он сидел?
+He didn't sit.;Он не сидел.
+He sat.;Он сидел.
+Will she sit?;Будет ли она сидеть?
+She will not sit.;Она не будет сидеть.
+She will sit.;Она будет сидеть
+Does she sit?;Она сидит?
+She doesn't sit.;Она не сидит
+She sites.;Она сайты.
+Did she sit?;Она сидела?
+She didn't sit.;Она не сидела.
+She sat.;Она Суббота.
+Will i stand?;Буду ли я стоять?
+I will not stand.;Я не буду стоять.
+I will stand.;Я буду стоять
+Do i stand?;Стою ли я?
+I don't stand.;Я не стою
+I stand.;Я стою.
+Did i stand?;Я стоял?
+I didn't stand.;Я не выдержал.
+I stood.;Я стоял.
+Will you stand?;Ты будешь стоять?
+You will not stand.;Вы не будете стоять.
+You will stand.;Ты будешь стоять.
+Do you stand?;Вы стоите?
+You don't stand.;Вы не стоите.
+You stand.;Вы стоите.
+Did you stand?;Вы стояли?
+You didn't stand.;Ты не выдержал.
+You stood.;Вы стояли
+Will we stand?;Мы будем стоять?
+We will not stand.;Мы не будем стоять.
+We will stand.;Мы будем стоять.
+Do we stand?;Стоим ли мы?
+We don't stand.;Мы не стоим.
+We stand.;Мы встали.
+Did we stand?;Мы стояли?
+We didn't stand.;Мы не стояли.
+We stood.;Мы стояли
+Will they stand?;Будут ли они стоять?
+They will not stand.;Они не будут стоять.
+They will stand.;Они будут стоять.
+Do they stand?;Они стоят?
+They don't stand.;Они не стоят.
+They stand.;Они стоят.
+Did they stand?;Они стояли?
+They didn't stand.;Они не стояли.
+They stood.;Они стояли.
+Will he stand?;Выдержит ли он?
+He will not stand.;Он не будет стоять.
+He will stand.;Он будет стоять.
+Does he stand?;Он стоит?
+He doesn't stand.;Он не выдерживает.
+He standes.;Он общается.
+Did he stand?;Он стоял?
+He didn't stand.;Он не стоял.
+He stood.;Он стоял.
+Will she stand?;Выдержит ли она?
+She will not stand.;Она не будет стоять.
+She will stand.;Она будет стоять
+Does she stand?;Она стоит?
+She doesn't stand.;Она не выдерживает.
+She standes.;Она стандартная
+Did she stand?;Она стояла?
+She didn't stand.;Она не выдержала.
+She stood.;Она стояла.
+Will i lose?;Я проиграю?
+I will not lose.;Я не проиграю.
+I will lose.;Я буду терять.
+Do i lose?;Я проиграл?
+I don't lose.;Я не проигрываю.
+I lose.;Я проиграл.
+Did i lose?;Я проиграл?
+I didn't lose.;Я не проиграл.
+I lost.;Я растерян.
+Will you lose?;Вы проиграете?
+You will not lose.;Вы не потеряете.
+You will lose.;Ты проиграешь.
+Do you lose?;Ты проиграл?
+You don't lose.;Ты не проиграл.
+You lose.;Ты проиграл.
+Did you lose?;Вы проиграли?
+You didn't lose.;Вы не проиграли.
+You lost.;Ты проиграла.
+Will we lose?;Мы проиграем?
+We will not lose.;Мы не проиграем.
+We will lose.;Мы проиграем.
+Do we lose?;Мы проигрываем?
+We don't lose.;Мы не проигрываем.
+We lose.;Мы теряем.
+Did we lose?;Мы проиграли?
+We didn't lose.;Мы не проиграли.
+We lost.;Мы потерялись.
+Will they lose?;Будут ли они проиграть?
+They will not lose.;Они не проиграют.
+They will lose.;Они проиграют.
+Do they lose?;Они проигрывают?
+They don't lose.;Они не проигрывают.
+They lose.;Они проиграли.
+Did they lose?;Они проиграли?
+They didn't lose.;Они не проиграли.
+They lost.;Они потеряли.
+Will he lose?;Он проиграет?
+He will not lose.;Он не проиграет.
+He will lose.;Он проиграет.
+Does he lose?;Он проигрывает?
+He doesn't lose.;Он не проигрывает.
+He loses.;Он теряет.
+Did he lose?;Он проиграл?
+He didn't lose.;Он не проиграл.
+He lost.;Он потерял.
+Will she lose?;Она проиграет?
+She will not lose.;Она не проиграет.
+She will lose.;Она проиграет
+Does she lose?;Она проигрывает?
+She doesn't lose.;Она не проигрывает.
+She loses.;Она проигрывает.
+Did she lose?;Она проиграла?
+She didn't lose.;Она не проиграла.
+She lost.;Она потеряла.
+Will i pay?;Буду ли я платить?
+I will not pay.;Я не буду платить.
+I will pay.;Я заплачу.
+Do i pay?;Я плачу?
+I don't pay.;Я не плачу.
+I pay.;Я плачу.
+Did i pay?;Я заплатил?
+I didn't pay.;Я не заплатил.
+I paid.;Я заплатила.
+Will you pay?;Вы заплатите?
+You will not pay.;Вы не будете платить.
+You will pay.;Вы заплатите.
+Do you pay?;Ты платишь?
+You don't pay.;Вы не платите.
+You pay.;Ты платишь.
+Did you pay?;Ты заплатил?
+You didn't pay.;Вы не заплатили.
+You paid.;Вы заплатили.
+Will we pay?;Будем ли мы платить?
+We will not pay.;Мы не будем платить.
+We will pay.;Мы заплатим.
+Do we pay?;Мы платим?
+We don't pay.;Мы не платим.
+We pay.;Мы платим.
+Did we pay?;Мы заплатили?
+We didn't pay.;Мы не платили.
+We paid.;Мы платили.
+Will they pay?;Будут ли они платить?
+They will not pay.;Они не будут платить.
+They will pay.;Они заплатят.
+Do they pay?;Они платят?
+They don't pay.;Они не платят.
+They pay.;Они платят.
+Did they pay?;Они заплатили?
+They didn't pay.;Они не платили.
+They paid.;Они заплатили.
+Will he pay?;Он заплатит?
+He will not pay.;Он не будет платить.
+He will pay.;Он заплатит.
+Does he pay?;Он платит?
+He doesn't pay.;Он не платит.
+He paes.;Он бледнеет
+Did he pay?;Он заплатил?
+He didn't pay.;Он не заплатил.
+He paid.;Он заплатил.
+Will she pay?;Она заплатит?
+She will not pay.;Она не будет платить.
+She will pay.;Она заплатит.
+Does she pay?;Она платит?
+She doesn't pay.;Она не платит.
+She paes.;Она бледнеть
+Did she pay?;Она заплатила?
+She didn't pay.;Она не заплатила.
+She paid.;Она заплатила.
+Will i meet?;Я встречу?
+I will not meet.;Я не буду встречаться.
+I will meet.;Я встречу.
+Do i meet?;Я встречаюсь?
+I don't meet.;Я не встречаюсь
+I meet.;Я встречаюсь
+Did i meet?;Я встречался?
+I didn't meet.;Я не встречал
+I met.;Я встретил.
+Will you meet?;Ты встретишься?
+You will not meet.;Ты не встретишься.
+You will meet.;Вы встретитесь.
+Do you meet?;Вы встречаетесь?
+You don't meet.;Вы не встречаетесь.
+You meet.;Вы встречаете.
+Did you meet?;Ты встречал?
+You didn't meet.;Вы не встречались.
+You met.;Вы встречались.
+Will we meet?;Мы встретимся?
+We will not meet.;Мы не встретимся.
+We will meet.;Мы встретимся.
+Do we meet?;Мы встречаемся?
+We don't meet.;Мы не встречаемся.
+We meet.;Мы встретились.
+Did we meet?;Мы встречались?
+We didn't meet.;Мы не встречались.
+We met.;Мы встретились.
+Will they meet?;Они встретятся?
+They will not meet.;Они не встретятся.
+They will meet.;Они встретятся.
+Do they meet?;Они встречаются?
+They don't meet.;Они не встречаются.
+They meet.;Они встречают.
+Did they meet?;Они встречались?
+They didn't meet.;Они не встречались.
+They met.;Они встретились.
+Will he meet?;Встретится ли он?
+He will not meet.;Он не встретится.
+He will meet.;Он встретится
+Does he meet?;Он встречается?
+He doesn't meet.;Он не встречается.
+He meetes.;Он встречается.
+Did he meet?;Он встречался?
+He didn't meet.;Он не встречался.
+He met.;Он встретил.
+Will she meet?;Она встретится?
+She will not meet.;Она не встретится.
+She will meet.;Она встретится
+Does she meet?;Она встречается?
+She doesn't meet.;Она не встречается.
+She meetes.;Она встречается.
+Did she meet?;Она встречалась?
+She didn't meet.;Она не встречалась.
+She met.;Она встретила.
+Will i set?;Я установлю?
+I will not set.;Я не буду устанавливать.
+I will set.;Я установлю.
+Do i set?;Я установил?
+I don't set.;Я не ставлю.
+I set.;Я поставил.
+Did i set?;Я установил?
+I didn't set.;Я не поставил.
+I set.;Я поставил.
+Will you set?;Будете ли вы установить?
+You will not set.;Вы не будете устанавливать.
+You will set.;Вы будете устанавливать.
+Do you set?;Вы устанавливаете?
+You don't set.;Вы не поставили.
+You set.;Ты устанавливаешь.
+Did you set?;Вы установили?
+You didn't set.;Вы не установили.
+You set.;Ты устанавливаешь.
+Will we set?;Мы будем устанавливать?
+We will not set.;Мы не будем устанавливать.
+We will set.;Мы будем устанавливать.
+Do we set?;Мы устанавливаем?
+We don't set.;Мы не устанавливаем.
+We set.;Мы устанавливаем.
+Did we set?;Мы установили?
+We didn't set.;Мы не сидели.
+We set.;Мы устанавливаем.
+Will they set?;Будут ли они установить?
+They will not set.;Они не будут устанавливать.
+They will set.;Они будут устанавливать.
+Do they set?;Они установлены?
+They don't set.;Они не установлены.
+They set.;Они установлены.
+Did they set?;Они установили?
+They didn't set.;Они не сидели.
+They set.;Они установлены.
+Will he set?;Будет ли он установить?
+He will not set.;Он не будет устанавливать.
+He will set.;Он установит.
+Does he set?;Он установил?
+He doesn't set.;Он не садится.
+He setes.;Он видит.
+Did he set?;Он установил?
+He didn't set.;Он не сидел.
+He set.;Он установил.
+Will she set?;Будет ли она установить?
+She will not set.;Она не будет устанавливать.
+She will set.;Она установит.
+Does she set?;Она установила?
+She doesn't set.;Она не садится.
+She setes.;Она сидит.
+Did she set?;Она поставила?
+She didn't set.;Она не сидела.
+She set.;Она установлена.
+Will i understand?;Я пойму?
+I will not understand.;Я не пойму.
+I will understand.;Я пойму.
+Do i understand?;Я понимаю?
+I don't understand.;Я не понимаю
+I understand.;Я понимаю.
+Did i understand?;Я понял?
+I didn't understand.;Я не поняла
+I understood.;Я понял.
+Will you understand?;Ты поймешь?
+You will not understand.;Вы не поймете.
+You will understand.;Ты поймешь.
+Do you understand?;Вы понимаете?
+You don't understand.;Вы не понимаете
+You understand.;Вы понимаете.
+Did you understand?;Ты понял?
+You didn't understand.;Вы не поняли.
+You understood.;Вы поняли.
+Will we understand?;Будем ли мы понимать?
+We will not understand.;Мы не поймем.
+We will understand.;Мы поймем.
+Do we understand?;Мы понимаем?
+We don't understand.;Мы не понимаем.
+We understand.;Мы понимаем.
+Did we understand?;Мы поняли?
+We didn't understand.;Мы не поняли.
+We understood.;Мы понимаем.
+Will they understand?;Они поймут?
+They will not understand.;Они не поймут.
+They will understand.;Они поймут.
+Do they understand?;Они понимают?
+They don't understand.;Они не понимают
+They understand.;Они понимают.
+Did they understand?;Они поняли?
+They didn't understand.;Они не поняли.
+They understood.;Они поняли.
+Will he understand?;Он поймет?
+He will not understand.;Он не поймет.
+He will understand.;Он поймет.
+Does he understand?;Он понимает?
+He doesn't understand.;Он не понимает
+He understandes.;Он понимает.
+Did he understand?;Он понял?
+He didn't understand.;Он не понял.
+He understood.;Он понял.
+Will she understand?;Она поймет?
+She will not understand.;Она не поймет.
+She will understand.;Она поймет.
+Does she understand?;Она понимает?
+She doesn't understand.;Она не понимает
+She understandes.;Она понимает.
+Did she understand?;Она поняла?
+She didn't understand.;Она не поняла.
+She understood.;Она поняла.
+Will i speak?;Я буду говорить?
+I will not speak.;Я не буду говорить.
+I will speak.;Я буду говорить.
+Do i speak?;Я говорю?
+I don't speak.;Я не говорю
+I speak.;Я говорю.
+Did i speak?;Я говорил?
+I didn't speak.;Я не говорил
+I spoke.;Я говорил.
+Will you speak?;Ты будешь говорить?
+You will not speak.;Вы не будете говорить.
+You will speak.;Вы будете говорить.
+Do you speak?;Вы говорите?
+You don't speak.;Ты не говоришь.
+You speak.;Ты говоришь.
+Did you speak?;Ты говорил?
+You didn't speak.;Ты не говорил.
+You spoke.;Ты говорил.
+Will we speak?;Будем ли мы говорить?
+We will not speak.;Мы не будем говорить.
+We will speak.;Мы будем говорить.
+Do we speak?;Мы говорим?
+We don't speak.;Мы не говорим
+We speak.;Мы говорим.
+Did we speak?;Мы говорили?
+We didn't speak.;Мы не говорили.
+We spoke.;Мы говорили.
+Will they speak?;Будут ли они говорить?
+They will not speak.;Они не будут говорить.
+They will speak.;Они будут говорить.
+Do they speak?;Они говорят?
+They don't speak.;Они не говорят.
+They speak.;Они говорят.
+Did they speak?;Они говорили?
+They didn't speak.;Они не говорили.
+They spoke.;Они говорили.
+Will he speak?;Будет ли он говорить?
+He will not speak.;Он не будет говорить.
+He will speak.;Он будет говорить.
+Does he speak?;Он говорит?
+He doesn't speak.;Он не говорит
+He speakes.;Он говорит.
+Did he speak?;Он говорил?
+He didn't speak.;Он не говорил.
+He spoke.;Он говорил.
+Will she speak?;Будет ли она говорить?
+She will not speak.;Она не будет говорить.
+She will speak.;Она будет говорить
+Does she speak?;Она говорит?
+She doesn't speak.;Она не говорит
+She speakes.;Она говорит.
+Did she speak?;Она говорила?
+She didn't speak.;Она не говорила.
+She spoke.;Она говорила.
+Will i read?;Буду ли я читать?
+I will not read.;Я не буду читать.
+I will read.;Я прочитаю.
+Do i read?;Я читаю?
+I don't read.;Я не читаю
+I read.;Я читаю.
+Did i read?;Я читал?
+I didn't read.;Я не читал.
+I read.;Я читаю.
+Will you read?;Будешь читать?
+You will not read.;Вы не будете читать.
+You will read.;Вы будете читать.
+Do you read?;Вы читаете?
+You don't read.;Вы не читаете.
+You read.;Ты читаешь.
+Did you read?;Вы читали?
+You didn't read.;Вы не читали.
+You read.;Ты читаешь.
+Will we read?;Будем ли мы читать?
+We will not read.;Мы не будем читать.
+We will read.;Мы будем читать.
+Do we read?;Мы читаем?
+We don't read.;Мы не читаем.
+We read.;Мы читаем.
+Did we read?;Мы читали?
+We didn't read.;Мы не читали.
+We read.;Мы читаем.
+Will they read?;Будут ли они читать?
+They will not read.;Они не будут читать.
+They will read.;Они будут читать.
+Do they read?;Они читают?
+They don't read.;Они не читают.
+They read.;Они читают.
+Did they read?;Они читали?
+They didn't read.;Они не читали.
+They read.;Они читают.
+Will he read?;Будет ли он читать?
+He will not read.;Он не будет читать.
+He will read.;Он будет читать.
+Does he read?;Он читает?
+He doesn't read.;Он не читает.
+He reades.;Он читает.
+Did he read?;Он читал?
+He didn't read.;Он не читал.
+He read.;Он читал.
+Will she read?;Будет ли она читать?
+She will not read.;Она не будет читать.
+She will read.;Она будет читать.
+Does she read?;Она читает?
+She doesn't read.;Она не читает
+She reades.;Она читает.
+Did she read?;Она читала?
+She didn't read.;Она не читала.
+She read.;Она читает.
+Will i spend?;Я потрачу?
+I will not spend.;Я не буду тратить.
+I will spend.;Я потрачу.
+Do i spend?;Я трачу?
+I don't spend.;Я не трачу.
+I spend.;Я потратил.
+Did i spend?;Я потратил?
+I didn't spend.;Я не тратила
+I spent.;Я потратил.
+Will you spend?;Вы потратите?
+You will not spend.;Вы не будете тратить.
+You will spend.;Вы потратите.
+Do you spend?;Ты тратишь?
+You don't spend.;Вы не тратите.
+You spend.;Ты тратишь.
+Did you spend?;Ты потратил?
+You didn't spend.;Вы не потратили.
+You spent.;Ты потратил.
+Will we spend?;Будем ли мы тратить?
+We will not spend.;Мы не будем тратить.
+We will spend.;Мы проведем.
+Do we spend?;Мы тратим?
+We don't spend.;Мы не тратим.
+We spend.;Мы тратим.
+Did we spend?;Мы потратили?
+We didn't spend.;Мы не тратили.
+We spent.;Мы потратили.
+Will they spend?;Будут ли они тратить?
+They will not spend.;Они не будут тратить.
+They will spend.;Они будут тратить.
+Do they spend?;Они тратят?
+They don't spend.;Они не тратят.
+They spend.;Они тратят.
+Did they spend?;Они потратили?
+They didn't spend.;Они не тратили.
+They spent.;Они потратили.
+Will he spend?;Он потратит?
+He will not spend.;Он не будет тратить.
+He will spend.;Он потратит.
+Does he spend?;Он тратит?
+He doesn't spend.;Он не тратит.
+He spendes.;Он тратит.
+Did he spend?;Он провел?
+He didn't spend.;Он не провел.
+He spent.;Он провел.
+Will she spend?;Она потратит?
+She will not spend.;Она не будет тратить.
+She will spend.;Она потратит
+Does she spend?;Она тратит?
+She doesn't spend.;Она не тратит.
+She spendes.;Она тратит.
+Did she spend?;Она потратила?
+She didn't spend.;Она не тратила.
+She spent.;Она провела.
+Will i grow?;Я буду расти?
+I will not grow.;Я не буду расти.
+I will grow.;Я буду расти
+Do i grow?;Я расту?
+I don't grow.;Я не расту.
+I grow.;Я расту
+Did i grow?;Я вырос?
+I didn't grow.;Я не вырос.
+I grew.;Я вырос.
+Will you grow?;Вы будете расти?
+You will not grow.;Вы не будете расти.
+You will grow.;Вы будете расти.
+Do you grow?;Вы растете?
+You don't grow.;Ты не растешь.
+You grow.;Вы растете.
+Did you grow?;Вы выросли?
+You didn't grow.;Вы не выросли.
+You grew.;Вы выросли.
+Will we grow?;Будем ли мы расти?
+We will not grow.;Мы не будем расти.
+We will grow.;Мы будем расти.
+Do we grow?;Мы растем?
+We don't grow.;Мы не растем.
+We grow.;Мы растем.
+Did we grow?;Мы выросли?
+We didn't grow.;Мы не росли.
+We grew.;Мы выросли.
+Will they grow?;Будут ли они расти?
+They will not grow.;Они не будут расти.
+They will grow.;Они будут расти.
+Do they grow?;Они растут?
+They don't grow.;Они не растут.
+They grow.;Они растут.
+Did they grow?;Они выросли?
+They didn't grow.;Они не росли.
+They grew.;Они выросли.
+Will he grow?;Будет ли он расти?
+He will not grow.;Он не будет расти.
+He will grow.;Он будет расти.
+Does he grow?;Он растет?
+He doesn't grow.;Он не растет.
+He growes.;Он растет.
+Did he grow?;Он вырос?
+He didn't grow.;Он не вырос.
+He grew.;Он вырос.
+Will she grow?;Будет ли она расти?
+She will not grow.;Она не будет расти.
+She will grow.;Она будет расти
+Does she grow?;Она растет?
+She doesn't grow.;Она не растет.
+She growes.;Она растет.
+Did she grow?;Она выросла?
+She didn't grow.;Она не росла.
+She grew.;Она выросла.
+Will i win?;Я выиграю?
+I will not win.;Я не выиграю.
+I will win.;Я одержу победу.
+Do i win?;Я выиграю?
+I don't win.;Я не выигрываю.
+I win.;Я выигрываю.
+Did i win?;Я выиграл?
+I didn't win.;Я не выиграл.
+I won.;Я выиграл.
+Will you win?;Вы выиграете?
+You will not win.;Вы не выиграете.
+You will win.;Ты победишь.
+Do you win?;Ты выиграл?
+You don't win.;Ты не выиграл.
+You win.;Ты победил.
+Did you win?;Ты выиграл?
+You didn't win.;Вы не выиграли.
+You won.;Ты выиграл.
+Will we win?;Мы победим?
+We will not win.;Мы не победим.
+We will win.;Мы победим.
+Do we win?;Мы победим?
+We don't win.;Мы не выигрываем.
+We win.;Мы победили.
+Did we win?;Мы победили?
+We didn't win.;Мы не выиграли.
+We won.;Мы выиграли.
+Will they win?;Они победят?
+They will not win.;Они не победят.
+They will win.;Они победят.
+Do they win?;Они выигрывают?
+They don't win.;Они не побеждают.
+They win.;Они побеждают.
+Did they win?;Они победили?
+They didn't win.;Они не победили.
+They won.;Они выиграли.
+Will he win?;Он победит?
+He will not win.;Он не победит.
+He will win.;Он победит.
+Does he win?;Он побеждает?
+He doesn't win.;Он не побеждает.
+He wines.;Он вин.
+Did he win?;Он победил?
+He didn't win.;Он не победил.
+He won.;Он выиграл.
+Will she win?;Она победит?
+She will not win.;Она не победит.
+She will win.;Она победит
+Does she win?;Она победит?
+She doesn't win.;Она не побеждает.
+She wines.;Она вина.
+Did she win?;Она победила?
+She didn't win.;Она не победила.
+She won.;Она выиграла.
+Will i teach?;Буду ли я учить?
+I will not teach.;Я не буду учить.
+I will teach.;Я научу.
+Do i teach?;Я учу?
+I don't teach.;Я не учу
+I teach.;Я учу.
+Did i teach?;Я учил?
+I didn't teach.;Я не учил.
+I taught.;Я научил.
+Will you teach?;Будете ли вы учить?
+You will not teach.;Вы не будете учить.
+You will teach.;Вы будете учить.
+Do you teach?;Вы учите?
+You don't teach.;Ты не учишь.
+You teach.;Ты преподаешь.
+Did you teach?;Вы учили?
+You didn't teach.;Ты не учил.
+You taught.;Вы учили.
+Will we teach?;Будем ли мы учить?
+We will not teach.;Мы не будем учить.
+We will teach.;Мы будем учить.
+Do we teach?;Мы учим?
+We don't teach.;Мы не учим.
+We teach.;Мы учим.
+Did we teach?;Мы учили?
+We didn't teach.;Мы не учили.
+We taught.;Мы учили.
+Will they teach?;Будут ли они учить?
+They will not teach.;Они не будут учить.
+They will teach.;Они будут учить.
+Do they teach?;Они преподают?
+They don't teach.;Они не учат.
+They teach.;Они учат.
+Did they teach?;Они учили?
+They didn't teach.;Они не учили.
+They taught.;Они учили.
+Will he teach?;Будет ли он учить?
+He will not teach.;Он не будет учить.
+He will teach.;Он научит
+Does he teach?;Он учит?
+He doesn't teach.;Он не учит.
+He teaches.;Он учит.
+Did he teach?;Он учил?
+He didn't teach.;Он не учил.
+He taught.;Он учил.
+Will she teach?;Будет ли она преподавать?
+She will not teach.;Она не будет учить.
+She will teach.;Она научит
+Does she teach?;Она учит?
+She doesn't teach.;Она не учит.
+She teaches.;Она преподает.
+Did she teach?;Она научила?
+She didn't teach.;Она не учила.
+She taught.;Она научила.
+Will i buy?;Я куплю?
+I will not buy.;Я не буду покупать.
+I will buy.;Я куплю.
+Do i buy?;Я покупаю?
+I don't buy.;Я не покупаю.
+I buy.;Я покупаю.
+Did i buy?;Я купил?
+I didn't buy.;Я не покупал.
+I bought.;Я купил.
+Will you buy?;Будешь покупать?
+You will not buy.;Вы не купите.
+You will buy.;Вы будете покупать.
+Do you buy?;Ты покупаешь?
+You don't buy.;Вы не покупаете.
+You buy.;Ты покупаешь.
+Did you buy?;Ты купил?
+You didn't buy.;Вы не купили.
+You bought.;Вы купили.
+Will we buy?;Будем ли мы покупать?
+We will not buy.;Мы не будем покупать.
+We will buy.;Мы будем покупать.
+Do we buy?;Мы покупаем?
+We don't buy.;Мы не покупаем.
+We buy.;Мы покупаем.
+Did we buy?;Мы купили?
+We didn't buy.;Мы не покупали.
+We bought.;Мы купили.
+Will they buy?;Будут ли они покупать?
+They will not buy.;Они не будут покупать.
+They will buy.;Они купят.
+Do they buy?;Они покупают?
+They don't buy.;Они не покупают.
+They buy.;Они покупают.
+Did they buy?;Они купили?
+They didn't buy.;Они не покупали.
+They bought.;Они купили.
+Will he buy?;Он купит?
+He will not buy.;Он не купит.
+He will buy.;Он купит.
+Does he buy?;Он покупает?
+He doesn't buy.;Он не покупает.
+He bues.;Он покупает.
+Did he buy?;Он купил?
+He didn't buy.;Он не купил.
+He bought.;Он купил.
+Will she buy?;Она купит?
+She will not buy.;Она не купит.
+She will buy.;Она купит.
+Does she buy?;Она покупает?
+She doesn't buy.;Она не покупает.
+She bues.;Она покупает.
+Did she buy?;Она купила?
+She didn't buy.;Она не покупала.
+She bought.;Она купила.
+Will i send?;Я отправлю?
+I will not send.;Я не отправлю.
+I will send.;Я пошлю.
+Do i send?;Я отправляю?
+I don't send.;Я не отправляю.
+I send.;Я отправляю.
+Did i send?;Я отправил?
+I didn't send.;Я не отправил.
+I sent.;Я отправил.
+Will you send?;Вы отправите?
+You will not send.;Вы не отправите.
+You will send.;Ты отправишь.
+Do you send?;Вы отправляете?
+You don't send.;Вы не отправляете.
+You send.;Вы отправляете.
+Did you send?;Ты отправил?
+You didn't send.;Вы не отправили.
+You sent.;Ты послал.
+Will we send?;Мы отправим?
+We will not send.;Мы не будем отправлять.
+We will send.;Мы отправим.
+Do we send?;Мы отправляем?
+We don't send.;Мы не отправляем.
+We send.;Мы отправляем.
+Did we send?;Мы отправили?
+We didn't send.;Мы не отправили.
+We sent.;Мы отправили.
+Will they send?;Они отправят?
+They will not send.;Они не отправят.
+They will send.;Они отправят.
+Do they send?;Они отправляют?
+They don't send.;Они не отправляют.
+They send.;Они отправляют.
+Did they send?;Они отправили?
+They didn't send.;Они не отправили.
+They sent.;Они послали.
+Will he send?;Он отправит?
+He will not send.;Он не отправит.
+He will send.;Он отправит.
+Does he send?;Он отправляет?
+He doesn't send.;Он не отправляет.
+He sendes.;Он отправляет.
+Did he send?;Он отправил?
+He didn't send.;Он не отправил.
+He sent.;Он послал.
+Will she send?;Она отправит?
+She will not send.;Она не отправит.
+She will send.;Она отправит.
+Does she send?;Она отправляет?
+She doesn't send.;Она не отправляет.
+She sendes.;Она отправляет.
+Did she send?;Она отправила?
+She didn't send.;Она не отправила.
+She sent.;Она отправила.
+Will i build?;Буду ли я строить?
+I will not build.;Я не буду строить.
+I will build.;Я буду строить.
+Do i build?;Я строю?
+I don't build.;Я не строю.
+I build.;Я строю.
+Did i build?;Я строил?
+I didn't build.;Я не строил.
+I built.;Я построил.
+Will you build?;Будете ли вы строить?
+You will not build.;Вы не будете строить.
+You will build.;Вы будете строить.
+Do you build?;Ты строишь?
+You don't build.;Вы не строите.
+You build.;Вы строите.
+Did you build?;Вы строили?
+You didn't build.;Вы не строили.
+You built.;Вы построили.
+Will we build?;Будем ли мы строить?
+We will not build.;Мы не будем строить.
+We will build.;Мы будем строить.
+Do we build?;Мы строим?
+We don't build.;Мы не строим.
+We build.;Мы строим.
+Did we build?;Мы строили?
+We didn't build.;Мы не строили.
+We built.;Мы построили.
+Will they build?;Будут ли они строить?
+They will not build.;Они не будут строить.
+They will build.;Они будут строить.
+Do they build?;Они строят?
+They don't build.;Они не строят.
+They build.;Они строят.
+Did they build?;Они строили?
+They didn't build.;Они не строили.
+They built.;Они построили.
+Will he build?;Будет ли он строить?
+He will not build.;Он не будет строить.
+He will build.;Он будет строить.
+Does he build?;Он строит?
+He doesn't build.;Он не строит.
+He buildes.;Он строит.
+Did he build?;Он строил?
+He didn't build.;Он не строил.
+He built.;Он построил.
+Will she build?;Будет ли она строить?
+She will not build.;Она не будет строить.
+She will build.;Она будет строить.
+Does she build?;Она строит?
+She doesn't build.;Она не строит.
+She buildes.;Она строит.
+Did she build?;Она строила?
+She didn't build.;Она не строила.
+She built.;Она построена.
+Will i fall?;Я упаду?
+I will not fall.;Я не упаду.
+I will fall.;Я упаду
+Do i fall?;Я падаю?
+I don't fall.;Я не падаю
+I fall.;Я упал.
+Did i fall?;Я упал?
+I didn't fall.;Я не упал.
+I fell.;Я упал.
+Will you fall?;Ты упадешь?
+You will not fall.;Ты не упадешь.
+You will fall.;Ты упадешь.
+Do you fall?;Ты падаешь?
+You don't fall.;Ты не падаешь.
+You fall.;Вы падаете.
+Did you fall?;Ты упал?
+You didn't fall.;Ты не упал.
+You fell.;Ты упал.
+Will we fall?;Будем ли мы падать?
+We will not fall.;Мы не упадем.
+We will fall.;Мы упадем.
+Do we fall?;Мы падаем?
+We don't fall.;Мы не падаем.
+We fall.;Мы падаем.
+Did we fall?;Мы упали?
+We didn't fall.;Мы не упали.
+We fell.;Мы упали.
+Will they fall?;Будут ли они падать?
+They will not fall.;Они не упадут.
+They will fall.;Они упадут.
+Do they fall?;Они падают?
+They don't fall.;Они не падают.
+They fall.;Они падают.
+Did they fall?;Они упали?
+They didn't fall.;Они не упали.
+They fell.;Они упали.
+Will he fall?;Упадет ли он?
+He will not fall.;Он не упадет.
+He will fall.;Он упадет
+Does he fall?;Он падает?
+He doesn't fall.;Он не падает.
+He falles.;Он ошибается.
+Did he fall?;Он упал?
+He didn't fall.;Он не упал.
+He fell.;Он упал.
+Will she fall?;Она упадет?
+She will not fall.;Она не упадет.
+She will fall.;Она упадет
+Does she fall?;Она падает?
+She doesn't fall.;Она не падает.
+She falles.;Она ошибается.
+Did she fall?;Она упала?
+She didn't fall.;Она не упала.
+She fell.;Она упала.
+Will i cut?;Я порежу?
+I will not cut.;Я не буду резать.
+I will cut.;Я буду резать.
+Do i cut?;Я режу?
+I don't cut.;Я не режу.
+I cut.;Я режу.
+Did i cut?;Я вырезал?
+I didn't cut.;Я не резал.
+I cut.;Я режу.
+Will you cut?;Вы будете резать?
+You will not cut.;Вы не будете резать.
+You will cut.;Вы будете резать.
+Do you cut?;Вы режете?
+You don't cut.;Вы не режете.
+You cut.;Вы режете.
+Did you cut?;Вы порезали?
+You didn't cut.;Вы не резали.
+You cut.;Вы режете.
+Will we cut?;Мы будем резать?
+We will not cut.;Мы не будем резать.
+We will cut.;Мы будем резать.
+Do we cut?;Мы режем?
+We don't cut.;Мы не режем.
+We cut.;Режем.
+Did we cut?;Мы вырезали?
+We didn't cut.;Мы не резали.
+We cut.;Режем.
+Will they cut?;Будут ли они резать?
+They will not cut.;Они не будут резать.
+They will cut.;Они будут резать.
+Do they cut?;Они режут?
+They don't cut.;Они не режут.
+They cut.;Они режут.
+Did they cut?;Они вырезали?
+They didn't cut.;Они не режут.
+They cut.;Они режут.
+Will he cut?;Будет ли он резать?
+He will not cut.;Он не будет резать.
+He will cut.;Он будет резать.
+Does he cut?;Он рубит?
+He doesn't cut.;Он не режет.
+He cutes.;Он приятный
+Did he cut?;Он порезал?
+He didn't cut.;Он не порезал.
+He cut.;Он порезал.
+Will she cut?;Она порежет?
+She will not cut.;Она не будет резать.
+She will cut.;Она будет резать.
+Does she cut?;Она режет?
+She doesn't cut.;Она не режет.
+She cutes.;Она милашка
+Did she cut?;Она порезала?
+She didn't cut.;Она не порезала.
+She cut.;Она порезала.
+Will i sell?;Я продам?
+I will not sell.;Я не буду продавать.
+I will sell.;Я продам
+Do i sell?;Я продаю?
+I don't sell.;Я не продаю
+I sell.;Я продаю.
+Did i sell?;Я продал?
+I didn't sell.;Я не продал.
+I sold.;Старый.
+Will you sell?;Будешь продавать?
+You will not sell.;Вы не будете продавать.
+You will sell.;Вы будете продавать.
+Do you sell?;Вы продаете?
+You don't sell.;Вы не продаете.
+You sell.;Вы продаете.
+Did you sell?;Вы продали?
+You didn't sell.;Вы не продали.
+You sold.;Ты продал.
+Will we sell?;Будем ли мы продавать?
+We will not sell.;Мы не будем продавать.
+We will sell.;Мы будем продавать.
+Do we sell?;Мы продаем?
+We don't sell.;Мы не продаем.
+We sell.;Мы продаем.
+Did we sell?;Мы продали?
+We didn't sell.;Мы не продавали.
+We sold.;Мы продали.
+Will they sell?;Будут ли они продавать?
+They will not sell.;Они не будут продавать.
+They will sell.;Они будут продавать.
+Do they sell?;Они продают?
+They don't sell.;Они не продают.
+They sell.;Они продают.
+Did they sell?;Они продали?
+They didn't sell.;Они не продавали.
+They sold.;Они продали.
+Will he sell?;Он продаст?
+He will not sell.;Он не будет продавать.
+He will sell.;Он продаст.
+Does he sell?;Он продает?
+He doesn't sell.;Он не продает.
+He selles.;Он продает.
+Did he sell?;Он продал?
+He didn't sell.;Он не продал.
+He sold.;Он продал.
+Will she sell?;Она продаст?
+She will not sell.;Она не будет продавать.
+She will sell.;Она продаст.
+Does she sell?;Она продает?
+She doesn't sell.;Она не продает.
+She selles.;Она продает.
+Did she sell?;Она продала?
+She didn't sell.;Она не продала.
+She sold.;Она продала.
+Will i break?;Я сломаюсь?
+I will not break.;Я не сломаюсь.
+I will break.;Я сломаюсь.
+Do i break?;Я сломаюсь?
+I don't break.;Я не ломаюсь.
+I break.;Я ломаю
+Did i break?;Я сломался?
+I didn't break.;Я не сломался.
+I broke.;Я сломал.
+Will you break?;Ты сломаешься?
+You will not break.;Ты не сломаешься.
+You will break.;Ты сломаешься.
+Do you break?;Ты ломаешься?
+You don't break.;Ты не сломаешься.
+You break.;Вы ломаете.
+Did you break?;Ты сломал?
+You didn't break.;Вы не сломались.
+You broke.;Вы сломались.
+Will we break?;Мы сломаемся?
+We will not break.;Мы не сломаемся.
+We will break.;Мы сломаемся.
+Do we break?;Мы ломаемся?
+We don't break.;Мы не ломаемся.
+We break.;Мы нарушаем.
+Did we break?;Мы сломались?
+We didn't break.;Мы не сломались.
+We broke.;Мы расстались.
+Will they break?;Они сломаются?
+They will not break.;Они не сломаются.
+They will break.;Они сломаются.
+Do they break?;Они ломаются?
+They don't break.;Они не ломаются.
+They break.;Они ломаются.
+Did they break?;Они сломались?
+They didn't break.;Они не сломались.
+They broke.;Они сломались.
+Will he break?;Он сломается?
+He will not break.;Он не сломается.
+He will break.;Он сломается.
+Does he break?;Он ломается?
+He doesn't break.;Он не ломается.
+He breakes.;Он ломается.
+Did he break?;Он сломался?
+He didn't break.;Он не сломался.
+He broke.;Он сломал.
+Will she break?;Она сломается?
+She will not break.;Она не сломается.
+She will break.;Она сломается.
+Does she break?;Она ломается?
+She doesn't break.;Она не ломается.
+She breakes.;Она ломается.
+Did she break?;Она сломалась?
+She didn't break.;Она не сломалась.
+She broke.;Она сломала.
+Will i hit?;Я ударю?
+I will not hit.;Я не буду бить.
+I will hit.;Я ударю
+Do i hit?;Я ударил?
+I don't hit.;Я не бью.
+I hit.;Я ударил.
+Did i hit?;Я ударил?
+I didn't hit.;Я не ударил.
+I hit.;Я ударил.
+Will you hit?;Будешь бить?
+You will not hit.;Вы не будете поражены.
+You will hit.;Вы ударите.
+Do you hit?;Ты ударил?
+You don't hit.;Вы не попали.
+You hit.;Ты попал.
+Did you hit?;Ты ударил?
+You didn't hit.;Ты не ударил.
+You hit.;Ты попал.
+Will we hit?;Будем ли мы бить?
+We will not hit.;Мы не будем бить.
+We will hit.;Мы будем бить.
+Do we hit?;Мы попали?
+We don't hit.;Мы не попали.
+We hit.;Мы ударили.
+Did we hit?;Мы ударили?
+We didn't hit.;Мы не попали.
+We hit.;Мы ударили.
+Will they hit?;Будут ли они ударить?
+They will not hit.;Они не будут бить.
+They will hit.;Они будут бить.
+Do they hit?;Они бьют?
+They don't hit.;Они не бьют.
+They hit.;Они попали.
+Did they hit?;Они ударили?
+They didn't hit.;Они не попали.
+They hit.;Они попали.
+Will he hit?;Будет ли он ударить?
+He will not hit.;Он не ударит.
+He will hit.;Он ударит.
+Does he hit?;Он ударил?
+He doesn't hit.;Он не бьет.
+He hites.;Он скрывает
+Did he hit?;Он ударил?
+He didn't hit.;Он не ударил.
+He hit.;Он ударил.
+Will she hit?;Будет ли она ударить?
+She will not hit.;Она не ударит.
+She will hit.;Она ударит.
+Does she hit?;Она ударила?
+She doesn't hit.;Она не бьет
+She hites.;Она прячется
+Did she hit?;Она ударила?
+She didn't hit.;Она не попала.
+She hit.;Она ударила.
+Will i eat?;Я буду есть?
+I will not eat.;Я не буду есть.
+I will eat.;Я буду есть.
+Do i eat?;Я ем?
+I don't eat.;Я не ем
+I eat.;Я ем.
+Did i eat?;Я ел?
+I didn't eat.;Я не ел.
+I ate.;Я съел.
+Will you eat?;Будешь есть?
+You will not eat.;Вы не будете есть.
+You will eat.;Ты будешь есть.
+Do you eat?;Вы едите?
+You don't eat.;Ты не ешь.
+You eat.;Ты ешь.
+Did you eat?;Ты поел?
+You didn't eat.;Ты не ел.
+You ate.;Вы ели.
+Will we eat?;Мы будем есть?
+We will not eat.;Мы не будем есть.
+We will eat.;Мы будем есть.
+Do we eat?;Мы едим?
+We don't eat.;Мы не едим.
+We eat.;Мы едим.
+Did we eat?;Мы ели?
+We didn't eat.;Мы не ели.
+We ate.;Мы поели.
+Will they eat?;Будут ли они есть?
+They will not eat.;Они не будут есть.
+They will eat.;Они будут есть.
+Do they eat?;Они едят?
+They don't eat.;Они не едят.
+They eat.;Они едят.
+Did they eat?;Они ели?
+They didn't eat.;Они не ели.
+They ate.;Они ели.
+Will he eat?;Будет ли он есть?
+He will not eat.;Он не будет есть.
+He will eat.;Он будет есть.
+Does he eat?;Он ест?
+He doesn't eat.;Он не ест.
+He eates.;Он ест.
+Did he eat?;Он ел?
+He didn't eat.;Он не ел.
+He ate.;Он ел.
+Will she eat?;Будет ли она есть?
+She will not eat.;Она не будет есть.
+She will eat.;Она будет есть.
+Does she eat?;Она ест?
+She doesn't eat.;Она не ест
+She eates.;Она ест.
+Did she eat?;Она ела?
+She didn't eat.;Она не ела.
+She ate.;Она съела.
+Will i catch?;Я поймаю?
+I will not catch.;Я не поймаю.
+I will catch.;Я поймаю.
+Do i catch?;Я ловлю?
+I don't catch.;Я не ловлю.
+I catch.;Я ловлю.
+Did i catch?;Я поймал?
+I didn't catch.;Я не поймал.
+I caught.;Я поймал.
+Will you catch?;Будешь ловить?
+You will not catch.;Ты не поймаешь.
+You will catch.;Вы поймаете.
+Do you catch?;Ты ловишь?
+You don't catch.;Вы не ловите.
+You catch.;Вы ловите.
+Did you catch?;Вы поймали?
+You didn't catch.;Вы не поймали.
+You caught.;Вы поймали.
+Will we catch?;Будем ли мы ловить?
+We will not catch.;Мы не будем ловить.
+We will catch.;Мы поймаем.
+Do we catch?;Мы ловим?
+We don't catch.;Мы не ловим.
+We catch.;Мы ловим.
+Did we catch?;Мы поймали?
+We didn't catch.;Мы не поймали.
+We caught.;Мы поймали.
+Will they catch?;Будут ли они ловить?
+They will not catch.;Они не будут ловить.
+They will catch.;Они будут ловить.
+Do they catch?;Они ловят?
+They don't catch.;Они не ловят.
+They catch.;Они ловят.
+Did they catch?;Они поймали?
+They didn't catch.;Они не поймали.
+They caught.;Они поймали.
+Will he catch?;Он поймает?
+He will not catch.;Он не поймает.
+He will catch.;Он поймает.
+Does he catch?;Он ловит?
+He doesn't catch.;Он не ловит.
+He catches.;Он ловит.
+Did he catch?;Он поймал?
+He didn't catch.;Он не поймал.
+He caught.;Он поймал.
+Will she catch?;Она поймает?
+She will not catch.;Она не поймает.
+She will catch.;Она поймает.
+Does she catch?;Она ловит?
+She doesn't catch.;Она не ловит.
+She catches.;Она ловит.
+Did she catch?;Она поймала?
+She didn't catch.;Она не поймала.
+She caught.;Она поймала.
+Will i draw?;Буду ли я рисовать?
+I will not draw.;Я не буду рисовать.
+I will draw.;Я буду рисовать.
+Do i draw?;Я рисую?
+I don't draw.;Я не рисую.
+I draw.;Я рисую.
+Did i draw?;Я рисовал?
+I didn't draw.;Я не рисовал.
+I drew.;Я обратил.
+Will you draw?;Вы будете рисовать?
+You will not draw.;Вы не будете рисовать.
+You will draw.;Вы будете рисовать.
+Do you draw?;Ты рисуешь?
+You don't draw.;Вы не рисуете.
+You draw.;Ты рисуешь.
+Did you draw?;Вы рисовали?
+You didn't draw.;Вы не рисовали.
+You drew.;Вы рисовали.
+Will we draw?;Будем ли мы рисовать?
+We will not draw.;Мы не будем рисовать.
+We will draw.;Мы будем рисовать.
+Do we draw?;Мы рисуем?
+We don't draw.;Мы не рисуем.
+We draw.;Мы рисуем.
+Did we draw?;Мы рисовали?
+We didn't draw.;Мы не рисовали.
+We drew.;Мы рисовали.
+Will they draw?;Будут ли они рисовать?
+They will not draw.;Они не будут рисовать.
+They will draw.;Они будут рисовать.
+Do they draw?;Они рисуют?
+They don't draw.;Они не рисуют.
+They draw.;Они рисуют.
+Did they draw?;Они рисовали?
+They didn't draw.;Они не рисовали.
+They drew.;Они рисовали.
+Will he draw?;Будет ли он рисовать?
+He will not draw.;Он не будет рисовать.
+He will draw.;Он нарисует.
+Does he draw?;Он рисует?
+He doesn't draw.;Он не рисует.
+He drawes.;Он рисует.
+Did he draw?;Он рисовал?
+He didn't draw.;Он не рисовал.
+He drew.;Он нарисовал.
+Will she draw?;Будет ли она рисовать?
+She will not draw.;Она не будет рисовать.
+She will draw.;Она нарисует.
+Does she draw?;Она рисует?
+She doesn't draw.;Она не рисует.
+She drawes.;Она рисует.
+Did she draw?;Она рисовала?
+She didn't draw.;Она не рисовала.
+She drew.;Она рисовала.
+Will i choose?;Я выберу?
+I will not choose.;Я не выберу.
+I will choose.;Я выберу.
+Do i choose?;Я выбираю?
+I don't choose.;Я не выбираю.
+I choose.;Я выбираю.
+Did i choose?;Я выбрал?
+I didn't choose.;Я не выбрал.
+I chose.;Я выбираю.
+Will you choose?;Вы выберете?
+You will not choose.;Вы не будете выбирать.
+You will choose.;Вы выберете.
+Do you choose?;Вы выбираете?
+You don't choose.;Вы не выбираете.
+You choose.;Твой выбор.
+Did you choose?;Вы выбрали?
+You didn't choose.;Вы не выбрали.
+You chose.;Вы выбрали.
+Will we choose?;Будем ли мы выбирать?
+We will not choose.;Мы не будем выбирать.
+We will choose.;Мы выберем.
+Do we choose?;Мы выбираем?
+We don't choose.;Мы не выбираем.
+We choose.;Мы выбираем.
+Did we choose?;Мы выбрали?
+We didn't choose.;Мы не выбрали.
+We chose.;Мы выбрали.
+Will they choose?;Будут ли они выбирать?
+They will not choose.;Они не будут выбирать.
+They will choose.;Они выберут.
+Do they choose?;Они выбирают?
+They don't choose.;Они не выбирают.
+They choose.;Они выбирают.
+Did they choose?;Они выбрали?
+They didn't choose.;Они не выбрали.
+They chose.;Они выбирают.
+Will he choose?;Он выберет?
+He will not choose.;Он не выберет.
+He will choose.;Он выберет.
+Does he choose?;Он выбирает?
+He doesn't choose.;Он не выбирает.
+He chooses.;Он выбирает.
+Did he choose?;Он выбрал?
+He didn't choose.;Он не выбрал.
+He chose.;Он выбрал.
+Will she choose?;Она выберет?
+She will not choose.;Она не выберет.
+She will choose.;Она выберет.
+Does she choose?;Она выбирает?
+She doesn't choose.;Она не выбирает.
+She chooses.;Она выбирает.
+Did she choose?;Она выбрала?
+She didn't choose.;Она не выбирала.
+She chose.;Она выбрала
+
