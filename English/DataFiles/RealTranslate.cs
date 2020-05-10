@@ -32,7 +32,6 @@ namespace English
 
         public void FillEverythingFromLine(string line, char separator)
         {
-            
             var str = line.Split(separator);
             EnglishSentence = str[0];
             RussianSentence = str[1];

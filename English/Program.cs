@@ -12,23 +12,13 @@ namespace English
    
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            string path = @"D:\Дмитрий\source\repos\English\English\DataFiles\Verbs.txt";
             WorkWithFiles workWithFiles = new WorkWithFiles();
-
-            List<Pronoun> pronouns = new List<Pronoun>();
-            pronouns.Add(new Pronoun("I"));
-            pronouns.Add(new Pronoun("You"));
-            pronouns.Add(new Pronoun("We"));
-            pronouns.Add(new Pronoun("They"));
-            pronouns.Add(new Pronoun("He"));
-            pronouns.Add(new Pronoun("She"));
-
             List<RulesVerbAndPronoun> rulesVerbAndPronouns = new List<RulesVerbAndPronoun>();
             foreach (var verb in workWithFiles.Verbs)
             {
-                foreach (var pronoun in pronouns)
+                foreach (var pronoun in workWithFiles.Pronouns)
                 {
                     RulesVerbAndPronoun temp;
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Будущее, TypeOfASentences.Вопрос);

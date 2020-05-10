@@ -11,13 +11,16 @@ namespace English.DataFiles
     {
         public List<Verb> Verbs { get; set; }
         public List<RealTranslate> RealTranslates { get; set; }
+        public List<Pronoun> Pronouns { get; set; }
 
         public WorkWithFiles()
         {
-            Verbs = new List<Verb>();
+            
             Verbs = LoadFile<Verb>(@"D:\Дмитрий\source\repos\English\English\DataFiles\Verbs.txt", Encoding.Default, ';');
-            RealTranslates = new List<RealTranslate>();
+           
             RealTranslates = LoadFile<RealTranslate>(@"D:\Дмитрий\source\repos\English\English\DataFiles\RealTranslate.txt", Encoding.Default, ';');
+         
+            Pronouns = LoadFile<Pronoun>(@"D:\Дмитрий\source\repos\English\English\DataFiles\Pronoun.txt", Encoding.Default, ';');
         }
         private List<T> LoadFile<T>(string path, Encoding encoding, char separator) where T:IReadText,new()
         {
