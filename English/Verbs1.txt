@@ -1,0 +1,947 @@
+We didn't speak.
+We spoke.
+Will they speak?
+They will not speak.
+They will speak.
+Do they speak?
+They don't speak.
+They speak.
+Did they speak?
+They didn't speak.
+They spoke.
+Will he speak?
+He will not speak.
+He will speak.
+Does he speak?
+He doesn't speak.
+He speakes.
+Did he speak?
+He didn't speak.
+He spoke.
+Will she speak?
+She will not speak.
+She will speak.
+Does she speak?
+She doesn't speak.
+She speakes.
+Did she speak?
+She didn't speak.
+She spoke.
+Will i read?
+I will not read.
+I will read.
+Do i read?
+I don't read.
+I read.
+Did i read?
+I didn't read.
+I read.
+Will you read?
+You will not read.
+You will read.
+Do you read?
+You don't read.
+You read.
+Did you read?
+You didn't read.
+You read.
+Will we read?
+We will not read.
+We will read.
+Do we read?
+We don't read.
+We read.
+Did we read?
+We didn't read.
+We read.
+Will they read?
+They will not read.
+They will read.
+Do they read?
+They don't read.
+They read.
+Did they read?
+They didn't read.
+They read.
+Will he read?
+He will not read.
+He will read.
+Does he read?
+He doesn't read.
+He reades.
+Did he read?
+He didn't read.
+He read.
+Will she read?
+She will not read.
+She will read.
+Does she read?
+She doesn't read.
+She reades.
+Did she read?
+She didn't read.
+She read.
+Will i spend?
+I will not spend.
+I will spend.
+Do i spend?
+I don't spend.
+I spend.
+Did i spend?
+I didn't spend.
+I spent.
+Will you spend?
+You will not spend.
+You will spend.
+Do you spend?
+You don't spend.
+You spend.
+Did you spend?
+You didn't spend.
+You spent.
+Will we spend?
+We will not spend.
+We will spend.
+Do we spend?
+We don't spend.
+We spend.
+Did we spend?
+We didn't spend.
+We spent.
+Will they spend?
+They will not spend.
+They will spend.
+Do they spend?
+They don't spend.
+They spend.
+Did they spend?
+They didn't spend.
+They spent.
+Will he spend?
+He will not spend.
+He will spend.
+Does he spend?
+He doesn't spend.
+He spendes.
+Did he spend?
+He didn't spend.
+He spent.
+Will she spend?
+She will not spend.
+She will spend.
+Does she spend?
+She doesn't spend.
+She spendes.
+Did she spend?
+She didn't spend.
+She spent.
+Will i grow?
+I will not grow.
+I will grow.
+Do i grow?
+I don't grow.
+I grow.
+Did i grow?
+I didn't grow.
+I grew.
+Will you grow?
+You will not grow.
+You will grow.
+Do you grow?
+You don't grow.
+You grow.
+Did you grow?
+You didn't grow.
+You grew.
+Will we grow?
+We will not grow.
+We will grow.
+Do we grow?
+We don't grow.
+We grow.
+Did we grow?
+We didn't grow.
+We grew.
+Will they grow?
+They will not grow.
+They will grow.
+Do they grow?
+They don't grow.
+They grow.
+Did they grow?
+They didn't grow.
+They grew.
+Will he grow?
+He will not grow.
+He will grow.
+Does he grow?
+He doesn't grow.
+He growes.
+Did he grow?
+He didn't grow.
+He grew.
+Will she grow?
+She will not grow.
+She will grow.
+Does she grow?
+She doesn't grow.
+She growes.
+Did she grow?
+She didn't grow.
+She grew.
+Will i win?
+I will not win.
+I will win.
+Do i win?
+I don't win.
+I win.
+Did i win?
+I didn't win.
+I won.
+Will you win?
+You will not win.
+You will win.
+Do you win?
+You don't win.
+You win.
+Did you win?
+You didn't win.
+You won.
+Will we win?
+We will not win.
+We will win.
+Do we win?
+We don't win.
+We win.
+Did we win?
+We didn't win.
+We won.
+Will they win?
+They will not win.
+They will win.
+Do they win?
+They don't win.
+They win.
+Did they win?
+They didn't win.
+They won.
+Will he win?
+He will not win.
+He will win.
+Does he win?
+He doesn't win.
+He wines.
+Did he win?
+He didn't win.
+He won.
+Will she win?
+She will not win.
+She will win.
+Does she win?
+She doesn't win.
+She wines.
+Did she win?
+She didn't win.
+She won.
+Will i teach?
+I will not teach.
+I will teach.
+Do i teach?
+I don't teach.
+I teach.
+Did i teach?
+I didn't teach.
+I taught.
+Will you teach?
+You will not teach.
+You will teach.
+Do you teach?
+You don't teach.
+You teach.
+Did you teach?
+You didn't teach.
+You taught.
+Will we teach?
+We will not teach.
+We will teach.
+Do we teach?
+We don't teach.
+We teach.
+Did we teach?
+We didn't teach.
+We taught.
+Will they teach?
+They will not teach.
+They will teach.
+Do they teach?
+They don't teach.
+They teach.
+Did they teach?
+They didn't teach.
+They taught.
+Will he teach?
+He will not teach.
+He will teach.
+Does he teach?
+He doesn't teach.
+He teaches.
+Did he teach?
+He didn't teach.
+He taught.
+Will she teach?
+She will not teach.
+She will teach.
+Does she teach?
+She doesn't teach.
+She teaches.
+Did she teach?
+She didn't teach.
+She taught.
+Will i buy?
+I will not buy.
+I will buy.
+Do i buy?
+I don't buy.
+I buy.
+Did i buy?
+I didn't buy.
+I bought.
+Will you buy?
+You will not buy.
+You will buy.
+Do you buy?
+You don't buy.
+You buy.
+Did you buy?
+You didn't buy.
+You bought.
+Will we buy?
+We will not buy.
+We will buy.
+Do we buy?
+We don't buy.
+We buy.
+Did we buy?
+We didn't buy.
+We bought.
+Will they buy?
+They will not buy.
+They will buy.
+Do they buy?
+They don't buy.
+They buy.
+Did they buy?
+They didn't buy.
+They bought.
+Will he buy?
+He will not buy.
+He will buy.
+Does he buy?
+He doesn't buy.
+He bues.
+Did he buy?
+He didn't buy.
+He bought.
+Will she buy?
+She will not buy.
+She will buy.
+Does she buy?
+She doesn't buy.
+She bues.
+Did she buy?
+She didn't buy.
+She bought.
+Will i send?
+I will not send.
+I will send.
+Do i send?
+I don't send.
+I send.
+Did i send?
+I didn't send.
+I sent.
+Will you send?
+You will not send.
+You will send.
+Do you send?
+You don't send.
+You send.
+Did you send?
+You didn't send.
+You sent.
+Will we send?
+We will not send.
+We will send.
+Do we send?
+We don't send.
+We send.
+Did we send?
+We didn't send.
+We sent.
+Will they send?
+They will not send.
+They will send.
+Do they send?
+They don't send.
+They send.
+Did they send?
+They didn't send.
+They sent.
+Will he send?
+He will not send.
+He will send.
+Does he send?
+He doesn't send.
+He sendes.
+Did he send?
+He didn't send.
+He sent.
+Will she send?
+She will not send.
+She will send.
+Does she send?
+She doesn't send.
+She sendes.
+Did she send?
+She didn't send.
+She sent.
+Will i build?
+I will not build.
+I will build.
+Do i build?
+I don't build.
+I build.
+Did i build?
+I didn't build.
+I built.
+Will you build?
+You will not build.
+You will build.
+Do you build?
+You don't build.
+You build.
+Did you build?
+You didn't build.
+You built.
+Will we build?
+We will not build.
+We will build.
+Do we build?
+We don't build.
+We build.
+Did we build?
+We didn't build.
+We built.
+Will they build?
+They will not build.
+They will build.
+Do they build?
+They don't build.
+They build.
+Did they build?
+They didn't build.
+They built.
+Will he build?
+He will not build.
+He will build.
+Does he build?
+He doesn't build.
+He buildes.
+Did he build?
+He didn't build.
+He built.
+Will she build?
+She will not build.
+She will build.
+Does she build?
+She doesn't build.
+She buildes.
+Did she build?
+She didn't build.
+She built.
+Will i fall?
+I will not fall.
+I will fall.
+Do i fall?
+I don't fall.
+I fall.
+Did i fall?
+I didn't fall.
+I fell.
+Will you fall?
+You will not fall.
+You will fall.
+Do you fall?
+You don't fall.
+You fall.
+Did you fall?
+You didn't fall.
+You fell.
+Will we fall?
+We will not fall.
+We will fall.
+Do we fall?
+We don't fall.
+We fall.
+Did we fall?
+We didn't fall.
+We fell.
+Will they fall?
+They will not fall.
+They will fall.
+Do they fall?
+They don't fall.
+They fall.
+Did they fall?
+They didn't fall.
+They fell.
+Will he fall?
+He will not fall.
+He will fall.
+Does he fall?
+He doesn't fall.
+He falles.
+Did he fall?
+He didn't fall.
+He fell.
+Will she fall?
+She will not fall.
+She will fall.
+Does she fall?
+She doesn't fall.
+She falles.
+Did she fall?
+She didn't fall.
+She fell.
+Will i cut?
+I will not cut.
+I will cut.
+Do i cut?
+I don't cut.
+I cut.
+Did i cut?
+I didn't cut.
+I cut.
+Will you cut?
+You will not cut.
+You will cut.
+Do you cut?
+You don't cut.
+You cut.
+Did you cut?
+You didn't cut.
+You cut.
+Will we cut?
+We will not cut.
+We will cut.
+Do we cut?
+We don't cut.
+We cut.
+Did we cut?
+We didn't cut.
+We cut.
+Will they cut?
+They will not cut.
+They will cut.
+Do they cut?
+They don't cut.
+They cut.
+Did they cut?
+They didn't cut.
+They cut.
+Will he cut?
+He will not cut.
+He will cut.
+Does he cut?
+He doesn't cut.
+He cutes.
+Did he cut?
+He didn't cut.
+He cut.
+Will she cut?
+She will not cut.
+She will cut.
+Does she cut?
+She doesn't cut.
+She cutes.
+Did she cut?
+She didn't cut.
+She cut.
+Will i sell?
+I will not sell.
+I will sell.
+Do i sell?
+I don't sell.
+I sell.
+Did i sell?
+I didn't sell.
+I sold.
+Will you sell?
+You will not sell.
+You will sell.
+Do you sell?
+You don't sell.
+You sell.
+Did you sell?
+You didn't sell.
+You sold.
+Will we sell?
+We will not sell.
+We will sell.
+Do we sell?
+We don't sell.
+We sell.
+Did we sell?
+We didn't sell.
+We sold.
+Will they sell?
+They will not sell.
+They will sell.
+Do they sell?
+They don't sell.
+They sell.
+Did they sell?
+They didn't sell.
+They sold.
+Will he sell?
+He will not sell.
+He will sell.
+Does he sell?
+He doesn't sell.
+He selles.
+Did he sell?
+He didn't sell.
+He sold.
+Will she sell?
+She will not sell.
+She will sell.
+Does she sell?
+She doesn't sell.
+She selles.
+Did she sell?
+She didn't sell.
+She sold.
+Will i break?
+I will not break.
+I will break.
+Do i break?
+I don't break.
+I break.
+Did i break?
+I didn't break.
+I broke.
+Will you break?
+You will not break.
+You will break.
+Do you break?
+You don't break.
+You break.
+Did you break?
+You didn't break.
+You broke.
+Will we break?
+We will not break.
+We will break.
+Do we break?
+We don't break.
+We break.
+Did we break?
+We didn't break.
+We broke.
+Will they break?
+They will not break.
+They will break.
+Do they break?
+They don't break.
+They break.
+Did they break?
+They didn't break.
+They broke.
+Will he break?
+He will not break.
+He will break.
+Does he break?
+He doesn't break.
+He breakes.
+Did he break?
+He didn't break.
+He broke.
+Will she break?
+She will not break.
+She will break.
+Does she break?
+She doesn't break.
+She breakes.
+Did she break?
+She didn't break.
+She broke.
+Will i hit?
+I will not hit.
+I will hit.
+Do i hit?
+I don't hit.
+I hit.
+Did i hit?
+I didn't hit.
+I hit.
+Will you hit?
+You will not hit.
+You will hit.
+Do you hit?
+You don't hit.
+You hit.
+Did you hit?
+You didn't hit.
+You hit.
+Will we hit?
+We will not hit.
+We will hit.
+Do we hit?
+We don't hit.
+We hit.
+Did we hit?
+We didn't hit.
+We hit.
+Will they hit?
+They will not hit.
+They will hit.
+Do they hit?
+They don't hit.
+They hit.
+Did they hit?
+They didn't hit.
+They hit.
+Will he hit?
+He will not hit.
+He will hit.
+Does he hit?
+He doesn't hit.
+He hites.
+Did he hit?
+He didn't hit.
+He hit.
+Will she hit?
+She will not hit.
+She will hit.
+Does she hit?
+She doesn't hit.
+She hites.
+Did she hit?
+She didn't hit.
+She hit.
+Will i eat?
+I will not eat.
+I will eat.
+Do i eat?
+I don't eat.
+I eat.
+Did i eat?
+I didn't eat.
+I ate.
+Will you eat?
+You will not eat.
+You will eat.
+Do you eat?
+You don't eat.
+You eat.
+Did you eat?
+You didn't eat.
+You ate.
+Will we eat?
+We will not eat.
+We will eat.
+Do we eat?
+We don't eat.
+We eat.
+Did we eat?
+We didn't eat.
+We ate.
+Will they eat?
+They will not eat.
+They will eat.
+Do they eat?
+They don't eat.
+They eat.
+Did they eat?
+They didn't eat.
+They ate.
+Will he eat?
+He will not eat.
+He will eat.
+Does he eat?
+He doesn't eat.
+He eates.
+Did he eat?
+He didn't eat.
+He ate.
+Will she eat?
+She will not eat.
+She will eat.
+Does she eat?
+She doesn't eat.
+She eates.
+Did she eat?
+She didn't eat.
+She ate.
+Will i catch?
+I will not catch.
+I will catch.
+Do i catch?
+I don't catch.
+I catch.
+Did i catch?
+I didn't catch.
+I caught.
+Will you catch?
+You will not catch.
+You will catch.
+Do you catch?
+You don't catch.
+You catch.
+Did you catch?
+You didn't catch.
+You caught.
+Will we catch?
+We will not catch.
+We will catch.
+Do we catch?
+We don't catch.
+We catch.
+Did we catch?
+We didn't catch.
+We caught.
+Will they catch?
+They will not catch.
+They will catch.
+Do they catch?
+They don't catch.
+They catch.
+Did they catch?
+They didn't catch.
+They caught.
+Will he catch?
+He will not catch.
+He will catch.
+Does he catch?
+He doesn't catch.
+He catches.
+Did he catch?
+He didn't catch.
+He caught.
+Will she catch?
+She will not catch.
+She will catch.
+Does she catch?
+She doesn't catch.
+She catches.
+Did she catch?
+She didn't catch.
+She caught.
+Will i draw?
+I will not draw.
+I will draw.
+Do i draw?
+I don't draw.
+I draw.
+Did i draw?
+I didn't draw.
+I drew.
+Will you draw?
+You will not draw.
+You will draw.
+Do you draw?
+You don't draw.
+You draw.
+Did you draw?
+You didn't draw.
+You drew.
+Will we draw?
+We will not draw.
+We will draw.
+Do we draw?
+We don't draw.
+We draw.
+Did we draw?
+We didn't draw.
+We drew.
+Will they draw?
+They will not draw.
+They will draw.
+Do they draw?
+They don't draw.
+They draw.
+Did they draw?
+They didn't draw.
+They drew.
+Will he draw?
+He will not draw.
+He will draw.
+Does he draw?
+He doesn't draw.
+He drawes.
+Did he draw?
+He didn't draw.
+He drew.
+Will she draw?
+She will not draw.
+She will draw.
+Does she draw?
+She doesn't draw.
+She drawes.
+Did she draw?
+She didn't draw.
+She drew.
+Will i choose?
+I will not choose.
+I will choose.
+Do i choose?
+I don't choose.
+I choose.
+Did i choose?
+I didn't choose.
+I chose.
+Will you choose?
+You will not choose.
+You will choose.
+Do you choose?
+You don't choose.
+You choose.
+Did you choose?
+You didn't choose.
+You chose.
+Will we choose?
+We will not choose.
+We will choose.
+Do we choose?
+We don't choose.
+We choose.
+Did we choose?
+We didn't choose.
+We chose.
+Will they choose?
+They will not choose.
+They will choose.
+Do they choose?
+They don't choose.
+They choose.
+Did they choose?
+They didn't choose.
+They chose.
+Will he choose?
+He will not choose.
+He will choose.
+Does he choose?
+He doesn't choose.
+He chooses.
+Did he choose?
+He didn't choose.
+He chose.
+Will she choose?
+She will not choose.
+She will choose.
+Does she choose?
+She doesn't choose.
+She chooses.
+Did she choose?
+She didn't choose.
+She chose.
