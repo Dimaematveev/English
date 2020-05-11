@@ -7,8 +7,8 @@ namespace English
     public class Pronoun: IReadText
     {
         private const int countFieldText = 2;
-        private string English { get; set; }
-        private string Russian { get; set; }
+        public string English { get; set; }
+        public string Russian { get; set; }
 
         public int CountFieldText => countFieldText;
 

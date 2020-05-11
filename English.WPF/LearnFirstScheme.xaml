@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:English.WPF"
         mc:Ignorable="d"
-        Title="LearnFirstScheme" Height="203.2" Width="400">
+        Title="LearnFirstScheme" Height="249.45" Width="400">
 
     <Grid Margin="10">
         <Grid.ColumnDefinitions>
@@ -14,7 +14,7 @@
             <ColumnDefinition Width="80"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="0"/>
+            <RowDefinition Height="20"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="0"/>
 
@@ -26,8 +26,10 @@
             <RowDefinition Height="20"/>
         </Grid.RowDefinitions>
 
+        <TextBlock  x:Name="Number" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" TextWrapping="Wrap"/>
+        
         <TextBlock Text="Для подсказки нажмите (H)(DOWN), для Перевода нажмите (A)(UP), для следующего предложения нажмите (N)(RIGHT)" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3" TextWrapping="Wrap"/>
-        <TextBlock  Text="{ Binding Count}" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="3" TextWrapping="Wrap"/>
+        
 
         <TextBlock Text="Глагол:" Grid.Column="0" Grid.Row="3"/>
         <TextBox x:Name="Verb" Text="" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2"/>
@@ -43,8 +45,15 @@
         <TextBlock Text="Перевод:" Grid.Column="0" Grid.Row="7"/>
         <TextBox x:Name="Translated" Grid.Column="1" Grid.Row="7" Visibility="Hidden" Grid.ColumnSpan="2"/>
 
-        <Button x:Name="Helped" Content="Подсказка" Grid.Column="0" Grid.Row="8"/>
-        <Button x:Name="Answer" Content="Перевести" Grid.Column="1" Grid.Row="8"/>
+        <Button x:Name="Fall" Content="Ошибся" Grid.Column="0" Grid.Row="8"/>
+        <Grid Grid.Column="1" Grid.Row="8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="Helped" Content="Подсказка" Grid.Column="0"/>
+            <Button x:Name="Answer" Content="Перевести" Grid.Column="1"/>
+        </Grid>
         <Button x:Name="Next" Content="Далее" Grid.Column="2" Grid.Row="8"/>
     </Grid>
 </Window>
