@@ -9,6 +9,7 @@ namespace English.DataFiles
     public interface IReadText
     {
         void FillEverythingFromLine(string line,char separator);
+        string LineForWriteFile(char separator);
         int CountFieldText { get; }
     }
 }

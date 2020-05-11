@@ -47,7 +47,22 @@ namespace English
             EnglishWord_Past = str[3];
             EnglishWord_Participle = str[4];
         }
-
+        public string LineForWriteFile(char separator)
+        {
+            string[] str = new string[countFieldText];
+            str[0] = Number.ToString();
+            str[1] = EnglishWord;
+            str[2] = RussialWord;
+            str[3] = EnglishWord_Past;
+            str[4] = EnglishWord_Participle;
+            
+            string ret = "";
+            foreach (var item in str)
+            {
+                ret += $"{item}{separator}";
+            }
+            return ret;
+        }
 
         public override string ToString()
         {

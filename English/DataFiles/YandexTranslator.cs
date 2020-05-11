@@ -27,7 +27,7 @@ namespace Translator
 
                         s = "";
 
-                        foreach (string str in translation.text)
+                        foreach (string str in translation.Texts)
                         {
                             s += str;
                         }
@@ -43,8 +43,8 @@ namespace Translator
 
     public class Translation
     {
-        public string code { get; set; }
-        public string lang { get; set; }
-        public string[] text { get; set; }
+        public string Code { get; set; }
+        public string Lang { get; set; }
+        public string[] Texts { get; set; }
     }
 }

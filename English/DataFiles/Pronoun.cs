@@ -1,5 +1,6 @@
 ﻿//TODO: Я хочу сделать еще 1 файл с о всеми переводами гугла, если вдуг кажется неверным моно поменять,п после форму и отмечать что я правильно понял что нет и т.д.
 using English.DataFiles;
+using System.Collections.Generic;
 
 namespace English
 {
@@ -41,6 +42,19 @@ namespace English
             var str = line.Split(separator);
             English = str[0];
             Russian = str[1];
+        }
+
+        public string LineForWriteFile(char separator)
+        {
+            string[] str = new string[countFieldText];
+            str[0] = English;
+            str[1] = Russian;
+            string ret = "";
+            foreach (var item in str)
+            {
+                ret += $"{item}{separator}";
+            }
+            return ret;
         }
     }
 

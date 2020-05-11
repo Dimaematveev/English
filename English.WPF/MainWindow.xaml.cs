@@ -11,6 +11,13 @@ namespace English.WPF
         {
             InitializeComponent();
             ShowVerbs.Click += ShowVerbs_Click;
+            LearnFirstSheme.Click += LearnFirstSheme_Click;
+        }
+
+        private void LearnFirstSheme_Click(object sender, RoutedEventArgs e)
+        {
+            var form = new LearnFirstScheme();
+            form.ShowDialog();
         }
 
         private void ShowVerbs_Click(object sender, RoutedEventArgs e)

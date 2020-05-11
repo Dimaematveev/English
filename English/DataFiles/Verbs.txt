@@ -1,7 +1,7 @@
 13;want;хотеть;wanted;wanted;
 14;use;использовать;used;used;
 18;work;работать;worked;worked;
-19;call;звать; звонить;called;called;
+19;call;звать звонить;called;called;
 20;try;пытаться;tried;tried;
 21;ask;просить; спрашивать;asked;asked;
 22;need;нуждаться;needed;needed;

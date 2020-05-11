@@ -15,34 +15,7 @@ namespace English
         static void Main()
         {
             WorkWithFiles workWithFiles = new WorkWithFiles();
-            List<RulesVerbAndPronoun> rulesVerbAndPronouns = new List<RulesVerbAndPronoun>();
-            foreach (var verb in workWithFiles.Verbs)
-            {
-                foreach (var pronoun in workWithFiles.Pronouns)
-                {
-                    RulesVerbAndPronoun temp;
-                    temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Будущее, TypeOfASentences.Вопрос);
-                    rulesVerbAndPronouns.Add(temp);
-                    temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Будущее, TypeOfASentences.Отрицание);
-                    rulesVerbAndPronouns.Add(temp);
-                    temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Будущее, TypeOfASentences.Утверждение);
-                    rulesVerbAndPronouns.Add(temp);
-
-                    temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Настоящее, TypeOfASentences.Вопрос);
-                    rulesVerbAndPronouns.Add(temp);
-                    temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Настоящее, TypeOfASentences.Отрицание);
-                    rulesVerbAndPronouns.Add(temp);
-                    temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Настоящее, TypeOfASentences.Утверждение);
-                    rulesVerbAndPronouns.Add(temp);
-
-                    temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Прошедшее, TypeOfASentences.Вопрос);
-                    rulesVerbAndPronouns.Add(temp);
-                    temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Прошедшее, TypeOfASentences.Отрицание);
-                    rulesVerbAndPronouns.Add(temp);
-                    temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Прошедшее, TypeOfASentences.Утверждение);
-                    rulesVerbAndPronouns.Add(temp);
-                }
-            }
+            
 
             YandexTranslator yt = new YandexTranslator();
 
@@ -51,10 +24,10 @@ namespace English
            
             Random rnd = new Random();
             int count = 0;
-            while (rulesVerbAndPronouns.Count>0)
+            while (workWithFiles.RulesVerbAndPronouns.Count>0)
             {
-                int ind = rnd.Next(0, rulesVerbAndPronouns.Count);
-                var rul = rulesVerbAndPronouns[ind];
+                int ind = rnd.Next(0, workWithFiles.RulesVerbAndPronouns.Count);
+                var rul = workWithFiles.RulesVerbAndPronouns[ind];
 
                 string line = rul.GetLine();
                 //string translate = yt.Translate(line, "en-ru");
@@ -75,7 +48,7 @@ namespace English
                 Console.WriteLine("\nДля следующего слова нажмите Enter");
                 Console.ReadLine();
                 Console.Clear();
-                rulesVerbAndPronouns.RemoveAt(ind);
+                workWithFiles.RulesVerbAndPronouns.RemoveAt(ind);
 
 
             }

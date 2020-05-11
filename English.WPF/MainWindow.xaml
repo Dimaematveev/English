@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="ShowVerbs" Content="Показать все глаголы!" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="167"/>
+        <Button x:Name="LearnFirstSheme" Content="Обучение 1-ой схемы!" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Width="167"/>
 
     </Grid>
 </Window>
