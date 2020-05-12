@@ -3,16 +3,8 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace English.WPF
 {
@@ -31,7 +23,7 @@ namespace English.WPF
         {
             InitializeComponent();
             this.workWithFiles = workWithFiles;
-            UnstudiedWords = workWithFiles.RealTranslates.Where(x => x.IsLearned <= 0).ToList();
+            UnstudiedWords = workWithFiles.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
 
 
             
@@ -47,7 +39,7 @@ namespace English.WPF
         private void Fall_Click()
         {
             UnstudiedWords[ind].IsLearned -= 2;
-            UnstudiedWords = workWithFiles.RealTranslates.Where(x => x.IsLearned <= 0).ToList();
+            UnstudiedWords = workWithFiles.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
             FillValue();
         }
 
@@ -65,21 +57,7 @@ namespace English.WPF
             }
             if (e.Key == Key.N || e.Key == Key.Right)
             {
-                if (Translated.Visibility == Visibility.Visible)
-                {
-                    Next_Click();
-                    return;
-                }
-                else if (Help.Visibility == Visibility.Visible)
-                {
-                    Translated.Visibility = Visibility.Visible;
-                    return;
-                }
-                else
-                {
-                    Help.Visibility = Visibility.Visible;
-                    return;
-                }
+                Next_Click();
             }
             if (e.Key == Key.N || e.Key == Key.Left)
             {
@@ -100,10 +78,28 @@ namespace English.WPF
 
         private void Next_Click()
         {
-            UnstudiedWords[ind].IsLearned += 1;
-            UnstudiedWords = workWithFiles.RealTranslates.Where(x => x.IsLearned <= 0).ToList();
+            
 
-            FillValue();
+
+            if (Translated.Visibility == Visibility.Visible)
+            {
+                UnstudiedWords[ind].IsLearned += 1;
+                UnstudiedWords = workWithFiles.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
+                FillValue();
+                return;
+            }
+            else if (Help.Visibility == Visibility.Visible)
+            {
+                Translated.Visibility = Visibility.Visible;
+                return;
+            }
+            else
+            {
+                Help.Visibility = Visibility.Visible;
+                return;
+            }
+
+            
 
         }
 
@@ -114,22 +110,50 @@ namespace English.WPF
             Help.Visibility = Visibility.Hidden;
             Translated.Visibility = Visibility.Hidden;
            
-            Number.Text = $"Осталось: {UnstudiedWords.Count}. Пройдено: {workWithFiles.RealTranslates.Count- UnstudiedWords.Count}";
-            if (rnd.Next(0, 5) == 1)
+            Number.Text = $"Пройдено Р-А: {workWithFiles.RealTranslates.Count(x => x.IsLearned == 1)}, Пройдено А-Р: {workWithFiles.RealTranslates.Count(x => x.IsLearned == 2)}, ";
+            int rand = rnd.Next(0, 11);
+            if (rand == 0)
             {
+                //Показываем слова которые в прошлом не получились
                 if (UnstudiedWords.Any(x=> x.IsLearned < 0))
                 {
                     UnstudiedWords = UnstudiedWords.Where(x => x.IsLearned < 0).ToList();
                 }
-                
+            }
+            else if (rand <= 5)
+            {
+                //Показываем слова у которых IsLearned = 0. Т.е. перевод с русского на английский
+                if (UnstudiedWords.Any(x => x.IsLearned == 0))
+                {
+                    UnstudiedWords = UnstudiedWords.Where(x => x.IsLearned == 0).ToList();
+                }
+            }
+            else
+            {
+                //Показываем слова у которых IsLearned = 0. Т.е. перевод с английского на русский
+                if (UnstudiedWords.Any(x => x.IsLearned > 0))
+                {
+                    UnstudiedWords = UnstudiedWords.Where(x => x.IsLearned > 0).ToList();
+                }
             }
             ind = rnd.Next(0, UnstudiedWords.Count);
             var unstudiedWord = UnstudiedWords[ind];
             var text = workWithFiles.RulesVerbAndPronouns.Find(x => x.GetLine() == unstudiedWord.EnglishSentence);
 
             Verb.Text = text.Verb.ToString();
-            Translated.Text= text.GetLine();
-            Translate.Text = unstudiedWord.RussianSentence;
+
+            
+            if (rand <= 5)
+            {
+                Translated.Text = text.GetLine();
+                Translate.Text = unstudiedWord.RussianSentence;
+            }
+            else
+            {
+                Translated.Text = unstudiedWord.RussianSentence; 
+                Translate.Text = text.GetLine();
+            }
+
             Help.Text= $"Почему - так как Время [{text.TimeOfASentence}], Предложение [{text.TypeOfASentences}]";
         }
     }
