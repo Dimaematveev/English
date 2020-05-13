@@ -17,31 +17,56 @@ namespace English.WPF
         readonly Random rnd = new Random();
         readonly EnglishContext englishContext;
         int ind;
-        List<RealTranslate> UnstudiedWords;
+        bool isRusEn;
+        List<RulesVerbAndPronoun> UnstudiedWords;
 
 
         public LearnFirstScheme(EnglishContext englishContext)
         {
             InitializeComponent();
             this.englishContext = englishContext;
-            UnstudiedWords = englishContext.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
+
+            SelectAllWordWhatsNotLearned();
 
 
-            
+
+
             Next.Click += (s, e) => { Next_Click(); }; ;
             Helped.Click += (s, e) => { Helped_Click(); };
             Answer.Click += (s, e) => { Answer_Click(); };
             KeyDown += LearnFirstScheme_KeyDown;
             Fall.Click += (s, e) => { Fall_Click(); };
 
+            
+        }
+
+        private void SelectAllWordWhatsNotLearned()
+        {
+            
+            englishContext.SaveChanges();
+            //Выборка всех слов которые не прошли
+            UnstudiedWords = englishContext.RulesVerbAndPronouns.Where(x => x.RealTranslate.IsLearnedRuEn <= 1 || x.RealTranslate.IsLearnedEnRu <= 1).ToList();
             FillValue();
         }
 
         private void Fall_Click()
         {
-            UnstudiedWords[ind].IsLearned -= 2;
-            UnstudiedWords = englishContext.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
-            FillValue();
+            if (isRusEn)
+            {
+                if (UnstudiedWords[ind].RealTranslate.IsLearnedRuEn > -100)
+                {
+                    UnstudiedWords[ind].RealTranslate.IsLearnedRuEn -= 2;
+                }
+            }
+            else
+            {
+                if (UnstudiedWords[ind].RealTranslate.IsLearnedEnRu > -100)
+                {
+                    UnstudiedWords[ind].RealTranslate.IsLearnedEnRu -= 2;
+                }
+            }
+           
+            SelectAllWordWhatsNotLearned();
         }
 
         private void LearnFirstScheme_KeyDown(object sender, KeyEventArgs e)
@@ -59,6 +84,7 @@ namespace English.WPF
             if (e.Key == Key.N || e.Key == Key.Right)
             {
                 Next_Click();
+                return;
             }
             if (e.Key == Key.N || e.Key == Key.Left)
             {
@@ -79,14 +105,18 @@ namespace English.WPF
 
         private void Next_Click()
         {
-            
-
-
             if (Translated.Visibility == Visibility.Visible)
             {
-                UnstudiedWords[ind].IsLearned += 1;
-                UnstudiedWords = englishContext.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
-                FillValue();
+                if (isRusEn)
+                {
+                    UnstudiedWords[ind].RealTranslate.IsLearnedRuEn += 1;
+                }
+                else
+                {
+                    UnstudiedWords[ind].RealTranslate.IsLearnedEnRu += 1;
+                }
+                
+                SelectAllWordWhatsNotLearned();
                 return;
             }
             else if (Help.Visibility == Visibility.Visible)
@@ -99,63 +129,84 @@ namespace English.WPF
                 Help.Visibility = Visibility.Visible;
                 return;
             }
-
-            
-
         }
 
         private void FillValue()
         {
-            englishContext.SaveChanges();
-           
+            HiddenNeedElement();
+
+            {
+                int RuEnRight = englishContext.RealTranslates.Count(x => x.IsLearnedRuEn >= 1);
+                int RuEnNotRight = englishContext.RealTranslates.Count(x => x.IsLearnedRuEn < 0);
+                int EnRuRight = englishContext.RealTranslates.Count(x => x.IsLearnedEnRu >= 1);
+                int EnRuNotRight = englishContext.RealTranslates.Count(x => x.IsLearnedEnRu < 0);
+                Number.Text = $"Rus-En: {RuEnRight}({RuEnNotRight}); En-Rus: {EnRuRight}({EnRuNotRight})!";
+            }
+            SelectWords();
+
+            ind = rnd.Next(0, UnstudiedWords.Count);
+            var unstudiedWord = UnstudiedWords[ind];
+            Verb.Text = unstudiedWord.Verb.ToString();
+
+            if (isRusEn)
+            {
+                Translate.Text = unstudiedWord.RealTranslate.RussianSentence;
+                Translated.Text = unstudiedWord.RealTranslate.EnglishSentence;
+            }
+            else
+            {
+                Translate.Text = unstudiedWord.RealTranslate.EnglishSentence;
+                Translated.Text = unstudiedWord.RealTranslate.RussianSentence;
+            }
+
+            Help.Text = $"Почему - так как Время [{unstudiedWord.TimeOfASentence}], Предложение [{unstudiedWord.TypeOfASentences}].";
+        }
+
+        private void SelectWords()
+        {
+            //выбор языка перевода(является язык русский)
+            isRusEn = rnd.Next(0, 2) == 0;
+            //если не получившиеся слова? Иначе все
+            bool IsNotLearned = rnd.Next(0, 5) == 0;
+
+            if (isRusEn)
+            {
+                //Показываем слова с русского на английский
+                if (UnstudiedWords.Any(x => x.RealTranslate.IsLearnedRuEn <= 1))
+                {
+                    if (IsNotLearned)
+                    {
+
+                        if (UnstudiedWords.Any(x => x.RealTranslate.IsLearnedRuEn < 0))
+                        {
+                            UnstudiedWords = UnstudiedWords.Where(x => x.RealTranslate.IsLearnedRuEn < 0).ToList();
+                        }
+                    }
+                    UnstudiedWords = UnstudiedWords.Where(x => x.RealTranslate.IsLearnedRuEn <= 1).ToList();
+                }
+            }
+            else
+            {
+                //Показываем слова с английского на русский
+                if (UnstudiedWords.Any(x => x.RealTranslate.IsLearnedEnRu <= 1))
+                {
+                    if (IsNotLearned)
+                    {
+
+                        if (UnstudiedWords.Any(x => x.RealTranslate.IsLearnedEnRu < 0))
+                        {
+                            UnstudiedWords = UnstudiedWords.Where(x => x.RealTranslate.IsLearnedEnRu < 0).ToList();
+                        }
+                    }
+                    UnstudiedWords = UnstudiedWords.Where(x => x.RealTranslate.IsLearnedEnRu <= 1).ToList();
+                }
+            }
+        }
+
+        private void HiddenNeedElement()
+        {
             Help.Visibility = Visibility.Hidden;
             Translated.Visibility = Visibility.Hidden;
-           
-            Number.Text = $"Пройдено Р-А: {englishContext.RealTranslates.Count(x => x.IsLearned == 1)}, Пройдено А-Р: {englishContext.RealTranslates.Count(x => x.IsLearned == 2)}, ";
-            int rand = rnd.Next(0, 11);
-            if (rand == 0)
-            {
-                //Показываем слова которые в прошлом не получились
-                if (UnstudiedWords.Any(x=> x.IsLearned < 0))
-                {
-                    UnstudiedWords = UnstudiedWords.Where(x => x.IsLearned < 0).ToList();
-                }
-            }
-            else if (rand <= 5)
-            {
-                //Показываем слова у которых IsLearned = 0. Т.е. перевод с русского на английский
-                if (UnstudiedWords.Any(x => x.IsLearned == 0))
-                {
-                    UnstudiedWords = UnstudiedWords.Where(x => x.IsLearned == 0).ToList();
-                }
-            }
-            else
-            {
-                //Показываем слова у которых IsLearned = 0. Т.е. перевод с английского на русский
-                if (UnstudiedWords.Any(x => x.IsLearned > 0))
-                {
-                    UnstudiedWords = UnstudiedWords.Where(x => x.IsLearned > 0).ToList();
-                }
-            }
-            ind = rnd.Next(0, UnstudiedWords.Count);
-            var unstudiedWord = UnstudiedWords[ind]; 
-             var text = UnstudiedWords[ind].RulesVerbAndPronouns.First();
-
-            Verb.Text = text.Verb.ToString();
-
-            
-            if (rand <= 5)
-            {
-                Translated.Text = text.GetLine();
-                Translate.Text = unstudiedWord.RussianSentence;
-            }
-            else
-            {
-                Translated.Text = unstudiedWord.RussianSentence; 
-                Translate.Text = text.GetLine();
-            }
-
-            Help.Text= $"Почему - так как Время [{text.TimeOfASentence}], Предложение [{text.TypeOfASentences}]";
         }
     }
 }

@@ -9,14 +9,16 @@ namespace English.DB.Model
         public int RealTranslateID { get; set; }
         public string EnglishSentence { get; set; }
         public string RussianSentence { get; set; }
-        public int IsLearned { get; set; }
+        public int IsLearnedRuEn { get; set; }
+        public int IsLearnedEnRu { get; set; }
         public virtual ICollection<RulesVerbAndPronoun> RulesVerbAndPronouns { get; set; }
 
-        public RealTranslate(string englishSentence, string russianSentence, int isLearned)
+        public RealTranslate(string englishSentence, string russianSentence, int isLearnedRuEn, int isLearnedEnRu)
         {
             EnglishSentence = englishSentence;
             RussianSentence = russianSentence;
-            IsLearned = isLearned;
+            IsLearnedRuEn = isLearnedRuEn;
+            IsLearnedEnRu = isLearnedEnRu;
         }
 
         public RealTranslate() { }
