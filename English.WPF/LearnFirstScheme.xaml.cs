@@ -1,4 +1,5 @@
-﻿using English.DataFiles;
+﻿using English.DB;
+using English.DB.Model;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -14,16 +15,16 @@ namespace English.WPF
     public partial class LearnFirstScheme : Window
     {
         readonly Random rnd = new Random();
-        readonly WorkWithFiles workWithFiles;
+        readonly EnglishContext englishContext;
         int ind;
         List<RealTranslate> UnstudiedWords;
 
 
-        public LearnFirstScheme(WorkWithFiles workWithFiles)
+        public LearnFirstScheme(EnglishContext englishContext)
         {
             InitializeComponent();
-            this.workWithFiles = workWithFiles;
-            UnstudiedWords = workWithFiles.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
+            this.englishContext = englishContext;
+            UnstudiedWords = englishContext.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
 
 
             
@@ -39,7 +40,7 @@ namespace English.WPF
         private void Fall_Click()
         {
             UnstudiedWords[ind].IsLearned -= 2;
-            UnstudiedWords = workWithFiles.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
+            UnstudiedWords = englishContext.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
             FillValue();
         }
 
@@ -84,7 +85,7 @@ namespace English.WPF
             if (Translated.Visibility == Visibility.Visible)
             {
                 UnstudiedWords[ind].IsLearned += 1;
-                UnstudiedWords = workWithFiles.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
+                UnstudiedWords = englishContext.RealTranslates.Where(x => x.IsLearned <= 1).ToList();
                 FillValue();
                 return;
             }
@@ -105,12 +106,12 @@ namespace English.WPF
 
         private void FillValue()
         {
-            workWithFiles.SaveRealTranslates();
+            englishContext.SaveChanges();
            
             Help.Visibility = Visibility.Hidden;
             Translated.Visibility = Visibility.Hidden;
            
-            Number.Text = $"Пройдено Р-А: {workWithFiles.RealTranslates.Count(x => x.IsLearned == 1)}, Пройдено А-Р: {workWithFiles.RealTranslates.Count(x => x.IsLearned == 2)}, ";
+            Number.Text = $"Пройдено Р-А: {englishContext.RealTranslates.Count(x => x.IsLearned == 1)}, Пройдено А-Р: {englishContext.RealTranslates.Count(x => x.IsLearned == 2)}, ";
             int rand = rnd.Next(0, 11);
             if (rand == 0)
             {
@@ -137,8 +138,8 @@ namespace English.WPF
                 }
             }
             ind = rnd.Next(0, UnstudiedWords.Count);
-            var unstudiedWord = UnstudiedWords[ind];
-            var text = workWithFiles.RulesVerbAndPronouns.Find(x => x.GetLine() == unstudiedWord.EnglishSentence);
+            var unstudiedWord = UnstudiedWords[ind]; 
+             var text = UnstudiedWords[ind].RulesVerbAndPronouns.First();
 
             Verb.Text = text.Verb.ToString();
 

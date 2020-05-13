@@ -13,12 +13,24 @@ namespace English
         public Pronoun Pronoun { get; set; }
         public TimeOfASentence TimeOfASentence { get; set; }
         public TypeOfASentences TypeOfASentences { get; set; }
-        public RulesVerbAndPronoun(Verb verb, Pronoun pronoun,TimeOfASentence timeOfASentence, TypeOfASentences typeOfASentences)
+        public RealTranslate RealTranslate { get; set; }
+        public string Reat { get; set; }
+        public RulesVerbAndPronoun(Verb verb, Pronoun pronoun, TimeOfASentence timeOfASentence, TypeOfASentences typeOfASentences, RealTranslate realTranslate)
         {
             Verb = verb;
             Pronoun = pronoun;
             TypeOfASentences = typeOfASentences;
             TimeOfASentence = timeOfASentence;
+            RealTranslate = realTranslate;
+            Reat = "";
+        }
+        public RulesVerbAndPronoun(Verb verb, Pronoun pronoun, TimeOfASentence timeOfASentence, TypeOfASentences typeOfASentences)
+        {
+            Verb = verb;
+            Pronoun = pronoun;
+            TypeOfASentences = typeOfASentences;
+            TimeOfASentence = timeOfASentence;
+            RealTranslate = null;
         }
 
         public string GetLine_v3()
@@ -120,7 +132,13 @@ namespace English
             }
             return null;
         }
+
         public string GetLine()
+        {
+            Reat = GetLine_v1();
+            return Reat;
+        }
+        public string GetLine_v1()
         {
             
             if (TypeOfASentences== TypeOfASentences.Вопрос)

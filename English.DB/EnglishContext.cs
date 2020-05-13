@@ -8,7 +8,6 @@ namespace English.DB
     {
         public EnglishContext() : base("name=EnglishConnection") 
         {
-            Database.CreateIfNotExists();
         }
 
         public DbSet<Pronoun> Pronouns { get; set; }

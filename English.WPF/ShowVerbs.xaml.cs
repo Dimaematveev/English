@@ -1,6 +1,4 @@
-﻿using English.DataFiles;
-using System.Collections.Generic;
-using System.IO;
+﻿using System.Collections.Generic;
 using System.Windows;
 
 namespace English.WPF

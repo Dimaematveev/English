@@ -8,14 +8,14 @@ namespace English
 {
     public enum TypeOfASentences
     {
-        Утверждение,
-        Вопрос,
-        Отрицание
+        Утверждение = 1,
+        Вопрос = 2,
+        Отрицание = 3
     }
     public enum TimeOfASentence
     {
-        Настоящее,
-        Будущее,
-        Прошедшее
+        Настоящее =1,
+        Будущее = 2,
+        Прошедшее = 3
     }
 }

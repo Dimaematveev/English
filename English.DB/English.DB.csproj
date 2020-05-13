@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BDToList.cs" />
     <Compile Include="EnglishContext.cs" />
     <Compile Include="enum.cs" />
     <Compile Include="Migrations\202005130809498_InitialCreate.cs" />

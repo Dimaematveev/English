@@ -23,7 +23,7 @@ namespace English.DataFiles
          
             Pronouns = LoadFile<Pronoun>(@"D:\Дмитрий\source\repos\English\English\DataFiles\Pronoun.txt", Encoding.Default, ';');
 
-            FillRulesVerbAndPronoun();
+            FillRulesVerbAndPronoun(RealTranslates);
         }
         private List<T> LoadFile<T>(string path, Encoding encoding, char separator) where T : IReadText, new()
         {
@@ -62,7 +62,7 @@ namespace English.DataFiles
 
 
 
-        private void FillRulesVerbAndPronoun()
+        private void FillRulesVerbAndPronoun(List<RealTranslate> realTranslate)
         {
             RulesVerbAndPronouns = new List<RulesVerbAndPronoun>();
             foreach (var verb in Verbs)
@@ -71,24 +71,33 @@ namespace English.DataFiles
                 {
                     RulesVerbAndPronoun temp;
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Будущее, TypeOfASentences.Вопрос);
+                    temp.RealTranslate = realTranslate.FirstOrDefault(x => x.EnglishSentence == temp.GetLine());
                     RulesVerbAndPronouns.Add(temp);
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Будущее, TypeOfASentences.Отрицание);
+                    temp.RealTranslate = realTranslate.FirstOrDefault(x => x.EnglishSentence == temp.GetLine());
                     RulesVerbAndPronouns.Add(temp);
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Будущее, TypeOfASentences.Утверждение);
+                    temp.RealTranslate = realTranslate.FirstOrDefault(x => x.EnglishSentence == temp.GetLine());
                     RulesVerbAndPronouns.Add(temp);
 
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Настоящее, TypeOfASentences.Вопрос);
+                    temp.RealTranslate = realTranslate.FirstOrDefault(x => x.EnglishSentence == temp.GetLine());
                     RulesVerbAndPronouns.Add(temp);
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Настоящее, TypeOfASentences.Отрицание);
+                    temp.RealTranslate = realTranslate.FirstOrDefault(x => x.EnglishSentence == temp.GetLine());
                     RulesVerbAndPronouns.Add(temp);
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Настоящее, TypeOfASentences.Утверждение);
+                    temp.RealTranslate = realTranslate.FirstOrDefault(x => x.EnglishSentence == temp.GetLine());
                     RulesVerbAndPronouns.Add(temp);
 
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Прошедшее, TypeOfASentences.Вопрос);
+                    temp.RealTranslate = realTranslate.FirstOrDefault(x => x.EnglishSentence == temp.GetLine());
                     RulesVerbAndPronouns.Add(temp);
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Прошедшее, TypeOfASentences.Отрицание);
+                    temp.RealTranslate = realTranslate.FirstOrDefault(x => x.EnglishSentence == temp.GetLine());
                     RulesVerbAndPronouns.Add(temp);
                     temp = new RulesVerbAndPronoun(verb, pronoun, TimeOfASentence.Прошедшее, TypeOfASentences.Утверждение);
+                    temp.RealTranslate = realTranslate.FirstOrDefault(x => x.EnglishSentence == temp.GetLine());
                     RulesVerbAndPronouns.Add(temp);
                 }
             }
