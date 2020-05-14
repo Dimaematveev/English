@@ -58,6 +58,18 @@
     <Compile Include="Migrations\202005130809498_InitialCreate.designer.cs">
       <DependentUpon>202005130809498_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202005141839459_UpdateBase14052020.cs" />
+    <Compile Include="Migrations\202005141839459_UpdateBase14052020.designer.cs">
+      <DependentUpon>202005141839459_UpdateBase14052020.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202005141842450_UpdateBase14052020_1.cs" />
+    <Compile Include="Migrations\202005141842450_UpdateBase14052020_1.designer.cs">
+      <DependentUpon>202005141842450_UpdateBase14052020_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202005141853390_UpdateBase14052020_2.cs" />
+    <Compile Include="Migrations\202005141853390_UpdateBase14052020_2.designer.cs">
+      <DependentUpon>202005141853390_UpdateBase14052020_2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model\RealTranslate.cs" />
     <Compile Include="Model\Pronoun.cs" />
@@ -72,6 +84,15 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202005130809498_InitialCreate.resx">
       <DependentUpon>202005130809498_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005141839459_UpdateBase14052020.resx">
+      <DependentUpon>202005141839459_UpdateBase14052020.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005141842450_UpdateBase14052020_1.resx">
+      <DependentUpon>202005141842450_UpdateBase14052020_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005141853390_UpdateBase14052020_2.resx">
+      <DependentUpon>202005141853390_UpdateBase14052020_2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
