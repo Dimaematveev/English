@@ -68,8 +68,8 @@
     <Compile Include="LearnFirstScheme.xaml.cs">
       <DependentUpon>LearnFirstScheme.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ShowVerbs.xaml.cs">
-      <DependentUpon>ShowVerbs.xaml</DependentUpon>
+    <Compile Include="ShowTable.xaml.cs">
+      <DependentUpon>ShowTable.xaml</DependentUpon>
     </Compile>
     <Page Include="LearnFirstScheme.xaml">
       <SubType>Designer</SubType>
@@ -87,7 +87,7 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="ShowVerbs.xaml">
+    <Page Include="ShowTable.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

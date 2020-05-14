@@ -46,7 +46,7 @@ namespace English.WPF
 
         private void ShowList_Click<T>(IEnumerable<T> outPut) where T:class
         {
-            var form = new ShowVerbs(outPut.Select(x=>(object)x).ToList());
+            var form = new ShowTable(outPut.Select(x=>(object)x).ToList());
             form.ShowDialog();
         }
     }

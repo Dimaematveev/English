@@ -6,10 +6,10 @@ namespace English.WPF
     /// <summary>
     /// Логика взаимодействия для ShowVerbs.xaml
     /// </summary>
-    public partial class ShowVerbs : Window
+    public partial class ShowTable : Window
     {
         readonly List<object> ListObject;
-        public ShowVerbs(List<object> listObject)
+        public ShowTable(List<object> listObject)
         {
             InitializeComponent();
             ListObject = listObject;
