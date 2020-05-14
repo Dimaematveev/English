@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:English.WPF"
         mc:Ignorable="d"
-        Title="LearnFirstScheme" Height="249.45" Width="400">
+        Title="LearnFirstScheme" Height="260" Width="400">
 
     <Grid Margin="10">
         <Grid.ColumnDefinitions>
@@ -16,7 +16,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="20"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="0"/>
+            <RowDefinition Height="15"/>
 
             <RowDefinition Height="20"/>
             <RowDefinition Height="20"/>
@@ -28,8 +28,9 @@
 
         <TextBlock  x:Name="Number" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" TextWrapping="Wrap"/>
         
-        <TextBlock Text="Для подсказки нажмите (H)(DOWN), для Перевода нажмите (A)(UP), для следующего предложения нажмите (N)(RIGHT)" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3" TextWrapping="Wrap"/>
         
+        <TextBlock Text="Для подсказки нажмите (H)(DOWN), для Перевода нажмите (A)(UP), для следующего предложения нажмите (N)(RIGHT)" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3" TextWrapping="Wrap"/>
+        <CheckBox  x:Name="IRemember" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2" Content="Я помню глагол" IsThreeState="False" Click="IRemember_Click" />
 
         <TextBlock Text="Глагол:" Grid.Column="0" Grid.Row="3"/>
         <TextBox x:Name="Verb" Text="" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2"/>

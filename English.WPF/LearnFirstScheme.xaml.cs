@@ -38,6 +38,8 @@ namespace English.WPF
             Fall.Click += (s, e) => { Fall_Click(); };
 
             
+
+            
         }
 
         private void SelectAllWordWhatsNotLearned()
@@ -207,6 +209,22 @@ namespace English.WPF
         {
             Help.Visibility = Visibility.Hidden;
             Translated.Visibility = Visibility.Hidden;
+            if (IRemember.IsChecked == true)
+            {
+                Verb.Visibility = Visibility.Hidden;
+            }
+        }
+
+        private void IRemember_Click(object sender, RoutedEventArgs e)
+        {
+            if (IRemember.IsChecked == true)
+            {
+                Verb.Visibility = Visibility.Hidden;
+            }
+            else
+            {
+                Verb.Visibility = Visibility.Visible;
+            }
         }
     }
 }
