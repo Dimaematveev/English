@@ -14,7 +14,7 @@ namespace English.DB.Model
         public int IsLearnedRuEn { get; set; }
         public int IsLearnedEnRu { get; set; }
 
-        public RulesVerbAndPronoun RulesVerbAndPronoun { get; set; }
+        public virtual RulesVerbAndPronoun RulesVerbAndPronoun { get; set; }
 
         public RealTranslate(string englishSentence, string russianSentence, int isLearnedRuEn, int isLearnedEnRu, RulesVerbAndPronoun rulesVerbAndPronoun)
         {

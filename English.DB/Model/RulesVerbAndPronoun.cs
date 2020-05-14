@@ -16,7 +16,7 @@ namespace English.DB.Model
         public virtual Pronoun Pronoun { get; set; }
         public TimeOfASentence TimeOfASentence { get; set; }
         public TypeOfASentences TypeOfASentences { get; set; }
-        public RealTranslate RealTranslate { get; set; }
+        public virtual RealTranslate RealTranslate { get; set; }
         public RulesVerbAndPronoun(Verb verb, Pronoun pronoun,TimeOfASentence timeOfASentence, TypeOfASentences typeOfASentences, RealTranslate realTranslate)
         {
             Verb = verb;
