@@ -20,8 +20,35 @@ namespace English.WPF
             ShowPronouns.Click += (s, e) => { ShowList_Click(englishContext.Pronouns); };
             LearnFirstSheme.Click += LearnFirstSheme_Click;
 
+            LearnVerbs.Click += LearnVerbs_Click;
+            LearnPronouns.Click += LearnPronouns_Click;
+
             //Priz();
 
+        }
+
+        private void LearnPronouns_Click(object sender, RoutedEventArgs e)
+        {
+            var translateWorlds = new List<TranslateWorld>();
+            var vv = englishContext.Pronouns.ToList();
+            translateWorlds = vv.Select(x => new TranslateWorld($"{x.English}", x.Russian)).ToList();
+            Learn_Click(translateWorlds);
+        }
+
+        private void LearnVerbs_Click(object sender, RoutedEventArgs e)
+        {
+            var translateWorlds = new List<TranslateWorld>();
+            //translateWorlds = englishContext.Verbs.Select(x => new TranslateWorld() { EnglishWord = $"{x.EnglishWord} ({x.EnglishWord_Past})", RussianWord = x.RussialWord }).ToList();
+            var vv = englishContext.Verbs.ToList();
+            translateWorlds = vv.Select(v => new TranslateWorld($"{v.EnglishWord} ({v.EnglishWord_Past})", v.RussialWord)).ToList();
+
+            Learn_Click(translateWorlds);
+        }
+
+        private void Learn_Click(List<TranslateWorld> translateWorlds)
+        {
+            var form = new LearnWord(translateWorlds);
+            form.ShowDialog();
         }
 
         //private void Priz()

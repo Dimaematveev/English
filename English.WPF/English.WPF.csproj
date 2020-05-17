@@ -68,10 +68,17 @@
     <Compile Include="LearnFirstScheme.xaml.cs">
       <DependentUpon>LearnFirstScheme.xaml</DependentUpon>
     </Compile>
+    <Compile Include="LearnWord.xaml.cs">
+      <DependentUpon>LearnWord.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ShowTable.xaml.cs">
       <DependentUpon>ShowTable.xaml</DependentUpon>
     </Compile>
     <Page Include="LearnFirstScheme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LearnWord.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
