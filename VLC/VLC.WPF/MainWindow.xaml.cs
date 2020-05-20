@@ -104,7 +104,7 @@ namespace VLC.WPF
 
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
-            vlcLibDirectory = new DirectoryInfo(Path.Combine(@"D:\Дмитрий\source\repos\English\VLC", "libvlc", IntPtr.Size == 4 ? "win32" : "win64", "vlc-3.0.9.2"));
+            vlcLibDirectory = new DirectoryInfo(Path.Combine("..\\..\\..\\", "libvlc", IntPtr.Size == 4 ? "win32" : "win64", "vlc-3.0.9.2"));
             
             control = new VlcControl();
             ControlContainer.Content = control;
