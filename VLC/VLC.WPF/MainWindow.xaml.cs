@@ -41,13 +41,26 @@ namespace VLC.WPF
             ControlContainer.MouseDoubleClick += ControlContainer_MouseDoubleClick;
 
             Times.ValueChanged += Times_ValueChanged;
-            Times.PreviewMouseMove += Times_MouseMove;
+
+            PanelMenu.MouseEnter += PanelMenu_MouseEnter;
+            PanelMenu.MouseLeave += PanelMenu_MouseLeave; ;
             Closing += MainWindow_Closing;
         }
 
-        private void Times_MouseMove(object sender, System.Windows.Input.MouseEventArgs e)
+        private void PanelMenu_MouseLeave(object sender, System.Windows.Input.MouseEventArgs e)
         {
-            Times.Visibility = Visibility.Visible;
+            if (Max)
+            {
+                PanelMenu.Opacity = 0;
+            }
+        }
+
+        private void PanelMenu_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e)
+        {
+            if (Max)
+            {
+                PanelMenu.Opacity = 1;
+            }
         }
 
         private void Times_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
@@ -62,15 +75,14 @@ namespace VLC.WPF
             {
                 this.WindowStyle = WindowStyle.SingleBorderWindow;
                 this.WindowState = WindowState.Normal;
-                Times.Visibility = Visibility.Visible;
-
+                PanelMenu.Opacity = 1;
                 Max = false;
             }
             else
             {
                 this.WindowStyle = WindowStyle.None;
                 this.WindowState = WindowState.Maximized;
-                Times.Visibility = Visibility.Hidden;
+                PanelMenu.Opacity = 0;
                 Max = true;
             }
         }
