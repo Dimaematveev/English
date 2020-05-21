@@ -16,8 +16,7 @@
             <ContentControl.ContextMenu>
                 <ContextMenu>
                     <MenuItem x:Name="OpenFile" Header="Open File" />
-                    <MenuItem x:Name="Pause" Header="Pause" />
-                    <MenuItem x:Name="Play" Header="Play" />
+                    <MenuItem x:Name="PlayPause" Header="Play/Pause" />
                     <MenuItem x:Name="Rewind10" Header="Перемотка 10 с" />
                     <MenuItem  Header="Перемотка" >
                         <MenuItem x:Name="RewindBegin" Header="Задать начало"/>
@@ -33,13 +32,16 @@
             </Grid.RowDefinitions>
             <Grid Grid.Row="0">
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="50"/>
-                    <ColumnDefinition Width="50"/>
-                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
                 </Grid.ColumnDefinitions>
-                <Button x:Name="PlayBut" Content="Play" Grid.Column="0"/>
-                <Button x:Name="PauseBut" Content="Pause"  Grid.Column="1"/>
-                <Button x:Name="ResetBut" Content="Reset" Grid.Column="2"/>
+                <Button x:Name="PlayPauseBut" Content="Play/Pause" Grid.Column="0"/>
+                <Button x:Name="RewindBeginBut" Content="Задать начало" Grid.Column="1"/>
+                <Button x:Name="RewindBut" Content="Перемотка" Grid.Column="2"/>
+                <Button x:Name="Rewind10But" Content="Перемотка на 10 с" Grid.Column="3"/>
+                
             </Grid>
             <Grid Grid.Row="1">
                 <Grid.ColumnDefinitions>

@@ -7,6 +7,8 @@ using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
 using Vlc.DotNet.Wpf;
 
 namespace VLC.WPF
@@ -25,26 +27,38 @@ namespace VLC.WPF
         private long EndTime = -1;
         bool Max = false;
 
+       
         public MainWindow()
         {
             InitializeComponent();
 
             Loaded += MainWindow_Loaded;
 
+
             OpenFile.Click += (s, e) => { OpenFile_Click(); };
-            Play.Click += (s, e) => { Play_Click(); };
-            Pause.Click += (s, e) => { Pause_Click(); };
-            Rewind10.Click += (s, e) => { Rewind10_Click(); };
+
+            PlayPause.Click += (s, e) => { PlayPause_Click(); };
+            PlayPauseBut.Click += (s, e) => { PlayPause_Click(); };
+
+            
             Rewind.Click += (s, e) => { Rewind_Click(); };
+            RewindBut.Click += (s, e) => { Rewind_Click(); };
+
+            Rewind10.Click += (s, e) => { Rewind10_Click(); };
+            Rewind10But.Click += (s, e) => { Rewind10_Click(); };
+
             RewindBegin.Click += (s, e) => { RewindBegin_Click(); };
+            RewindBeginBut.Click += (s, e) => { RewindBegin_Click(); };
 
             ControlContainer.MouseDoubleClick += ControlContainer_MouseDoubleClick;
-
-            Times.ValueChanged += Times_ValueChanged;
-
+            //Times.ValueChanged += Times_ValueChanged;
             PanelMenu.MouseEnter += PanelMenu_MouseEnter;
-            PanelMenu.MouseLeave += PanelMenu_MouseLeave; ;
+            PanelMenu.MouseLeave += PanelMenu_MouseLeave;
+
             Closing += MainWindow_Closing;
+
+
+            
         }
 
         private void PanelMenu_MouseLeave(object sender, System.Windows.Input.MouseEventArgs e)
@@ -129,8 +143,22 @@ namespace VLC.WPF
         {
             Dispatcher.Invoke((Action)delegate
             {
-                Times.Minimum = 0;
-                Times.Maximum = control.SourceProvider.MediaPlayer.Length;
+                if (e.NewLength!=0)
+                {
+                    Times.Minimum = 0;
+                    Times.Maximum = control.SourceProvider.MediaPlayer.Length;
+                    TimeAll.Text = new TimeSpan(e.NewLength * 10000).ToString(@"hh\:mm\:ss");
+
+
+                    Binding binding = new Binding();
+
+                    binding.Source = control.SourceProvider; // элемент-источник
+                    binding.Mode = BindingMode.OneWay; // элемент-источник
+                    binding.Path = new PropertyPath("MediaPlayer.Time"); // свойство элемента-источника
+                    
+                    TimeLast.SetBinding(TextBlock.TextProperty, binding); // установка привязки для элемента-приемника
+                }
+                
             });
         }
 
@@ -162,10 +190,17 @@ namespace VLC.WPF
         
         private void MediaPlayer_TimeChanged(object sender, Vlc.DotNet.Core.VlcMediaPlayerTimeChangedEventArgs e)
         {
+            
             if (EndTime != -1 && e.NewTime>EndTime)
             {
-                Pause_Click();
+                PlayPause_Click();
             }
+
+            Dispatcher.Invoke((Action)delegate
+            {
+                Times.Value = e.NewTime;
+                TimeLast.Text = new TimeSpan(e.NewTime * 10000).ToString(@"hh\:mm\:ss");
+            });
         }
 
         private void MediaPlayer_Paused(object sender, Vlc.DotNet.Core.VlcMediaPlayerPausedEventArgs e)
@@ -178,7 +213,7 @@ namespace VLC.WPF
                     audio.Tracks.Current = audio.Tracks.All.ElementAt(1);
                     BeginTime = EndTime;
                     EndTime = -1;
-                    Play_Click();
+                    PlayPause_Click();
                 }
             }
         }
@@ -190,12 +225,8 @@ namespace VLC.WPF
             control?.Dispose();
         }
 
-        private void Play_Click()
-        {
-            control.SourceProvider.MediaPlayer.Play();
-        }
 
-        private void Pause_Click()
+        private void PlayPause_Click()
         {
             control.SourceProvider.MediaPlayer.Pause();
         }
