@@ -10,10 +10,8 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
         </Grid.RowDefinitions>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*"/>
-        </Grid.ColumnDefinitions>
         <ContentControl Grid.Row="0" Name="ControlContainer">
             <ContentControl.ContextMenu>
                 <ContextMenu>
@@ -28,7 +26,7 @@
                 </ContextMenu>
             </ContentControl.ContextMenu>
         </ContentControl>
-        <Grid x:Name="PanelMenu" Height="40" VerticalAlignment="Bottom" Background="WhiteSmoke">
+        <Grid x:Name="PanelMenu" Height="40" VerticalAlignment="Bottom" Background="WhiteSmoke" Grid.Row="1">
             <Grid.RowDefinitions>
                 <RowDefinition Height="20"/>
                 <RowDefinition Height="20"/>
